@@ -1,9 +1,0 @@
-<application>
-  <component name="WebServers">
-    <option name="servers">
-      <webServer id="d4a30640-b347-4d87-b649-cd79b469fa29" name="Remote Host (d4a30640-b347-4d87-b649-cd79b469fa29)" url="http:///">
-        <fileTransfer port="0" mountedRoot="Z:\dev\GIT\remote" accessType="MOUNT" />
-      </webServer>
-    </option>
-  </component>
-</application>
