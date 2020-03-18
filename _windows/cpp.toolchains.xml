@@ -1,7 +1,7 @@
 <application>
   <component name="CPPToolchains" version="4">
     <toolchains detectedVersion="5">
-      <toolchain name="Remote Host" toolSetKind="REMOTE" customCMakePath="\usr\bin\cmake" hostId="d4a30640-b347-4d87-b649-cd79b469fa29" debuggerKind="CUSTOM_GDB" customGDBPath="\usr\bin\gdb" />
+      <toolchain name="WSL" toolSetKind="WSL" toolSetPath="C:\Users\sjones\AppData\Local\Microsoft\WindowsApps\ubuntu.exe" customCMakePath="\usr\bin\cmake" hostId="233be188-bf9e-43e3-8e37-a8f12f26f1d3" debuggerKind="CUSTOM_GDB" customGDBPath="\usr\bin\gdb" />
     </toolchains>
   </component>
 </application>
