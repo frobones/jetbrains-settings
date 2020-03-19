@@ -6,7 +6,7 @@
           <option name="port" value="2222" />
         </fileTransfer>
       </webServer>
-      <webServer id="0cf53c6c-4d7b-42d8-9644-ef3d3d8cbce5" name="Remote Host (0cf53c6c-4d7b-42d8-9644-ef3d3d8cbce5)" url="http:///">
+      <webServer id="0cf53c6c-4d7b-42d8-9644-ef3d3d8cbce5" name="TWT (0cf53c6c-4d7b-42d8-9644-ef3d3d8cbce5)" url="http:///">
         <fileTransfer host="twt20918" port="22" accessType="SFTP">
           <option name="port" value="22" />
         </fileTransfer>
