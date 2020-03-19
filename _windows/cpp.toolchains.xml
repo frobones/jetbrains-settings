@@ -2,7 +2,6 @@
   <component name="CPPToolchains" version="4">
     <toolchains detectedVersion="5">
       <toolchain name="WSL" toolSetKind="WSL" toolSetPath="C:\Users\sjones\AppData\Local\Microsoft\WindowsApps\ubuntu.exe" customCMakePath="\usr\bin\cmake" hostId="233be188-bf9e-43e3-8e37-a8f12f26f1d3" debuggerKind="CUSTOM_GDB" customGDBPath="\usr\bin\gdb" />
-      <toolchain name="TWT" toolSetKind="REMOTE" customCMakePath="\usr\bin\cmake" hostId="0cf53c6c-4d7b-42d8-9644-ef3d3d8cbce5" debuggerKind="CUSTOM_GDB" customGDBPath="\usr\bin\gdb" />
     </toolchains>
   </component>
 </application>
