@@ -1,6 +1,9 @@
 <application>
   <component name="GitToolBoxAppSettings2">
-    <option name="showEditorInlineBlame" value="false" />
+    <option name="absoluteDateTimeStyle" value="DMY_TIME" />
+    <option name="blameInlineAuthorNameType" value="FULL" />
+    <option name="blameInlineDateType" value="RELATIVE" />
+    <option name="blameStatusAuthorNameType" value="FULL" />
     <option name="decorationParts">
       <list>
         <DecorationPartConfig>
@@ -19,7 +22,23 @@
         </DecorationPartConfig>
       </list>
     </option>
-    <option name="blameInlineDateType" value="RELATIVE" />
+    <option name="extrasConfig">
+      <ExtrasConfig>
+        <option name="autoFetchEnabledOverride">
+          <BoolConfigOverride>
+            <option name="enabled" value="true" />
+            <option name="value" value="true" />
+          </BoolConfigOverride>
+        </option>
+        <option name="autoFetchOnBranchSwitchOverride">
+          <BoolConfigOverride>
+            <option name="enabled" value="true" />
+            <option name="value" value="true" />
+          </BoolConfigOverride>
+        </option>
+      </ExtrasConfig>
+    </option>
     <option name="previousVersionMigrated" value="true" />
+    <option name="showEditorInlineBlame" value="false" />
   </component>
 </application>
