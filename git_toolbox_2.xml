@@ -26,12 +26,26 @@
       <ExtrasConfig>
         <option name="autoFetchEnabledOverride">
           <BoolConfigOverride>
+            <option name="applied">
+              <list>
+                <AppliedConfigOverride>
+                  <option name="projectPath" value="C:\Users\sjones\CLionProjects\prc-158-port\sources\tww-iface" />
+                </AppliedConfigOverride>
+              </list>
+            </option>
             <option name="enabled" value="true" />
             <option name="value" value="true" />
           </BoolConfigOverride>
         </option>
         <option name="autoFetchOnBranchSwitchOverride">
           <BoolConfigOverride>
+            <option name="applied">
+              <list>
+                <AppliedConfigOverride>
+                  <option name="projectPath" value="C:\Users\sjones\CLionProjects\prc-158-port\sources\tww-iface" />
+                </AppliedConfigOverride>
+              </list>
+            </option>
             <option name="enabled" value="true" />
             <option name="value" value="true" />
           </BoolConfigOverride>
