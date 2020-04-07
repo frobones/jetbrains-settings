@@ -1,7 +1,7 @@
 <application>
   <component name="CPPToolchains" version="4">
     <toolchains detectedVersion="5">
-      <toolchain name="TWT-remote" toolSetKind="REMOTE" customCMakePath="\usr\bin\cmake" customMakePath="/usr/bin/make" customCCompilerPath="/opt/qnx650/host/linux/x86/usr/bin/arm-unknown-nto-qnx6.5.0eabi-gcc" customCXXCompilerPath="/opt/qnx650/host/linux/x86/usr/bin/arm-unknown-nto-qnx6.5.0eabi-g++" hostId="5a4b4bc4-288c-44e5-88ab-d4b75e136859" debuggerKind="CUSTOM_GDB" customGDBPath="\opt\qnx650\host\linux\x86\usr\bin\ntoarmv7-gdb" />
+      <toolchain name="TWT-QNX-remote" toolSetKind="REMOTE" customCMakePath="\usr\bin\cmake" customMakePath="/usr/bin/make" customCCompilerPath="/opt/qnx650/host/linux/x86/usr/bin/arm-unknown-nto-qnx6.5.0eabi-gcc" customCXXCompilerPath="/opt/qnx650/host/linux/x86/usr/bin/arm-unknown-nto-qnx6.5.0eabi-g++" hostId="5a4b4bc4-288c-44e5-88ab-d4b75e136859" debuggerKind="CUSTOM_GDB" customGDBPath="\opt\qnx650\host\linux\x86\usr\bin\ntoarmv7-gdb" />
       <toolchain name="WSL" toolSetKind="WSL" toolSetPath="C:\Users\sjones\AppData\Local\Microsoft\WindowsApps\ubuntu.exe" customCMakePath="\usr\bin\cmake" hostId="233be188-bf9e-43e3-8e37-a8f12f26f1d3" debuggerKind="CUSTOM_GDB" customGDBPath="\usr\bin\gdb" />
     </toolchains>
   </component>

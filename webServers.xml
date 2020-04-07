@@ -15,7 +15,7 @@
         </fileTransfer>
       </webServer>
       <webServer id="5a4b4bc4-288c-44e5-88ab-d4b75e136859" name="TWT-QNX-remote (5a4b4bc4-288c-44e5-88ab-d4b75e136859)" url="http:///">
-        <fileTransfer host="twt20918" port="2222" rootFolder="/tmp" accessType="SFTP">
+        <fileTransfer host="twt20918" port="2222" rootFolder="/home/sjones/dev/GIT/remote/prc-158-port/sources" accessType="SFTP">
           <option name="port" value="2222" />
         </fileTransfer>
       </webServer>
