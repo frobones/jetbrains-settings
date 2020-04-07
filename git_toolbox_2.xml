@@ -31,6 +31,9 @@
                 <AppliedConfigOverride>
                   <option name="projectPath" value="C:\Users\sjones\CLionProjects\prc-158-port\sources\tww-iface" />
                 </AppliedConfigOverride>
+                <AppliedConfigOverride>
+                  <option name="projectPath" value="C:\Users\sjones\CLionProjects\prc-158-port\sources" />
+                </AppliedConfigOverride>
               </list>
             </option>
             <option name="enabled" value="true" />
@@ -43,6 +46,9 @@
               <list>
                 <AppliedConfigOverride>
                   <option name="projectPath" value="C:\Users\sjones\CLionProjects\prc-158-port\sources\tww-iface" />
+                </AppliedConfigOverride>
+                <AppliedConfigOverride>
+                  <option name="projectPath" value="C:\Users\sjones\CLionProjects\prc-158-port\sources" />
                 </AppliedConfigOverride>
               </list>
             </option>
