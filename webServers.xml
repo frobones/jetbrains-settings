@@ -1,14 +1,6 @@
 <application>
   <component name="WebServers">
     <option name="servers">
-      <webServer id="a8ebf962-be25-420e-ac36-bccdade114d9" name="TWT-remote" url="http://twt20918">
-        <fileTransfer host="twt20918" port="22" rootFolder="/home/sjones/dev/GIT/remote/prc-158-port" accessType="SFTP">
-          <advancedOptions>
-            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
-          </advancedOptions>
-          <option name="port" value="22" />
-        </fileTransfer>
-      </webServer>
       <webServer id="233be188-bf9e-43e3-8e37-a8f12f26f1d3" name="WSL (233be188-bf9e-43e3-8e37-a8f12f26f1d3)" url="http:///">
         <fileTransfer host="localhost" port="2222" accessType="SFTP">
           <option name="port" value="2222" />
