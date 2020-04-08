@@ -36,7 +36,6 @@
                 </AppliedConfigOverride>
               </list>
             </option>
-            <option name="enabled" value="true" />
             <option name="value" value="true" />
           </BoolConfigOverride>
         </option>
@@ -52,7 +51,6 @@
                 </AppliedConfigOverride>
               </list>
             </option>
-            <option name="enabled" value="true" />
             <option name="value" value="true" />
           </BoolConfigOverride>
         </option>
