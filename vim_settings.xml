@@ -62,15 +62,16 @@
       <shortcut-conflict owner="vim">
         <text>ctrl pressed W</text>
       </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed K</text>
+      </shortcut-conflict>
     </shortcut-conflicts>
   </component>
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/tww-iface/eud.cpp" timestamp="1586559240147">
-        <mark key="[" line="69" column="0" />
-        <mark key="]" line="69" column="0" />
-        <mark key="." line="69" column="0" />
+      <file name="/Dummy.txt" timestamp="1586986719953">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/libtwtos/CMakeLists.txt" timestamp="1586915835995">
         <mark key="[" line="51" column="28" />
@@ -102,6 +103,8 @@
         <mark key="^" line="5" column="27" />
         <mark key="." line="5" column="27" />
       </file>
+      <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/waveformd/src/waveformd_common.cpp" timestamp="1586986513946" />
+      <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/waveformd/src/main.cpp" timestamp="1586986490481" />
       <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/libtwtos/src/qnx/moc-DbgBase.cpp" timestamp="1586815304485">
         <mark key="[" line="29" column="5" />
         <mark key="]" line="25" column="13" />
