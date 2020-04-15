@@ -1,6 +1,18 @@
 <application>
-  <component name="VimSettings">
-    <state version="5" enabled="true" />
+  <component name="VimEditorSettings">
+    <editor />
+  </component>
+  <component name="VimHistorySettings">
+    <history>
+      <history-search>
+        <entry>check_pin</entry>
+      </history-search>
+      <history-cmd />
+      <history-expr />
+      <history-input />
+    </history>
+  </component>
+  <component name="VimKeySettings">
     <shortcut-conflicts>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed B</text>
@@ -51,7 +63,147 @@
         <text>ctrl pressed W</text>
       </shortcut-conflict>
     </shortcut-conflicts>
-    <editor />
+  </component>
+  <component name="VimMarksSettings">
+    <globalmarks />
+    <filemarks>
+      <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/tww-iface/eud.cpp" timestamp="1586559240147">
+        <mark key="[" line="69" column="0" />
+        <mark key="]" line="69" column="0" />
+        <mark key="." line="69" column="0" />
+      </file>
+      <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/libtwtos/CMakeLists.txt" timestamp="1586915835995">
+        <mark key="[" line="51" column="28" />
+        <mark key="]" line="52" column="0" />
+        <mark key="." line="52" column="0" />
+        <mark key="^" line="41" column="9" />
+      </file>
+      <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/qnx-pandaboard/src/hardware/startup/boards/omap4430/panda.build" timestamp="1586564271919">
+        <mark key="[" line="300" column="0" />
+        <mark key="]" line="300" column="0" />
+        <mark key="^" line="293" column="19" />
+        <mark key="." line="300" column="0" />
+      </file>
+      <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/libtwtos/src/qnx/moc-DbgBase.c" timestamp="1586812859872">
+        <mark key="'" line="13" column="47" />
+        <mark key="[" line="13" column="47" />
+        <mark key="]" line="13" column="48" />
+        <mark key="." line="13" column="48" />
+      </file>
+      <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/libtwtos/src/qnx/MocDbg.cpp" timestamp="1586913851637">
+        <mark key="[" line="43" column="57" />
+        <mark key="]" line="43" column="0" />
+        <mark key="." line="43" column="0" />
+        <mark key="^" line="41" column="53" />
+      </file>
+      <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/CMakeLists.txt" timestamp="1586913741803">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="5" column="27" />
+        <mark key="^" line="5" column="27" />
+        <mark key="." line="5" column="27" />
+      </file>
+      <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/libtwtos/src/qnx/moc-DbgBase.cpp" timestamp="1586815304485">
+        <mark key="[" line="29" column="5" />
+        <mark key="]" line="25" column="13" />
+        <mark key="." line="25" column="13" />
+        <mark key="^" line="25" column="13" />
+      </file>
+      <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/falcon3/include/DbgBase.h" timestamp="1586831708181">
+        <mark key="[" line="106" column="13" />
+        <mark key="]" line="183" column="83" />
+        <mark key="^" line="183" column="83" />
+        <mark key="." line="183" column="83" />
+      </file>
+      <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/libtwtos/src/qnx/syslog-dbg-wrapper.cpp" timestamp="1586915579373">
+        <mark key="[" line="51" column="0" />
+        <mark key="]" line="51" column="0" />
+        <mark key="." line="51" column="0" />
+        <mark key="^" line="103" column="44" />
+      </file>
+      <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/libtwtos/src/qnx/MocDbg.hpp" timestamp="1586913797113">
+        <mark key="[" line="13" column="58" />
+        <mark key="]" line="13" column="59" />
+        <mark key="." line="13" column="59" />
+      </file>
+      <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/libtwtos/test/MocDbgOutputTests.cpp" timestamp="1586900433894">
+        <mark key="[" line="57" column="59" />
+        <mark key="]" line="65" column="0" />
+        <mark key="." line="65" column="0" />
+      </file>
+      <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/libtwtos/test/MocDbgUnitTests.cpp" timestamp="1586826709622">
+        <mark key="[" line="46" column="0" />
+        <mark key="]" line="46" column="0" />
+        <mark key="." line="46" column="0" />
+      </file>
+      <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/libtwtos/test/CMakeLists.txt" timestamp="1586983014902">
+        <mark key="[" line="111" column="0" />
+        <mark key="]" line="111" column="0" />
+        <mark key="." line="111" column="0" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="63" column="0" filename="$USER_HOME$/CLionProjects/prc-158-port/sources/nvppfs/src/qnx/main-qnx.cpp" />
+      <jump line="209" column="8" filename="$USER_HOME$/CLionProjects/prc-158-port/sources/tww-iface-utils/moc-ethFrameIpcChanEP.cpp" />
+      <jump line="355" column="15" filename="$USER_HOME$/CLionProjects/prc-158-port/sources/tww-iface/eud.cpp" />
+      <jump line="330" column="0" filename="$USER_HOME$/CLionProjects/prc-158-port/sources/tww-iface/eud.cpp" />
+      <jump line="307" column="4" filename="$USER_HOME$/CLionProjects/prc-158-port/sources/tww-iface/tww.cpp" />
+      <jump line="13" column="47" filename="$USER_HOME$/CLionProjects/prc-158-port/sources/libtwtos/src/qnx/moc-DbgBase.c" />
+    </jumps>
+  </component>
+  <component name="VimRegisterSettings">
+    <registers>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="-" type="4">
+        <text>v</text>
+      </register>
+      <register name="/" type="4">
+        <text>check_pin</text>
+      </register>
+      <register name="0" type="2">
+        <text encoding="base64">dGFyZ2V0X2xpbmtfbGlicmFyaWVzIChkYmcgUFVCTElDCiAgICBkYmdmYWN0b3J5X2xpYnJhcmllcwogICAgbmJ1dGlsCikKCg==</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICBpbnN0YWxsIChUQVJHRVRTIG1vYy1kYmctb3V0cHV0LXRlc3QgREVTVElOQVRJT04gJHtDTUFLRV9JTlNUQUxMX0JJTkRJUn0pCg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIGRiZ2ZhY3RvcnlfbGlicmFyaWVzCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">I2luY2x1ZGUgPGNzdGRsaWI+Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">I2luY2x1ZGUgPGNzdGRpbz4K</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">I2luY2x1ZGUgPGFycmF5Pgo=</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIHN0ZDo6c3RyaW5nIGxvZyA9ICIgIiArIHN0ZDo6c3RyaW5nKGZvcm1hdCkgKyAiXG4iOwo=</text>
+      </register>
+    </registers>
+  </component>
+  <component name="VimSearchSettings">
+    <search>
+      <last-search>check_pin</last-search>
+      <last-offset />
+      <last-pattern>check_pin</last-pattern>
+      <last-dir>1</last-dir>
+      <show-last>false</show-last>
+    </search>
+  </component>
+  <component name="VimSettings">
+    <state version="6" enabled="true" />
     <notifications>
       <idea-join enabled="false" />
       <idea-put enabled="false" />
