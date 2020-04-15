@@ -114,11 +114,11 @@
         <mark key="^" line="183" column="83" />
         <mark key="." line="183" column="83" />
       </file>
-      <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/libtwtos/src/qnx/syslog-dbg-wrapper.cpp" timestamp="1586915579373">
-        <mark key="[" line="51" column="0" />
-        <mark key="]" line="51" column="0" />
-        <mark key="." line="51" column="0" />
+      <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/libtwtos/src/qnx/syslog-dbg-wrapper.cpp" timestamp="1586983312771">
+        <mark key="[" line="123" column="0" />
+        <mark key="]" line="123" column="0" />
         <mark key="^" line="103" column="44" />
+        <mark key="." line="123" column="0" />
       </file>
       <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/libtwtos/src/qnx/MocDbg.hpp" timestamp="1586913797113">
         <mark key="[" line="13" column="58" />
@@ -168,28 +168,28 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBpbnN0YWxsIChUQVJHRVRTIG1vYy1kYmctb3V0cHV0LXRlc3QgREVTVElOQVRJT04gJHtDTUFLRV9JTlNUQUxMX0JJTkRJUn0pCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGRiZ2ZhY3RvcnlfbGlicmFyaWVzCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">I2luY2x1ZGUgPGNzdGRsaWI+Cg==</text>
+        <text encoding="base64">dm9pZCB2c3lzbG9nKGludCBwcmlvcml0eSwgY29uc3QgY2hhciAqZm9ybWF0LCB2YV9saXN0IGFwKSB7Cg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">I2luY2x1ZGUgPGNzdGRpbz4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">I2luY2x1ZGUgPGFycmF5Pgo=</text>
+        <text encoding="base64">ICBpbnN0YWxsIChUQVJHRVRTIG1vYy1kYmctb3V0cHV0LXRlc3QgREVTVElOQVRJT04gJHtDTUFLRV9JTlNUQUxMX0JJTkRJUn0pCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHN0ZDo6c3RyaW5nIGxvZyA9ICIgIiArIHN0ZDo6c3RyaW5nKGZvcm1hdCkgKyAiXG4iOwo=</text>
+        <text encoding="base64">ICAgIGRiZ2ZhY3RvcnlfbGlicmFyaWVzCg==</text>
       </register>
     </registers>
   </component>
