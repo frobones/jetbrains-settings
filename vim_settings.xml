@@ -70,6 +70,9 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/libbrn/libbrn.cpp" timestamp="1587166641485">
+        <mark key="'" line="19" column="18" />
+      </file>
       <file name="/Dummy.txt" timestamp="1586986719953">
         <mark key="[" line="0" column="0" />
       </file>
@@ -158,6 +161,7 @@
       <jump line="330" column="0" filename="$USER_HOME$/CLionProjects/prc-158-port/sources/tww-iface/eud.cpp" />
       <jump line="307" column="4" filename="$USER_HOME$/CLionProjects/prc-158-port/sources/tww-iface/tww.cpp" />
       <jump line="13" column="47" filename="$USER_HOME$/CLionProjects/prc-158-port/sources/libtwtos/src/qnx/moc-DbgBase.c" />
+      <jump line="19" column="18" filename="$USER_HOME$/CLionProjects/prc-158-port/sources/libbrn/libbrn.cpp" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
