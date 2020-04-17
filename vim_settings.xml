@@ -125,8 +125,11 @@
         <mark key="^" line="103" column="44" />
         <mark key="." line="123" column="0" />
       </file>
-      <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/qnx-pandaboard/early_configuration.json" timestamp="1587085554019">
-        <mark key="[" line="4" column="38" />
+      <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/qnx-pandaboard/early_configuration.json" timestamp="1587086827470">
+        <mark key="[" line="6" column="6" />
+        <mark key="]" line="6" column="32" />
+        <mark key="^" line="6" column="32" />
+        <mark key="." line="6" column="31" />
       </file>
       <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/libtwtos/src/qnx/MocDbg.hpp" timestamp="1586913797113">
         <mark key="[" line="13" column="58" />
@@ -161,7 +164,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAiaXB2NF9hZGRyIjogIjE5Mi4xNjguMTAwLjEvMjQiCg==</text>
       </register>
       <register name="-" type="4">
         <text>v</text>
@@ -170,7 +173,7 @@
         <text>check_pin</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">dGFyZ2V0X2xpbmtfbGlicmFyaWVzIChkYmcgUFVCTElDCiAgICBkYmdmYWN0b3J5X2xpYnJhcmllcwogICAgbmJ1dGlsCikKCg==</text>
+        <text encoding="base64">ICAgICAgICAiaXB2NF9hZGRyIjogIjE5Mi4xNjguMTAwLjEvMjQiCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
