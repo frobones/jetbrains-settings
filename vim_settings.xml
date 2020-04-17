@@ -118,18 +118,16 @@
         <mark key="^" line="183" column="83" />
         <mark key="." line="183" column="83" />
       </file>
-      <file name="$USER_HOME$/.CLion2019.3/system/.remote/twt20918_2222/5a4b4bc4-288c-44e5-88ab-d4b75e136859/opt/qnx650/target/qnx6/usr/include/net/ethertypes.h" timestamp="1587084903718" />
       <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/libtwtos/src/qnx/syslog-dbg-wrapper.cpp" timestamp="1586983312771">
         <mark key="[" line="123" column="0" />
         <mark key="]" line="123" column="0" />
         <mark key="^" line="103" column="44" />
         <mark key="." line="123" column="0" />
       </file>
-      <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/qnx-pandaboard/early_configuration.json" timestamp="1587086827470">
-        <mark key="[" line="6" column="6" />
-        <mark key="]" line="6" column="32" />
-        <mark key="^" line="6" column="32" />
-        <mark key="." line="6" column="31" />
+      <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/qnx-pandaboard/early_configuration.json" timestamp="1587156314279">
+        <mark key="[" line="5" column="39" />
+        <mark key="]" line="5" column="39" />
+        <mark key="." line="5" column="39" />
       </file>
       <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/libtwtos/src/qnx/MocDbg.hpp" timestamp="1586913797113">
         <mark key="[" line="13" column="58" />
@@ -163,11 +161,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAiaXB2NF9hZGRyIjogIjE5Mi4xNjguMTAwLjEvMjQiCg==</text>
+      <register name="&quot;" type="4">
+        <text>,</text>
       </register>
       <register name="-" type="4">
-        <text>v</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text>check_pin</text>
@@ -176,31 +174,31 @@
         <text encoding="base64">ICAgICAgICAiaXB2NF9hZGRyIjogIjE5Mi4xNjguMTAwLjEvMjQiCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAiaXB2Nl9hZGRyIjogIjIwMDE6OjEvOTYiCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">dm9pZCB2c3lzbG9nKGludCBwcmlvcml0eSwgY29uc3QgY2hhciAqZm9ybWF0LCB2YV9saXN0IGFwKSB7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">dm9pZCB2c3lzbG9nKGludCBwcmlvcml0eSwgY29uc3QgY2hhciAqZm9ybWF0LCB2YV9saXN0IGFwKSB7Cg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBpbnN0YWxsIChUQVJHRVRTIG1vYy1kYmctb3V0cHV0LXRlc3QgREVTVElOQVRJT04gJHtDTUFLRV9JTlNUQUxMX0JJTkRJUn0pCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGRiZ2ZhY3RvcnlfbGlicmFyaWVzCg==</text>
+        <text encoding="base64">ICBpbnN0YWxsIChUQVJHRVRTIG1vYy1kYmctb3V0cHV0LXRlc3QgREVTVElOQVRJT04gJHtDTUFLRV9JTlNUQUxMX0JJTkRJUn0pCg==</text>
       </register>
     </registers>
   </component>
