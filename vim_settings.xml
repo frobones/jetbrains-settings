@@ -125,6 +125,9 @@
         <mark key="^" line="103" column="44" />
         <mark key="." line="123" column="0" />
       </file>
+      <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/qnx-pandaboard/early_configuration.json" timestamp="1587085554019">
+        <mark key="[" line="4" column="38" />
+      </file>
       <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/libtwtos/src/qnx/MocDbg.hpp" timestamp="1586913797113">
         <mark key="[" line="13" column="58" />
         <mark key="]" line="13" column="59" />
