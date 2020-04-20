@@ -94,6 +94,12 @@
         <mark key="]" line="13" column="48" />
         <mark key="." line="13" column="48" />
       </file>
+      <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/files/waveform-control/4000000-adap-override.conf" timestamp="1587423233077">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="16" column="45" />
+        <mark key="^" line="16" column="45" />
+        <mark key="." line="16" column="44" />
+      </file>
       <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/libtwtos/src/qnx/MocDbg.cpp" timestamp="1586913851637">
         <mark key="[" line="43" column="57" />
         <mark key="]" line="43" column="0" />
@@ -147,6 +153,12 @@
         <mark key="]" line="46" column="0" />
         <mark key="." line="46" column="0" />
       </file>
+      <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/files/waveform-control/1200000-adap-override.conf" timestamp="1587423154755">
+        <mark key="[" line="50" column="44" />
+        <mark key="]" line="50" column="45" />
+        <mark key="." line="50" column="44" />
+        <mark key="^" line="50" column="45" />
+      </file>
       <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/libtwtos/test/CMakeLists.txt" timestamp="1586983014902">
         <mark key="[" line="111" column="0" />
         <mark key="]" line="111" column="0" />
@@ -165,8 +177,8 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>,</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">aW5pdF9waHlfcnhfYWNxX2Vhcmx5X3N0YXJ0X29mZnNldF9zYW1wbGVzPTgzOTgKaW5pdF9waHlfdHhfZWFybHlfc3RhcnRfb2Zmc2V0XzBfc2FtcGxlcz03NjcwCg==</text>
       </register>
       <register name="-" type="4">
         <text>,</text>
@@ -178,31 +190,31 @@
         <text encoding="base64">ICAgICAgICAiaXB2NF9hZGRyIjogIjE5Mi4xNjguMTAwLjEvMjQiCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAiaXB2Nl9hZGRyIjogIjIwMDE6OjEvOTYiCg==</text>
+        <text encoding="base64">aW5pdF9waHlfcnhfYWNxX2Vhcmx5X3N0YXJ0X29mZnNldF9zYW1wbGVzPTgzOTgKaW5pdF9waHlfdHhfZWFybHlfc3RhcnRfb2Zmc2V0XzBfc2FtcGxlcz03NjcwCg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">ICAgICAgICAiaXB2Nl9hZGRyIjogIjIwMDE6OjEvOTYiCg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">dm9pZCB2c3lzbG9nKGludCBwcmlvcml0eSwgY29uc3QgY2hhciAqZm9ybWF0LCB2YV9saXN0IGFwKSB7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">dm9pZCB2c3lzbG9nKGludCBwcmlvcml0eSwgY29uc3QgY2hhciAqZm9ybWF0LCB2YV9saXN0IGFwKSB7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBpbnN0YWxsIChUQVJHRVRTIG1vYy1kYmctb3V0cHV0LXRlc3QgREVTVElOQVRJT04gJHtDTUFLRV9JTlNUQUxMX0JJTkRJUn0pCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
     </registers>
   </component>
