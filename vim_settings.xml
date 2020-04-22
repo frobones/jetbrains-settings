@@ -95,10 +95,9 @@
         <mark key="." line="13" column="48" />
       </file>
       <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/files/waveform-control/4000000-adap-override.conf" timestamp="1587423233077">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="16" column="45" />
-        <mark key="^" line="16" column="45" />
-        <mark key="." line="16" column="44" />
+        <mark key="]" line="5" column="45" />
+        <mark key="^" line="5" column="45" />
+        <mark key="." line="5" column="44" />
       </file>
       <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/libtwtos/src/qnx/MocDbg.cpp" timestamp="1586913851637">
         <mark key="[" line="43" column="57" />
@@ -154,10 +153,10 @@
         <mark key="." line="46" column="0" />
       </file>
       <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/files/waveform-control/1200000-adap-override.conf" timestamp="1587423154755">
-        <mark key="[" line="50" column="44" />
-        <mark key="]" line="50" column="45" />
-        <mark key="." line="50" column="44" />
-        <mark key="^" line="50" column="45" />
+        <mark key="[" line="38" column="44" />
+        <mark key="]" line="38" column="45" />
+        <mark key="." line="38" column="44" />
+        <mark key="^" line="38" column="45" />
       </file>
       <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/libtwtos/test/CMakeLists.txt" timestamp="1586983014902">
         <mark key="[" line="111" column="0" />
