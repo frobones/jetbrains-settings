@@ -107,6 +107,7 @@
         <mark key="^" line="125" column="9" />
         <mark key="." line="125" column="8" />
       </file>
+      <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/tww-iface-utils/CMakeLists.txt" timestamp="1587528804199" />
       <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/tww-iface/HarrisIpcWrapper.cpp" timestamp="1587527174294">
         <mark key="[" line="55" column="42" />
         <mark key="]" line="50" column="41" />
@@ -146,11 +147,6 @@
         <mark key="[" line="57" column="59" />
         <mark key="]" line="65" column="0" />
         <mark key="." line="65" column="0" />
-      </file>
-      <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/libtwtos/test/MocDbgUnitTests.cpp" timestamp="1586826709622">
-        <mark key="[" line="46" column="0" />
-        <mark key="]" line="46" column="0" />
-        <mark key="." line="46" column="0" />
       </file>
       <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/files/waveform-control/1200000-adap-override.conf" timestamp="1587423154755">
         <mark key="[" line="38" column="44" />
