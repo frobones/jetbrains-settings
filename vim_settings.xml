@@ -113,10 +113,10 @@
         <mark key="." line="67" column="0" />
         <mark key="^" line="51" column="4" />
       </file>
-      <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/tww-iface/tww.cpp" timestamp="1587591585544">
-        <mark key="[" line="202" column="0" />
-        <mark key="]" line="202" column="0" />
-        <mark key="." line="202" column="0" />
+      <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/tww-iface/tww.cpp" timestamp="1587592110021">
+        <mark key="[" line="200" column="25" />
+        <mark key="]" line="200" column="25" />
+        <mark key="." line="200" column="25" />
       </file>
       <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/hiawatha/CMakeLists.txt" timestamp="1587588151581" />
       <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/tww-iface/HarrisIpcWrapper.hpp" timestamp="1587586614823">
@@ -174,11 +174,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGhhcnJpc19yZWFkX2NoYW4gPSAK</text>
+      <register name="&quot;" type="4">
+        <text>-</text>
       </register>
       <register name="-" type="4">
-        <text>w</text>
+        <text>-</text>
       </register>
       <register name="/" type="4">
         <text>start</text>
