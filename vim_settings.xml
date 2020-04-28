@@ -71,6 +71,7 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/libtwtos/CMakeLists.txt" timestamp="1588111404308" />
       <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/libtwtos/src/qnx/MocDbg.cpp" timestamp="1588110930118">
         <mark key="[" line="28" column="36" />
         <mark key="]" line="28" column="36" />
@@ -105,11 +106,13 @@
         <mark key="." line="227" column="27" />
       </file>
       <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/falcon3/include/DbgBase.h" timestamp="1588110120854" />
-      <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/libtwtos/src/qnx/MocDbg.hpp" timestamp="1588110811897">
-        <mark key="[" line="27" column="2" />
-        <mark key="]" line="27" column="2" />
-        <mark key="." line="27" column="2" />
+      <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/libtwtos/src/qnx/MocDbg.hpp" timestamp="1588111620035">
+        <mark key="[" line="10" column="66" />
+        <mark key="]" line="10" column="14" />
+        <mark key="." line="10" column="13" />
+        <mark key="^" line="10" column="14" />
       </file>
+      <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/libtwtos/test/CMakeLists.txt" timestamp="1588111371455" />
     </filemarks>
     <jumps>
       <jump line="63" column="0" filename="$USER_HOME$/CLionProjects/prc-158-port/sources/nvppfs/src/qnx/main-qnx.cpp" />
@@ -127,8 +130,8 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>;</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICB2b2lkIEhleER1bXAoIGNvbnN0IHZvaWQgKiBkYXRhLCBpbnQgbGVuLCBib29sIGJpZ0VuZGlhbikgY29uc3Qge30K</text>
       </register>
       <register name="-" type="4">
         <text>;</text>
@@ -140,31 +143,31 @@
         <text encoding="base64">ICAgIHByaW50ZigiUExVUyBVTFRSQSFcbiIpOwogICAgZnByaXRuZihzdGRlcnIsIkkgQU0gSEVSRSFcbiIpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICB2b2lkIEhleER1bXAoIGNvbnN0IHZvaWQgKiBkYXRhLCBpbnQgbGVuLCBib29sIGJpZ0VuZGlhbikgY29uc3Qge30K</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">dm9pZCBEYmdCYXNlOjpIZXhEdW1wKCBjb25zdCB2b2lkICogZGF0YSwgaW50IGxlbiwgYm9vbCBiaWdFbmRpYW4pIGNvbnN0IHt9Cg==</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">dm9pZCBEYmdCYXNlOjpIZXhEdW1wKCBjb25zdCB2b2lkICogZGF0YSwgaW50IGxlbiwgYm9vbCBiaWdFbmRpYW4pIGNvbnN0IHt9Cg==</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">dm9pZCBjaGVja19mcmFtZSgpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">I2luY2x1ZGUgPG5ldGluZXQvaXAuaD4K</text>
+        <text encoding="base64">dm9pZCBjaGVja19mcmFtZSgpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">I2luY2x1ZGUgPG5ldGluZXQvaW4uaD4K</text>
+        <text encoding="base64">I2luY2x1ZGUgPG5ldGluZXQvaXAuaD4K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">I2luY2x1ZGUgPG5ldGluZXQvaWNtcDYuaD4K</text>
+        <text encoding="base64">I2luY2x1ZGUgPG5ldGluZXQvaW4uaD4K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">I2luY2x1ZGUgPG5ldGluZXQvaXBfaWNtcC5oPgo=</text>
+        <text encoding="base64">I2luY2x1ZGUgPG5ldGluZXQvaWNtcDYuaD4K</text>
       </register>
     </registers>
   </component>
