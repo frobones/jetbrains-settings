@@ -102,11 +102,11 @@
       <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/wren-waveform-services/test/twt-tsm-data-loopback/src/twt-tsm-data-loopback-device.cpp" timestamp="1588127554157">
         <mark key="[" line="49" column="61" />
       </file>
-      <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/tww-iface-utils/moc-bgpp.cpp" timestamp="1588199283292">
-        <mark key="[" line="133" column="4" />
-        <mark key="]" line="133" column="38" />
-        <mark key="^" line="133" column="38" />
-        <mark key="." line="133" column="37" />
+      <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/tww-iface-utils/moc-bgpp.cpp" timestamp="1588201107906">
+        <mark key="[" line="137" column="30" />
+        <mark key="]" line="137" column="30" />
+        <mark key="^" line="140" column="31" />
+        <mark key="." line="137" column="30" />
       </file>
     </filemarks>
     <jumps>
@@ -125,17 +125,17 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHNsZWVwKDIpOwo=</text>
+      <register name="&quot;" type="4">
+        <text>a</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text>a</text>
       </register>
       <register name="/" type="4">
         <text>start</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHNsZWVwKDIpOwogICAgZnByaW50ZihzdGRlcnIsICJDbGVhbnVwIEFcbiIpOwo=</text>
+        <text encoding="base64">ICAgIGZwcmludGYoc3RkZXJyLCAiQ2xlYW51cCBBYVxuIik7Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIHNsZWVwKDIpOwo=</text>
