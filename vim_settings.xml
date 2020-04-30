@@ -66,36 +66,40 @@
       <shortcut-conflict owner="vim">
         <text>ctrl pressed K</text>
       </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed Y</text>
+      </shortcut-conflict>
     </shortcut-conflicts>
   </component>
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/qnx-pandaboard/files/early_configuration.json" timestamp="1588282310895">
+        <mark key="[" line="11" column="2" />
+        <mark key="]" line="7" column="8" />
+        <mark key="^" line="7" column="8" />
+        <mark key="." line="7" column="7" />
+      </file>
       <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/libtwtos/src/qnx/MocDbg.cpp" timestamp="1588120587655">
         <mark key="[" line="28" column="0" />
         <mark key="]" line="28" column="0" />
         <mark key="." line="28" column="0" />
         <mark key="^" line="28" column="30" />
       </file>
-      <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/twtipcd/src/twtipcdparms.hpp" timestamp="1588208092042" />
       <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/iperf/src/iperf_tcp.c" timestamp="1587778456280">
         <mark key="[" line="86" column="0" />
         <mark key="]" line="87" column="35" />
         <mark key="." line="86" column="0" />
       </file>
-      <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/libtwtipc/src/ipc_packet.hpp" timestamp="1588208508277" />
       <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/tww-iface-utils/CMakeLists.txt" timestamp="1588205261768">
         <mark key="[" line="96" column="0" />
         <mark key="]" line="55" column="4" />
         <mark key="." line="55" column="3" />
         <mark key="^" line="55" column="4" />
       </file>
-      <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/twtipcd/CMakeLists.txt" timestamp="1588208019778" />
       <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/libtwtipc/src/twt_ipc.cpp" timestamp="1588207460785">
         <mark key="'" line="147" column="0" />
       </file>
-      <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/libtwtipc/src/ipcmsgheaders.cpp" timestamp="1588208559785" />
-      <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/twtipcd/src/MacSocketParameters.hpp" timestamp="1588208148392" />
       <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/iperf/src/iperf_udp.c" timestamp="1588043064482">
         <mark key="[" line="481" column="25" />
         <mark key="]" line="228" column="35" />
@@ -141,7 +145,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICJ0c21fY29uZmlnIjogewogICAgICAgICJtYWNfYWRkciI6ICIwMjo1ZToxNjpjNTo3ODpkMCIsCiAgICAgICAgImlwdjRfYWRkciI6ICIxOTIuMTY4LjEwMC4xLzI0IgogICAgfSwK</text>
       </register>
       <register name="-" type="4">
         <text>a</text>
@@ -150,7 +154,7 @@
         <text>start</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGZwcmludGYoc3RkZXJyLCAiQ2xlYW51cCBBYVxuIik7Cg==</text>
+        <text encoding="base64">ICAgICJ0c21fY29uZmlnIjogewogICAgICAgICJtYWNfYWRkciI6ICIwMjo1ZToxNjpjNTo3ODpkMCIsCiAgICAgICAgImlwdjRfYWRkciI6ICIxOTIuMTY4LjEwMC4xLzI0IgogICAgfSwK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
