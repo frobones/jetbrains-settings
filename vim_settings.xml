@@ -74,11 +74,11 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/qnx-pandaboard/files/early_configuration.json" timestamp="1588283740282">
-        <mark key="[" line="9" column="35" />
-        <mark key="]" line="8" column="23" />
+      <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/qnx-pandaboard/files/early_configuration.json" timestamp="1588283937754">
+        <mark key="[" line="8" column="36" />
+        <mark key="]" line="8" column="37" />
         <mark key="^" line="8" column="23" />
-        <mark key="." line="8" column="22" />
+        <mark key="." line="8" column="37" />
       </file>
       <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/libtwtos/src/qnx/MocDbg.cpp" timestamp="1588120587655">
         <mark key="[" line="28" column="0" />
