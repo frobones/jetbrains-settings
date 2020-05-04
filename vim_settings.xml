@@ -88,8 +88,10 @@
         <mark key="." line="28" column="0" />
         <mark key="^" line="28" column="30" />
       </file>
-      <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/tww-iface/twt_iface_data_forwarder.hpp" timestamp="1588630065143">
-        <mark key="[" line="72" column="51" />
+      <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/tww-iface/twt_iface_data_forwarder.hpp" timestamp="1588631107362">
+        <mark key="[" line="87" column="0" />
+        <mark key="]" line="87" column="0" />
+        <mark key="." line="87" column="0" />
       </file>
       <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/iperf/src/iperf_tcp.c" timestamp="1587778456280">
         <mark key="[" line="86" column="0" />
@@ -103,8 +105,8 @@
         <mark key="^" line="55" column="4" />
       </file>
       <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/tww-iface/twt_iface_data_forwarder.cpp" timestamp="1588630287224">
-        <mark key="i" line="72" column="0" />
-        <mark key="[" line="72" column="0" />
+        <mark key="i" line="82" column="0" />
+        <mark key="[" line="82" column="0" />
       </file>
       <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/libtwtipc/src/twt_ipc.cpp" timestamp="1588377606555">
         <mark key="'" line="147" column="0" />
@@ -127,6 +129,7 @@
         <mark key="^" line="116" column="12" />
         <mark key="." line="116" column="11" />
       </file>
+      <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/libtwtos/src/MsgQue.cpp" timestamp="1588630959454" />
       <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/libtwtos/src/qnx/MocDbg.hpp" timestamp="1588116344462">
         <mark key="[" line="10" column="0" />
         <mark key="]" line="10" column="0" />
@@ -147,6 +150,7 @@
         <mark key="." line="53" column="41" />
         <mark key="^" line="53" column="42" />
       </file>
+      <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/libtwtos/include/libtwtos/MsgQue.hpp" timestamp="1588631001947" />
     </filemarks>
     <jumps>
       <jump line="63" column="0" filename="$USER_HOME$/CLionProjects/prc-158-port/sources/nvppfs/src/qnx/main-qnx.cpp" />
@@ -166,7 +170,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHRocmVhZF9jcmVhdGUoJnRocmVhZF9zZW5kX2ZyYW1lX3RvX21hYywgTlVMTCwgc2VuZF9mcmFtZV90b19tYWMsIG0pOwo=</text>
+        <text encoding="base64">ICAgIHN0ZDo6c3RyaW5nIG1fcW5hbWU7Cg==</text>
       </register>
       <register name="-" type="4">
         <text>T</text>
@@ -178,31 +182,31 @@
         <text encoding="base64">ICAgICAgICAgICAgcHRocmVhZF9jcmVhdGUoJnRocmVhZF9zZW5kX2ZyYW1lX3RvX21hYywgTlVMTCwgc2VuZF9mcmFtZV90b19tYWMsIG0pOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHN0ZDo6c3RyaW5nIG1fcW5hbWU7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBzZW5kX2ZyYW1lX3RvX21hYyhtKTsK</text>
+        <text encoding="base64">ICAgIG1xZF90IG1xOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBzZW5kX2ZyYW1lX3RvX21hYyhtKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGZwcmludGYoc3RkZXJyLCAiU2V0dGluZyBIYXJyaXMgcmVhZCBjaGFubmVsIHRvICVzXG4iLCBoYXJyaXNfcmVhZF9jaGFuLmNfc3RyKCkpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldCA9IElwY0NoYW5uZWw6OkNyZWF0ZShoYXJyaXNfcmVhZF9jaGFuLmNfc3RyKCksIFdyZW46OkJSTl9UT19NQUNfREFUQV9DSEFOX1NJWkUpOwogICAgICAgICAgICAgICAgaWYgKHJldCAhPSBFT0sgJiYgcmV0ICE9IC1FRVhJU1QpCiAgICAgICAgICAgICAgICAgICAgZnByaW50ZihzdGRlcnIsICJGYWlsZWQgdG8gY3JlYXRlIEhhcnJpcyBSZWFkIElQQyBDaGFubmVsWyVzXSA6OiBlcnJubz0lZFxuIiwgaGFycmlzX3JlYWRfY2hhbi5jX3N0cigpLCByZXQpOwogICAgICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGludCByZXQ7CiAgICAgICAgICAgICAgICByZXQgPSBJcGNDaGFubmVsOjpDcmVhdGUoaGFycmlzX3dyaXRlX2NoYW4uY19zdHIoKSwgV3Jlbjo6QlJOX1RPX01BQ19EQVRBX0NIQU5fU0laRSk7CiAgICAgICAgICAgICAgICBpZiAocmV0ICE9IEVPSyAmJiByZXQgIT0gLUVFWElTVCkKICAgICAgICAgICAgICAgICAgICBmcHJpbnRmKHN0ZGVyciwgIkZhaWxlZCB0byBjcmVhdGUgSGFycmlzIFdyaXRlIElQQyBDaGFubmVsWyVzXSA6OiBlcnJubz0lZFxuIiwgaGFycmlzX3dyaXRlX2NoYW4uY19zdHIoKSwgcmV0KTsKCiAgICAgICAgICAgICAgICByZXQgPSBJcGNDaGFubmVsOjpDcmVhdGUoaGFycmlzX3JlYWRfY2hhbi5jX3N0cigpLCBXcmVuOjpCUk5fVE9fTUFDX0RBVEFfQ0hBTl9TSVpFKTsKICAgICAgICAgICAgICAgIGlmIChyZXQgIT0gRU9LICYmIHJldCAhPSAtRUVYSVNUKQogICAgICAgICAgICAgICAgICAgIGZwcmludGYoc3RkZXJyLCAiRmFpbGVkIHRvIGNyZWF0ZSBIYXJyaXMgUmVhZCBJUEMgQ2hhbm5lbFslc10gOjogZXJybm89JWRcbiIsIGhhcnJpc19yZWFkX2NoYW4uY19zdHIoKSwgcmV0KTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGZwcmludGYoc3RkZXJyLCAiU2V0dGluZyBIYXJyaXMgcmVhZCBjaGFubmVsIHRvICVzXG4iLCBoYXJyaXNfcmVhZF9jaGFuLmNfc3RyKCkpOwo=</text>
       </register>
     </registers>
   </component>
