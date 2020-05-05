@@ -103,12 +103,7 @@
       <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/libtwtipc/src/twt_ipc.cpp" timestamp="1588377606555">
         <mark key="'" line="147" column="0" />
       </file>
-      <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/tww-iface/tww.cpp" timestamp="1588721316125">
-        <mark key="[" line="314" column="0" />
-        <mark key="]" line="314" column="0" />
-        <mark key="^" line="319" column="15" />
-        <mark key="." line="314" column="0" />
-      </file>
+      <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/tww-iface/tww.cpp" timestamp="1588721377192" />
       <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/iperf/src/iperf_udp.c" timestamp="1588043064482">
         <mark key="[" line="481" column="25" />
         <mark key="]" line="228" column="35" />
