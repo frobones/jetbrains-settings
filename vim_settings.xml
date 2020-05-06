@@ -112,7 +112,12 @@
         <mark key="'" line="563" column="41" />
       </file>
       <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/nvppfs/src/nvp_syslog.hpp" timestamp="1588803932143" />
-      <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/nvppfs/src/nvppfs.cpp" timestamp="1588804728636" />
+      <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/nvppfs/src/nvppfs.cpp" timestamp="1588806921039">
+        <mark key="[" line="202" column="44" />
+        <mark key="]" line="202" column="49" />
+        <mark key="^" line="202" column="49" />
+        <mark key="." line="202" column="48" />
+      </file>
       <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/wren-waveform-services/test/twt-tsm-data-loopback/src/twt-tsm-data-loopback-device.cpp" timestamp="1588127554157">
         <mark key="[" line="49" column="61" />
       </file>
@@ -128,7 +133,10 @@
         <mark key="." line="53" column="41" />
         <mark key="^" line="53" column="42" />
       </file>
-      <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/nvppfs/src/qnx/ramdisk/c_mount.cpp" timestamp="1588802445750" />
+      <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/nvppfs/src/qnx/ramdisk/c_mount.cpp" timestamp="1588805809419">
+        <mark key="[" line="83" column="0" />
+        <mark key="]" line="83" column="101" />
+      </file>
       <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/nvppfs/src/qnx/ramdisk/ramdisk_ops.cpp" timestamp="1588804740009" />
       <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/libtwtos/include/libtwtos/MsgQue.hpp" timestamp="1588651539179">
         <mark key="[" line="62" column="0" />
@@ -156,7 +164,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHN0cnVjdCB0d3dfZGV2ICp0d3cgPSBpZnAtPmlmX3NvZnRjOwo=</text>
+        <text encoding="base64">ICAgICAgICBzeXNsb2coTE9HX0RFQlVHLCAiJXMgJWQ6ICBudnBwZnNfbW91bnRfY29ubiByZXF1ZXN0IG5vdCBzdXBwb3J0ZWQgeWV0IiwgX19GSUxFX18sIF9fTElORV9fKTsK</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
@@ -165,7 +173,7 @@
         <text>start</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGF1dG8gdHd3ID0gc3RhdGljX2Nhc3Q8c3RydWN0IHR3d19kZXYgKj4oaWZwLT5pZl9zb2Z0Yyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBzeXNsb2coTE9HX0RFQlVHLCAiJXMgJWQ6ICBudnBwZnNfbW91bnRfY29ubiByZXF1ZXN0IG5vdCBzdXBwb3J0ZWQgeWV0IiwgX19GSUxFX18sIF9fTElORV9fKTsK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIHN0cnVjdCB0d3dfZGV2ICp0d3cgPSBpZnAtPmlmX3NvZnRjOwo=</text>
