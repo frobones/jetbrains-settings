@@ -98,7 +98,7 @@
       <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/tww-iface/twt_iface_data_forwarder.hpp" timestamp="1588640514886">
         <mark key="[" line="49" column="27" />
       </file>
-      <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/nvppfs/src/nvp_syslog.cpp" timestamp="1588803855557" />
+      <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/nvppfs/src/nvp_syslog.cpp" timestamp="1588803968773" />
       <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/tww-iface-utils/CMakeLists.txt" timestamp="1588205261768">
         <mark key="[" line="96" column="0" />
         <mark key="]" line="55" column="4" />
@@ -112,13 +112,7 @@
         <mark key="'" line="563" column="41" />
       </file>
       <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/nvppfs/src/nvp_syslog.hpp" timestamp="1588803932143" />
-      <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/libtwtos/src/qnx/syslog-dbg-wrapper.cpp" timestamp="1588116892487">
-        <mark key="[" line="116" column="5" />
-        <mark key="]" line="116" column="12" />
-        <mark key="^" line="116" column="12" />
-        <mark key="." line="116" column="11" />
-      </file>
-      <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/nvppfs/src/nvppfs.cpp" timestamp="1588803929709" />
+      <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/nvppfs/src/nvppfs.cpp" timestamp="1588804728636" />
       <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/wren-waveform-services/test/twt-tsm-data-loopback/src/twt-tsm-data-loopback-device.cpp" timestamp="1588127554157">
         <mark key="[" line="49" column="61" />
       </file>
@@ -135,6 +129,7 @@
         <mark key="^" line="53" column="42" />
       </file>
       <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/nvppfs/src/qnx/ramdisk/c_mount.cpp" timestamp="1588802445750" />
+      <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/nvppfs/src/qnx/ramdisk/ramdisk_ops.cpp" timestamp="1588804740009" />
       <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/libtwtos/include/libtwtos/MsgQue.hpp" timestamp="1588651539179">
         <mark key="[" line="62" column="0" />
         <mark key="]" line="62" column="0" />
