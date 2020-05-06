@@ -74,7 +74,7 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/libbrn/libbrn.cpp" timestamp="1588798317766">
+      <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/libbrn/libbrn.cpp" timestamp="1588802366170">
         <mark key="[" line="480" column="4" />
         <mark key="]" line="480" column="19" />
         <mark key="^" line="480" column="19" />
@@ -85,6 +85,7 @@
         <mark key="]" line="251" column="0" />
         <mark key="." line="251" column="0" />
       </file>
+      <file name="$USER_HOME$/.CLion2019.3/system/.remote/twt20918_2222/5a4b4bc4-288c-44e5-88ab-d4b75e136859/opt/qnx650/target/qnx6/usr/include/sys/resmgr.h" timestamp="1588802426649" />
       <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/qnx-pandaboard/files/early_configuration.json" timestamp="1588388491706">
         <mark key="[" line="5" column="38" />
       </file>
@@ -141,6 +142,7 @@
         <mark key="." line="53" column="41" />
         <mark key="^" line="53" column="42" />
       </file>
+      <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/nvppfs/src/qnx/ramdisk/c_mount.cpp" timestamp="1588802445750" />
       <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/libtwtos/include/libtwtos/MsgQue.hpp" timestamp="1588651539179">
         <mark key="[" line="62" column="0" />
         <mark key="]" line="62" column="0" />
