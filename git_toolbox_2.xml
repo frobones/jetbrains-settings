@@ -58,5 +58,6 @@
     </option>
     <option name="previousVersionMigrated" value="true" />
     <option name="showEditorInlineBlame" value="false" />
+    <option name="version" value="2" />
   </component>
 </application>
