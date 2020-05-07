@@ -74,11 +74,11 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/libbrn/libbrn.cpp" timestamp="1588802366170">
-        <mark key="[" line="480" column="4" />
-        <mark key="]" line="480" column="19" />
-        <mark key="^" line="480" column="19" />
-        <mark key="." line="480" column="18" />
+      <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/libbrn/libbrn.cpp" timestamp="1588812967076">
+        <mark key="[" line="493" column="27" />
+        <mark key="]" line="493" column="6" />
+        <mark key="." line="493" column="5" />
+        <mark key="^" line="493" column="6" />
       </file>
       <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/tww-iface/eud.cpp" timestamp="1588298443524">
         <mark key="[" line="251" column="0" />
@@ -88,12 +88,6 @@
       <file name="$USER_HOME$/.CLion2019.3/system/.remote/twt20918_2222/5a4b4bc4-288c-44e5-88ab-d4b75e136859/opt/qnx650/target/qnx6/usr/include/sys/resmgr.h" timestamp="1588802426649" />
       <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/qnx-pandaboard/files/early_configuration.json" timestamp="1588388491706">
         <mark key="[" line="5" column="38" />
-      </file>
-      <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/libtwtos/src/qnx/MocDbg.cpp" timestamp="1588120587655">
-        <mark key="[" line="28" column="0" />
-        <mark key="]" line="28" column="0" />
-        <mark key="." line="28" column="0" />
-        <mark key="^" line="28" column="30" />
       </file>
       <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/tww-iface/twt_iface_data_forwarder.hpp" timestamp="1588640514886">
         <mark key="[" line="49" column="27" />
@@ -118,6 +112,7 @@
         <mark key="^" line="205" column="31" />
         <mark key="." line="208" column="0" />
       </file>
+      <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/libbrn/libbrn.h" timestamp="1588812805881" />
       <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/wren-waveform-services/test/twt-tsm-data-loopback/src/twt-tsm-data-loopback-device.cpp" timestamp="1588127554157">
         <mark key="[" line="49" column="61" />
       </file>
@@ -171,7 +166,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBmcHJpbnRmKHN0ZGVyciwgIkRcbiIpOwo=</text>
+        <text encoding="base64">ICAgIHNlcnZpY2UucnVubmluZyA9IGZhbHNlOwo=</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
@@ -180,34 +175,34 @@
         <text>start</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBmcHJpbnRmKHN0ZGVyciwgIkFcbiIpOwo=</text>
+        <text encoding="base64">ICAgIGZvcihpbnQgaSA9IDA7IGkgPCBzZXJ2aWNlLmFyZ3VtZW50cy5zaXplKCk7ICsraSkKICAgIHsKICAgICAgICBhcmd2W2FyZ2ldID0gc2VydmljZS5hcmd1bWVudHNbaV0uY19zdHIoKTsKICAgICAgICBhcmdpKys7CiAgICB9CiAgICBhcmd2W2FyZ2ldID0gTlVMTDsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBmcHJpbnRmKHN0ZGVyciwgIkRcbiIpOwo=</text>
+        <text encoding="base64">ICAgIHNlcnZpY2UucnVubmluZyA9IGZhbHNlOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBmcHJpbnRmKHN0ZGVyciwgIkNcbiIpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBmcHJpbnRmKHN0ZGVyciwgIkJcbiIpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBmcHJpbnRmKHN0ZGVyciwgIkFcbiIpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGlmKCFtbnRfdHlwZSB8fCBzdHJjbXAobW50X3R5cGUsIE9VUl9NT1VOVF9TVFJJTkcpKSB7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGlmKCFtbnRfdHlwZSB8fCAoc3RyY21wKG1udF90eXBlLCBPVVJfTU9VTlRfU1RSSU5HKSAmJiAhKGV4dHJhLT5mbGFncyAmIF9NT1VOVF9VTk1PVU5UKSkpIHsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGlmKCFtbnRfdHlwZSB8fCAoc3RyY21wKG1udF90eXBlLCBPVVJfTU9VTlRfU1RSSU5HKSAmJiAhKGV4dHJhLT5mbGFncyAmIF9NT1VOVF9VTk1PVU5UKSkpIHsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBzcGF3bnZwKFBfTk9XQUlULCBmaWxlbmFtZSwgY29uc3RfY2FzdDxjaGFyKiBjb25zdCo+KGFyZ3YpKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHN0cnVjdCB0d3dfZGV2ICp0d3cgPSBpZnAtPmlmX3NvZnRjOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBhcmd2W2FyZ2ldID0gTlVMTDsK</text>
       </register>
     </registers>
   </component>
