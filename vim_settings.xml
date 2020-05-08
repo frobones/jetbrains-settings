@@ -74,10 +74,10 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/libbrn/libbrn.cpp" timestamp="1588896531761">
-        <mark key="[" line="420" column="0" />
-        <mark key="]" line="421" column="20" />
-        <mark key="." line="421" column="19" />
+      <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/libbrn/libbrn.cpp" timestamp="1588898495717">
+        <mark key="[" line="525" column="37" />
+        <mark key="]" line="544" column="5" />
+        <mark key="." line="526" column="0" />
         <mark key="^" line="421" column="20" />
       </file>
       <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/tww-iface/eud.cpp" timestamp="1588298443524">
@@ -162,7 +162,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGZwcmludGYoc3RkZXJyLCAiIikK</text>
+        <text encoding="base64">ICAgIGNvbnN0IHNpemVfdCBidWZmZXJTaXplID0gMTAyNDsKICAgIGNoYXIgYnVmZmVyW2J1ZmZlclNpemVdID0geyAwIH07CiAgICBjb25zdCBpbnQgdGltZW91dCA9IDMwOwogICAgaWYocmVjZWl2ZU5vdGlmaWNhdGlvbihzZXJ2aWNlLnNvY2tldCwgYnVmZmVyLCBidWZmZXJTaXplLCB0aW1lb3V0ICogMTAwMCkpCiAgICB7CiAgICAgICAgaWYoc3RybmNtcCgiUkVBRFk9MSIsIGJ1ZmZlciwgYnVmZmVyU2l6ZSkgPT0gMCkKICAgICAgICB7CiAgICAgICAgICAgIHN0ZDo6Y291dCA8PCAiUkVBRFkhIiA8PCBzdGQ6OmVuZGw7CiAgICAgICAgICAgIHNlcnZpY2UucmVhZHkgPSB0cnVlOwogICAgICAgIH0KICAgICAgICBlbHNlCiAgICAgICAgewogICAgICAgICAgICBzdGQ6OmNvdXQgPDwgIkVSUk9SISIgPDwgc3RkOjplbmRsOwogICAgICAgIH0KICAgIH0KICAgIGVsc2UKICAgIHsKICAgICAgICBzdGQ6OmNvdXQgPDwgInRpbWVvdXQhIiA8PCBzdGQ6OmVuZGw7CiAgICB9Cg==</text>
       </register>
       <register name="-" type="4">
         <text>{</text>
@@ -171,7 +171,7 @@
         <text>start</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc3RkOjpjb3V0IDw8ICJUZXJtaW5hdGluZyBzZXJ2aWNlOiAiIDw8IHNlcnZpY2UtPm5hbWUgPDwgc3RkOjplbmRsOwo=</text>
+        <text encoding="base64">ICAgIGNvbnN0IHNpemVfdCBidWZmZXJTaXplID0gMTAyNDsKICAgIGNoYXIgYnVmZmVyW2J1ZmZlclNpemVdID0geyAwIH07CiAgICBjb25zdCBpbnQgdGltZW91dCA9IDMwOwogICAgaWYocmVjZWl2ZU5vdGlmaWNhdGlvbihzZXJ2aWNlLnNvY2tldCwgYnVmZmVyLCBidWZmZXJTaXplLCB0aW1lb3V0ICogMTAwMCkpCiAgICB7CiAgICAgICAgaWYoc3RybmNtcCgiUkVBRFk9MSIsIGJ1ZmZlciwgYnVmZmVyU2l6ZSkgPT0gMCkKICAgICAgICB7CiAgICAgICAgICAgIHN0ZDo6Y291dCA8PCAiUkVBRFkhIiA8PCBzdGQ6OmVuZGw7CiAgICAgICAgICAgIHNlcnZpY2UucmVhZHkgPSB0cnVlOwogICAgICAgIH0KICAgICAgICBlbHNlCiAgICAgICAgewogICAgICAgICAgICBzdGQ6OmNvdXQgPDwgIkVSUk9SISIgPDwgc3RkOjplbmRsOwogICAgICAgIH0KICAgIH0KICAgIGVsc2UKICAgIHsKICAgICAgICBzdGQ6OmNvdXQgPDwgInRpbWVvdXQhIiA8PCBzdGQ6OmVuZGw7CiAgICB9Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIGZwcmludGYoc3RkZXJyLCAiIikK</text>
