@@ -74,10 +74,11 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/libbrn/libbrn.cpp" timestamp="1588979317990">
-        <mark key="[" line="544" column="34" />
-        <mark key="]" line="549" column="0" />
-        <mark key="." line="549" column="0" />
+      <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/libbrn/libbrn.cpp" timestamp="1588979901872">
+        <mark key="[" line="545" column="34" />
+        <mark key="]" line="542" column="29" />
+        <mark key="." line="542" column="28" />
+        <mark key="^" line="542" column="29" />
       </file>
       <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/tww-iface/eud.cpp" timestamp="1588298443524">
         <mark key="[" line="251" column="0" />
