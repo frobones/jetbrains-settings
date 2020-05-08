@@ -75,10 +75,7 @@
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/libbrn/libbrn.cpp" timestamp="1588978219785">
-        <mark key="[" line="558" column="0" />
-        <mark key="]" line="558" column="0" />
-        <mark key="." line="558" column="0" />
-        <mark key="^" line="555" column="51" />
+        <mark key="^" line="553" column="51" />
       </file>
       <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/tww-iface/eud.cpp" timestamp="1588298443524">
         <mark key="[" line="251" column="0" />
