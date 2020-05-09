@@ -7,6 +7,7 @@
       <history-search>
         <entry>check_pin</entry>
         <entry>start</entry>
+        <entry>spawnPr</entry>
       </history-search>
       <history-cmd />
       <history-expr />
@@ -74,11 +75,12 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/libbrn/libbrn.cpp" timestamp="1589001089363">
-        <mark key="[" line="518" column="36" />
-        <mark key="]" line="520" column="79" />
-        <mark key="." line="520" column="78" />
-        <mark key="^" line="520" column="79" />
+      <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/libbrn/libbrn.cpp" timestamp="1589002295582">
+        <mark key="'" line="463" column="4" />
+        <mark key="[" line="569" column="15" />
+        <mark key="]" line="569" column="17" />
+        <mark key="." line="569" column="16" />
+        <mark key="^" line="569" column="17" />
       </file>
       <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/tww-iface/eud.cpp" timestamp="1588298443524">
         <mark key="[" line="251" column="0" />
@@ -160,56 +162,59 @@
       <jump line="84" column="0" filename="$USER_HOME$/CLionProjects/prc-158-port/sources/tww-iface/HarrisIpcWrapper.cpp" />
       <jump line="147" column="0" filename="$USER_HOME$/CLionProjects/prc-158-port/sources/libtwtipc/src/twt_ipc.cpp" />
       <jump line="563" column="41" filename="$USER_HOME$/CLionProjects/prc-158-port/sources/libtwtipc/src/twt_ipc.cpp" />
+      <jump line="544" column="0" filename="$USER_HOME$/CLionProjects/prc-158-port/sources/libbrn/libbrn.cpp" />
+      <jump line="567" column="15" filename="$USER_HOME$/CLionProjects/prc-158-port/sources/libbrn/libbrn.cpp" />
+      <jump line="463" column="4" filename="$USER_HOME$/CLionProjects/prc-158-port/sources/libbrn/libbrn.cpp" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBraWxsKHBpZCArIDEsIFNJR0tJTEwpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>start</text>
+        <text>spawnPr</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBraWxsKHBpZCArIDEsIFNJR1RFUk0pOyAgLy8gc2VuZCBTSUdURVJNIHRvIGFjdHVhbCBwaWQgb2YgbnZwcGZzLCBub3Qgc2VydmljZS1sYXVuY2hlcgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBraWxsKHBpZCArIDEsIFNJR0tJTEwpOwo=</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfSBlbHNlIHsK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB9Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgLy8gTm90IHN1cmUgaWYgd2Ugc2hvdWxkIHdhaXRGb3JSZWFwU2VydmljZSgqc2VydmljZSk7IGhlcmUK</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgaW50IHBpZCA9IHNlcnZpY2UtPnBpZDsgIC8vIHNhdmUgUElEIGZvciBsYXRlcgo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBraWxsKHBpZCArIDEsIFNJR0tJTEwpOyAgLy8gc2VuZCBTSUdLSUxMIHRvIGFjdHVhbCBwaWQgb2YgbnZwcGZzLCBub3Qgc2VydmljZS1sYXVuY2hlcgo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBraWxsKHBpZCArIDEsIFNJR1RFUk0pOyAgLy8gc2VuZCBTSUdURVJNIHRvIGFjdHVhbCBwaWQgb2YgbnZwcGZzLCBub3Qgc2VydmljZS1sYXVuY2hlcgo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIChzZXJ2aWNlLT5uYW1lID09ICJudnBwZnMiKSB7Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBraWxsKHBpZCArIDEsIFNJR0tJTEwpOwo=</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAga2lsbFNlcnZpY2UoKnNlcnZpY2UpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgc3RkOjpjb3V0IDw8ICIoU1BFQ0lBTCkgS2lsbGluZyBzZXJ2aWNlIDogIiA8PCBzZXJ2aWNlLT5uYW1lIDw8IHN0ZDo6ZW5kbDsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgfSBlbHNlIHsK</text>
       </register>
     </registers>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>start</last-search>
+      <last-search>spawnPr</last-search>
       <last-offset />
-      <last-pattern>start</last-pattern>
+      <last-pattern>spawnPr</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
