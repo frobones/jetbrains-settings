@@ -8,6 +8,7 @@
         <entry>check_pin</entry>
         <entry>start</entry>
         <entry>spawnPr</entry>
+        <entry>killed</entry>
       </history-search>
       <history-cmd />
       <history-expr />
@@ -75,12 +76,12 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/libbrn/libbrn.cpp" timestamp="1589007395488">
-        <mark key="'" line="438" column="0" />
-        <mark key="[" line="558" column="105" />
-        <mark key="]" line="559" column="31" />
-        <mark key="." line="559" column="30" />
-        <mark key="^" line="559" column="31" />
+      <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/libbrn/libbrn.cpp" timestamp="1589007564634">
+        <mark key="'" line="538" column="77" />
+        <mark key="[" line="427" column="53" />
+        <mark key="]" line="427" column="57" />
+        <mark key="." line="427" column="56" />
+        <mark key="^" line="427" column="57" />
       </file>
       <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/libbrn/brntest.cpp" timestamp="1589005934087">
         <mark key="[" line="33" column="0" />
@@ -177,21 +178,22 @@
       <jump line="567" column="15" filename="$USER_HOME$/CLionProjects/prc-158-port/sources/libbrn/libbrn.cpp" />
       <jump line="463" column="4" filename="$USER_HOME$/CLionProjects/prc-158-port/sources/libbrn/libbrn.cpp" />
       <jump line="438" column="0" filename="$USER_HOME$/CLionProjects/prc-158-port/sources/libbrn/libbrn.cpp" />
+      <jump line="538" column="77" filename="$USER_HOME$/CLionProjects/prc-158-port/sources/libbrn/libbrn.cpp" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBzZXJ2aWNlLnBnaWQgPSAtMTsK</text>
+        <text encoding="base64">ICAgICAgICBzdGQ6OmNvdXQgPDwgIlByb2Nlc3NbIiA8PCBzZXJ2aWNlLnBpZCA8PCAiXSBraWxsZWQiIDw8IHN0ZDo6ZW5kbDsK</text>
       </register>
       <register name="-" type="4">
         <text>g</text>
       </register>
       <register name="/" type="4">
-        <text>spawnPr</text>
+        <text>killed</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2VydmljZS0+cHJpdmlsZWdlZCA/IEtpbGxwZ0JyblByaXZpbGVnZWRQcm9jZXNzKHNlcnZpY2UtPnBnaWQsIFNJR1RFUk0pIDoga2lsbHBnKHNlcnZpY2UtPnBnaWQsIFNJR1RFUk0pOwo=</text>
+        <text encoding="base64">ICAgICAgICBzdGQ6OmNvdXQgPDwgIlByb2Nlc3NbIiA8PCBzZXJ2aWNlLnBpZCA8PCAiXSBraWxsZWQiIDw8IHN0ZDo6ZW5kbDsK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICBzZXJ2aWNlLnBnaWQgPSAtMTsK</text>
@@ -224,9 +226,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>spawnPr</last-search>
+      <last-search>killed</last-search>
       <last-offset />
-      <last-pattern>spawnPr</last-pattern>
+      <last-pattern>killed</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
