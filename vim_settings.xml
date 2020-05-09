@@ -75,9 +75,9 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/libbrn/libbrn.cpp" timestamp="1589003918074">
+      <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/libbrn/libbrn.cpp" timestamp="1589004192757">
         <mark key="'" line="463" column="4" />
-        <mark key="[" line="388" column="0" />
+        <mark key="[" line="375" column="39" />
         <mark key="]" line="388" column="0" />
         <mark key="." line="388" column="0" />
         <mark key="^" line="388" column="65" />
