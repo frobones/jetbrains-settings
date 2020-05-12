@@ -76,11 +76,12 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/libbrn/libbrn.cpp" timestamp="1589322763951">
+      <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/libbrn/libbrn.cpp" timestamp="1589323034123">
         <mark key="'" line="538" column="77" />
-        <mark key="[" line="690" column="0" />
-        <mark key="]" line="690" column="0" />
-        <mark key="." line="690" column="0" />
+        <mark key="[" line="693" column="35" />
+        <mark key="]" line="693" column="33" />
+        <mark key="." line="693" column="32" />
+        <mark key="^" line="693" column="33" />
       </file>
       <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/nvppfs/src/qnx/main-qnx.cpp" timestamp="1589247455114">
         <mark key="[" line="175" column="0" />
@@ -102,6 +103,7 @@
         <mark key="]" line="200" column="13" />
         <mark key="." line="190" column="0" />
       </file>
+      <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/tww-iface/tww.cpp" timestamp="1589323024509" />
       <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/nvppfs/src/nvppfs.cpp" timestamp="1589247430144">
         <mark key="[" line="40" column="0" />
         <mark key="]" line="40" column="19" />
