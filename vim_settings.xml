@@ -83,25 +83,15 @@
         <mark key="." line="225" column="49" />
         <mark key="^" line="225" column="50" />
       </file>
-      <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/qnx-pandaboard/files/early_configuration.json" timestamp="1588388491706">
-        <mark key="[" line="5" column="38" />
-      </file>
-      <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/mosquitto/config.mk" timestamp="1589241686349" />
-      <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/nvppfs/src/qnx/main-qnx.cpp" timestamp="1589239442158" />
       <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/tww-iface/twt_iface_data_forwarder.hpp" timestamp="1588640514886">
         <mark key="[" line="49" column="27" />
       </file>
       <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/tww-iface/twt_iface_data_forwarder.cpp" timestamp="1588650732307">
         <mark key="[" line="54" column="99" />
       </file>
-      <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/mosquitto/src/mosquitto.c" timestamp="1589233510109" />
+      <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/mosquitto/src/CMakeLists.txt" timestamp="1589244716040" />
       <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/libtwtipc/src/twt_ipc.cpp" timestamp="1588727580301">
         <mark key="'" line="563" column="41" />
-      </file>
-      <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/falcon3/include/BrnDefs.h" timestamp="1589005899418">
-        <mark key="[" line="198" column="8" />
-        <mark key="]" line="200" column="13" />
-        <mark key="." line="190" column="0" />
       </file>
       <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/nvppfs/src/nvppfs.cpp" timestamp="1589238104627">
         <mark key="[" line="206" column="0" />
@@ -114,6 +104,21 @@
         <mark key="^" line="63" column="17" />
         <mark key="." line="63" column="16" />
       </file>
+      <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/libtwtos/include/libtwtos/MsgQue.hpp" timestamp="1588651539179">
+        <mark key="[" line="62" column="0" />
+        <mark key="]" line="62" column="0" />
+        <mark key="^" line="62" column="19" />
+        <mark key="." line="62" column="0" />
+      </file>
+      <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/mosquitto/config.mk" timestamp="1589241686349" />
+      <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/nvppfs/src/qnx/main-qnx.cpp" timestamp="1589239442158" />
+      <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/libbrn/service-launcher.cpp" timestamp="1589244966794" />
+      <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/mosquitto/src/mosquitto.c" timestamp="1589245057012" />
+      <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/falcon3/include/BrnDefs.h" timestamp="1589005899418">
+        <mark key="[" line="198" column="8" />
+        <mark key="]" line="200" column="13" />
+        <mark key="." line="190" column="0" />
+      </file>
       <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/nvppfs/src/qnx/ramdisk/c_mount.cpp" timestamp="1588807040730">
         <mark key="[" line="77" column="0" />
         <mark key="]" line="77" column="0" />
@@ -125,12 +130,6 @@
         <mark key="]" line="122" column="18" />
         <mark key="^" line="122" column="18" />
         <mark key="." line="122" column="17" />
-      </file>
-      <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/libtwtos/include/libtwtos/MsgQue.hpp" timestamp="1588651539179">
-        <mark key="[" line="62" column="0" />
-        <mark key="]" line="62" column="0" />
-        <mark key="^" line="62" column="19" />
-        <mark key="." line="62" column="0" />
       </file>
     </filemarks>
     <jumps>
