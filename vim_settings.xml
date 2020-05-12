@@ -76,11 +76,11 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/libbrn/libbrn.cpp" timestamp="1589321162700">
+      <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/libbrn/libbrn.cpp" timestamp="1589322384322">
         <mark key="'" line="538" column="77" />
-        <mark key="[" line="690" column="0" />
-        <mark key="]" line="690" column="0" />
-        <mark key="." line="690" column="0" />
+        <mark key="[" line="697" column="37" />
+        <mark key="]" line="697" column="37" />
+        <mark key="." line="697" column="37" />
         <mark key="^" line="690" column="20" />
       </file>
       <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/nvppfs/src/qnx/main-qnx.cpp" timestamp="1589247455114">
@@ -156,11 +156,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHByaW50ZigiRW50ZXJpbmcgJXMgJXNcbiIsIF9fZnVuY19fLCBpZmFjZSk7IHNsZWVwKDIpOwo=</text>
+      <register name="&quot;" type="4">
+        <text>s</text>
       </register>
       <register name="-" type="4">
-        <text>w</text>
+        <text>s</text>
       </register>
       <register name="/" type="4">
         <text>killed</text>
