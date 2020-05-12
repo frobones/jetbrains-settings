@@ -93,9 +93,9 @@
       <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/libtwtipc/src/twt_ipc.cpp" timestamp="1588727580301">
         <mark key="'" line="563" column="41" />
       </file>
-      <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/nvppfs/src/nvppfs.cpp" timestamp="1589238104627">
-        <mark key="[" line="206" column="0" />
-        <mark key="]" line="206" column="0" />
+      <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/nvppfs/src/nvppfs.cpp" timestamp="1589247430144">
+        <mark key="[" line="40" column="0" />
+        <mark key="]" line="40" column="19" />
         <mark key="." line="206" column="0" />
       </file>
       <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/tww-iface-utils/moc-bgpp.cpp" timestamp="1588731459285">
@@ -111,9 +111,14 @@
         <mark key="." line="62" column="0" />
       </file>
       <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/mosquitto/config.mk" timestamp="1589241686349" />
-      <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/nvppfs/src/qnx/main-qnx.cpp" timestamp="1589239442158" />
+      <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/nvppfs/src/qnx/main-qnx.cpp" timestamp="1589247455114">
+        <mark key="[" line="175" column="0" />
+        <mark key="]" line="41" column="19" />
+        <mark key="^" line="99" column="21" />
+        <mark key="." line="41" column="0" />
+      </file>
       <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/libbrn/service-launcher.cpp" timestamp="1589244966794" />
-      <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/mosquitto/src/mosquitto.c" timestamp="1589245057012" />
+      <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/mosquitto/src/mosquitto.c" timestamp="1589246805676" />
       <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/falcon3/include/BrnDefs.h" timestamp="1589005899418">
         <mark key="[" line="198" column="8" />
         <mark key="]" line="200" column="13" />
@@ -125,7 +130,7 @@
         <mark key="." line="77" column="0" />
         <mark key="^" line="76" column="4" />
       </file>
-      <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/nvppfs/src/qnx/ramdisk/ramdisk_ops.cpp" timestamp="1588994489901">
+      <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/nvppfs/src/qnx/ramdisk/ramdisk_ops.cpp" timestamp="1589247166545">
         <mark key="[" line="121" column="44" />
         <mark key="]" line="122" column="18" />
         <mark key="^" line="122" column="18" />
@@ -156,7 +161,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBpZigoKmkpLkhhc01lbWJlcigidHJhbnNpZW50IikpCiAgICAgICAgewogICAgICAgICAgICBpZihub3QgKCppKVsidHJhbnNpZW50Il0uSXNCb29sKCkpCiAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgIHN0ZDo6Y291dCA8PCAiVmFsdWUgZm9yICd0cmFuc2llbnQnIGF0dHJpYnV0ZSBpc24ndCBCb29sZWFuISIgPDwgc3RkOjplbmRsOwogICAgICAgICAgICAgICAgcmV0dXJuIGZhbHNlOwogICAgICAgICAgICB9CiAgICAgICAgICAgIHNlcnZpY2UtPnRyYW5zaWVudCA9ICgqaSlbInRyYW5zaWVudCJdLkdldEJvb2woKTsKICAgICAgICB9CiAgICAgICAgZWxzZQogICAgICAgICAgICBzZXJ2aWNlLT50cmFuc2llbnQgPSBmYWxzZTsKCg==</text>
+        <text encoding="base64">I2luY2x1ZGUgPHN5cy91bi5oPgo=</text>
       </register>
       <register name="-" type="4">
         <text>}</text>
@@ -165,7 +170,7 @@
         <text>killed</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBpZigoKmkpLkhhc01lbWJlcigidHJhbnNpZW50IikpCiAgICAgICAgewogICAgICAgICAgICBpZihub3QgKCppKVsidHJhbnNpZW50Il0uSXNCb29sKCkpCiAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgIHN0ZDo6Y291dCA8PCAiVmFsdWUgZm9yICd0cmFuc2llbnQnIGF0dHJpYnV0ZSBpc24ndCBCb29sZWFuISIgPDwgc3RkOjplbmRsOwogICAgICAgICAgICAgICAgcmV0dXJuIGZhbHNlOwogICAgICAgICAgICB9CiAgICAgICAgICAgIHNlcnZpY2UtPnRyYW5zaWVudCA9ICgqaSlbInRyYW5zaWVudCJdLkdldEJvb2woKTsKICAgICAgICB9CiAgICAgICAgZWxzZQogICAgICAgICAgICBzZXJ2aWNlLT50cmFuc2llbnQgPSBmYWxzZTsKCg==</text>
+        <text encoding="base64">I2luY2x1ZGUgPHN5cy91bi5oPgo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIHsK</text>
