@@ -95,8 +95,8 @@
       <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/tww-iface/twt_iface_data_forwarder.cpp" timestamp="1588650732307">
         <mark key="[" line="54" column="99" />
       </file>
-      <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/libtwtipc/src/twt_ipc.cpp" timestamp="1588727580301">
-        <mark key="'" line="563" column="41" />
+      <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/libtwtipc/src/twt_ipc.cpp" timestamp="1589324762059">
+        <mark key="'" line="593" column="32" />
       </file>
       <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/falcon3/include/BrnDefs.h" timestamp="1589005899418">
         <mark key="[" line="198" column="8" />
@@ -153,6 +153,7 @@
       <jump line="463" column="4" filename="$USER_HOME$/CLionProjects/prc-158-port/sources/libbrn/libbrn.cpp" />
       <jump line="438" column="0" filename="$USER_HOME$/CLionProjects/prc-158-port/sources/libbrn/libbrn.cpp" />
       <jump line="538" column="77" filename="$USER_HOME$/CLionProjects/prc-158-port/sources/libbrn/libbrn.cpp" />
+      <jump line="593" column="32" filename="$USER_HOME$/CLionProjects/prc-158-port/sources/libtwtipc/src/twt_ipc.cpp" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
