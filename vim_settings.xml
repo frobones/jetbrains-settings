@@ -76,7 +76,7 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/libbrn/libbrn.cpp" timestamp="1589333754362">
+      <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/libbrn/libbrn.cpp" timestamp="1589403847267">
         <mark key="[" line="535" column="17" />
         <mark key="]" line="535" column="17" />
         <mark key="^" line="587" column="36" />
@@ -94,8 +94,6 @@
         <mark key="^" line="21" column="8" />
         <mark key="." line="21" column="7" />
       </file>
-      <file name="$USER_HOME$/.CLion2019.3/system/.remote/twt20918_2222/5a4b4bc4-288c-44e5-88ab-d4b75e136859/opt/qnx650/target/qnx6/usr/include/sys/socket.h" timestamp="1589342288251" />
-      <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/ToolchainConfig.cmake" timestamp="1589340508305" />
       <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/files/CMakeLists.txt" timestamp="1589340645152">
         <mark key="[" line="26" column="0" />
         <mark key="]" line="19" column="0" />
@@ -110,8 +108,6 @@
         <mark key="]" line="200" column="13" />
         <mark key="." line="190" column="0" />
       </file>
-      <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/tww-iface/tww.cpp" timestamp="1589329614582" />
-      <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/nvppfs/CMakeLists.txt" timestamp="1589341907083" />
       <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/nvppfs/src/nvppfs.cpp" timestamp="1589247430144">
         <mark key="[" line="40" column="0" />
         <mark key="]" line="40" column="19" />
@@ -135,7 +131,6 @@
         <mark key="^" line="122" column="18" />
         <mark key="." line="122" column="17" />
       </file>
-      <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/files/hiawatha/hiawatha.conf" timestamp="1589334663852" />
       <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/libtwtos/include/libtwtos/MsgQue.hpp" timestamp="1588651539179">
         <mark key="[" line="62" column="0" />
         <mark key="]" line="62" column="0" />
