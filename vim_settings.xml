@@ -93,10 +93,11 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/tww-iface/HarrisIpcWrapper.cpp" timestamp="1589491361875">
-        <mark key="[" line="43" column="68" />
-        <mark key="]" line="43" column="0" />
-        <mark key="." line="43" column="0" />
+      <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/tww-iface/HarrisIpcWrapper.cpp" timestamp="1589491640532">
+        <mark key="[" line="49" column="84" />
+        <mark key="]" line="49" column="84" />
+        <mark key="^" line="43" column="112" />
+        <mark key="." line="49" column="84" />
       </file>
       <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/files/CMakeLists.txt" timestamp="1589340645152">
         <mark key="[" line="26" column="0" />
@@ -112,11 +113,22 @@
         <mark key="]" line="200" column="13" />
         <mark key="." line="190" column="0" />
       </file>
+      <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/tww-iface/tww.cpp" timestamp="1589491734158">
+        <mark key="[" line="240" column="80" />
+        <mark key="]" line="240" column="80" />
+        <mark key="." line="240" column="80" />
+        <mark key="^" line="221" column="45" />
+      </file>
       <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/files/hiawatha/test-hiawatha-conn.cpp" timestamp="1589410754975">
         <mark key="[" line="71" column="49" />
         <mark key="]" line="71" column="49" />
         <mark key="." line="71" column="49" />
         <mark key="^" line="81" column="83" />
+      </file>
+      <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/tww-iface/HarrisIpcWrapper.hpp" timestamp="1589491633926">
+        <mark key="[" line="58" column="74" />
+        <mark key="]" line="58" column="74" />
+        <mark key="." line="58" column="74" />
       </file>
       <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/nvppfs/src/nvppfs.cpp" timestamp="1589247430144">
         <mark key="[" line="40" column="0" />
@@ -172,44 +184,44 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHJlYWRlcl9mZCA9IC0xOwo=</text>
+      <register name="&quot;" type="4">
+        <text>c</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>c</text>
       </register>
       <register name="/" type="4">
         <text>killed</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHdoaWxlKHJlYWQoZmQsIGJ1ZmZlciwgQlVGRkVSX1NJWkUgLSAxKSAhPSAwKXsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGZwcmludGYoc3RkZXJyLCAidW5zdXBwb3J0ZWQgb3B0aW9uOiAlc1xuIiwgbmFtZS5jX3N0cigpKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHJlYWRlcl9mZCA9IC0xOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHdyaXRlcl9mZCA9IC0xOwo=</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGZwcmludGYoc3RkZXJyLCAiRGlzYWJsaW5nIGJncHAgY29tbXVuaWNhdGlvblxuIik7Cg==</text>
+      </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAocmV0ID09IC0xKSB7CiAgICAgICAgICAgIGZwcmludGYoc3RkZXJyLCAiUmV0cnlpbmcgY29ubmVjdGlvbiB0byBoaWF3YXRoYVxuIik7CiAgICAgICAgICAgIHNsZWVwKDEpOwogICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKG5hbWUgPT0gImRpc2FibGUtYmdwcCIpIHsK</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm47Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZXNpdCgxKTsK</text>
+        <text encoding="base64">ICAgICAgICBmcHJpbnRmKHN0ZGVyciwgIlNraXBwaW5nIEhhcnJpcyBJUEMgYXR0YWNobWVudFxuIik7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgIGlmICghYXR0YWNoKSB7Cg==</text>
       </register>
     </registers>
   </component>
