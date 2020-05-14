@@ -113,11 +113,11 @@
         <mark key="]" line="200" column="13" />
         <mark key="." line="190" column="0" />
       </file>
-      <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/tww-iface/tww.cpp" timestamp="1589492404948">
-        <mark key="[" line="189" column="16" />
-        <mark key="]" line="189" column="27" />
-        <mark key="^" line="189" column="27" />
-        <mark key="." line="189" column="26" />
+      <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/tww-iface/tww.cpp" timestamp="1589492652345">
+        <mark key="[" line="245" column="29" />
+        <mark key="]" line="240" column="79" />
+        <mark key="^" line="240" column="92" />
+        <mark key="." line="240" column="79" />
       </file>
       <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/files/hiawatha/test-hiawatha-conn.cpp" timestamp="1589410754975">
         <mark key="[" line="71" column="49" />
@@ -184,11 +184,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">c3RydWN0IHR3d19jb25maWdfdCB7CiAgc3RkOjpzdHJpbmcgaGFycmlzX3dyaXRlX2NoYW47CiAgc3RkOjpzdHJpbmcgaGFycmlzX3JlYWRfY2hhbjsKICBzdGQ6OnN0cmluZyBtYWNfaWRfc3RyaW5nOwp9OwoK</text>
+      <register name="&quot;" type="4">
+        <text>&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>c</text>
+        <text>&quot;</text>
       </register>
       <register name="/" type="4">
         <text>killed</text>
@@ -197,31 +197,31 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIGZwcmludGYoc3RkZXJyLCAidW5zdXBwb3J0ZWQgb3B0aW9uOiAlc1xuIiwgbmFtZS5jX3N0cigpKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">c3RydWN0IHR3d19jb25maWdfdCB7CiAgc3RkOjpzdHJpbmcgaGFycmlzX3dyaXRlX2NoYW47CiAgc3RkOjpzdHJpbmcgaGFycmlzX3JlYWRfY2hhbjsKICBzdGQ6OnN0cmluZyBtYWNfaWRfc3RyaW5nOwp9OwoK</text>
+        <text encoding="base64">ICBzdGQ6OnN0cmluZyBtYWNfaWRfc3RyaW5nOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">c3RydWN0IHR3d19jb25maWdfdCB7CiAgc3RkOjpzdHJpbmcgaGFycmlzX3dyaXRlX2NoYW47CiAgc3RkOjpzdHJpbmcgaGFycmlzX3JlYWRfY2hhbjsKICBzdGQ6OnN0cmluZyBtYWNfaWRfc3RyaW5nOwp9OwoK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHN0ZDo6c3RyaW5nIG1hY19pZF9zdHJpbmcgPSA7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHN0ZDo6c3RyaW5nIGhhcnJpc19yZWFkX2NoYW4gPSA7Cg==</text>
+        <text encoding="base64">ICAgIHN0ZDo6c3RyaW5nIG1hY19pZF9zdHJpbmcgPSA7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHN0ZDo6c3RyaW5nIGhhcnJpc193cml0ZV9jaGFuID0gOwo=</text>
+        <text encoding="base64">ICAgIHN0ZDo6c3RyaW5nIGhhcnJpc19yZWFkX2NoYW4gPSA7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">c3RkOjpzdHJpbmcgbWFjX2lkX3N0cmluZyA9ICIwMjowMDowMDowMDowMDowMSI7Cg==</text>
+        <text encoding="base64">ICAgIHN0ZDo6c3RyaW5nIGhhcnJpc193cml0ZV9jaGFuID0gOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">c3RkOjpzdHJpbmcgaGFycmlzX3dyaXRlX2NoYW4gPSBXcmVuOjpJUF9CUk5fVE9fV0ZfQ0hBTjsKc3RkOjpzdHJpbmcgaGFycmlzX3JlYWRfY2hhbiA9IFdyZW46OklQX1dGX1RPX0JSTl9DSEFOOwo=</text>
+        <text encoding="base64">c3RkOjpzdHJpbmcgbWFjX2lkX3N0cmluZyA9ICIwMjowMDowMDowMDowMDowMSI7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">c3RkOjpzdHJpbmcgaGFycmlzX3dyaXRlX2NoYW4gPSBXcmVuOjpJUF9CUk5fVE9fV0ZfQ0hBTjsKc3RkOjpzdHJpbmcgaGFycmlzX3JlYWRfY2hhbiA9IFdyZW46OklQX1dGX1RPX0JSTl9DSEFOOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
     </registers>
   </component>
