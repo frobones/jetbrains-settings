@@ -99,10 +99,10 @@
         <mark key="^" line="36" column="0" />
         <mark key="." line="35" column="1" />
       </file>
-      <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/tww-iface-utils/CMakeLists.txt" timestamp="1589497695669">
-        <mark key="[" line="33" column="70" />
-        <mark key="]" line="33" column="70" />
-        <mark key="." line="33" column="70" />
+      <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/tww-iface-utils/CMakeLists.txt" timestamp="1589498356121">
+        <mark key="[" line="33" column="83" />
+        <mark key="]" line="33" column="83" />
+        <mark key="." line="33" column="83" />
       </file>
       <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/files/CMakeLists.txt" timestamp="1589340645152">
         <mark key="[" line="26" column="0" />
@@ -119,10 +119,7 @@
         <mark key="." line="190" column="0" />
       </file>
       <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/tww-iface/tww.cpp" timestamp="1589493100946">
-        <mark key="[" line="245" column="29" />
-        <mark key="]" line="240" column="79" />
-        <mark key="^" line="240" column="92" />
-        <mark key="." line="240" column="79" />
+        <mark key="[" line="92" column="29" />
       </file>
       <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/files/hiawatha/test-hiawatha-conn.cpp" timestamp="1589410754975">
         <mark key="[" line="71" column="49" />
@@ -158,10 +155,11 @@
         <mark key="^" line="122" column="18" />
         <mark key="." line="122" column="17" />
       </file>
-      <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/tww-iface-utils/moc-ethFrameIpcChanEP.cpp" timestamp="1589497916203">
-        <mark key="[" line="64" column="20" />
-        <mark key="]" line="64" column="20" />
-        <mark key="." line="64" column="20" />
+      <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/tww-iface-utils/moc-ethFrameIpcChanEP.cpp" timestamp="1589498949442">
+        <mark key="[" line="87" column="26" />
+        <mark key="]" line="87" column="43" />
+        <mark key="^" line="87" column="43" />
+        <mark key="." line="87" column="42" />
       </file>
       <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/libtwtos/include/libtwtos/MsgQue.hpp" timestamp="1588651539179">
         <mark key="[" line="62" column="0" />
@@ -194,11 +192,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>*</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>*</text>
+        <text>d</text>
       </register>
       <register name="/" type="4">
         <text>killed</text>
@@ -207,28 +205,28 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIGZwcmludGYoc3RkZXJyLCAidW5zdXBwb3J0ZWQgb3B0aW9uOiAlc1xuIiwgbmFtZS5jX3N0cigpKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">I2VuZGlmCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHVpbnQ4X3QgIHRlbXBfZXRoZXJfaG9zdFtFVEhFUl9BRERSX0xFTl0gPSB7MH07Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIG1lbWNweShldGhlcl9mcmFtZS5ldGhlcl9oZHIuZXRoZXJfc2hvc3QsdGVtcF9ldGhlcl9ob3N0LCBFVEhFUl9BRERSX0xFTik7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">I2lmIDAKLyoKICogVGhlcmUncyBub3RoaW5nIHdlIHdhbnQgZnJvbSA8c3RyaW5ncy5oPi4KICogSW4gcGFydGljdWxhciB3ZSBkb24ndCB3YW50IGl0IHRvIGRlZmluZSBiY29weSAtPiBtZW1tb3ZlLgogKiBXZSB3YW50IGJjb3B5IC0+IG1lbWNweSBmcm9tICJzeXMvc3lzdG0uaCIuICBDYXRjaCBhbnkKICogcG90ZW50aWFsIG9jY3VycmVuY2VzIG9mIHRoZSBmb3JtZXIuCiAqLwojZGVmaW5lIF9TVFJJTkdTX0hfSU5DTFVERUQKCi8vIFdlIGRvIG5vdCBuZWVkIHRoZSBjY3R5cGUgZnJvbSBjdHlwZS5oIFNpbmNlIHRoaXMgbW9kdWxlIGlzIHBhcnQgImtlcm5lbCIsIGl0IGlzIGFscmVhZHkgZGVmaW5lZC4KI2RlZmluZSBfR0xJQkNYWF9DQ1RZUEUKCiNpbmNsdWRlIDxwb2xsLmg+CiNpbmNsdWRlIDxzeXMvc29ja2V0Lmg+CiNpbmNsdWRlIDxhcnBhL2luZXQuaD4KI2luY2x1ZGUgPHN0ZGlvLmg+CiNpbmNsdWRlIDxzdGRsaWIuaD4KI2luY2x1ZGUgPGVycm5vLmg+CiNpbmNsdWRlIDxzdHJpbmcuaD4KI2luY2x1ZGUgPHF1ZXVlPgoKI2luY2x1ZGUgPGxpYnR3dG9zL0lPTG9vcC5ocHA+CgojaW5jbHVkZSAiLi4vdHd3LWlmYWNlL0JybkRlZnNQbHVzLmhwcCIKI2luY2x1ZGUgPElwY0NoYW5uZWxSZWFkZXIuaD4KI2luY2x1ZGUgPElwY0NoYW5uZWxXcml0ZXIuaD4KCiNpZmRlZiBfX2NwbHVzcGx1cwpleHRlcm4gIkMiCnsKI2VuZGlmCiNkZWZpbmUgX0tFUk5FTAojaW5jbHVkZSA8bmV0L2lmX2V0aGVyLmg+CiNpbmNsdWRlIDxuZXRpbmV0L2luLmg+CiNpbmNsdWRlIDxuZXRpbmV0Ni9pbjYuaD4KI2luY2x1ZGUgPG5ldGluZXQvaXAuaD4KI2luY2x1ZGUgPG5ldGluZXQvaXA2Lmg+CiNpbmNsdWRlIDxuZXRpbmV0L2lwX2ljbXAuaD4KI2luY2x1ZGUgPG5ldGluZXQvaWNtcDYuaD4KI3VuZGVmIF9LRVJORUwKI2lmZGVmIF9fY3BsdXNwbHVzCn0gLy8gZXh0ZXJuICJDIgojZW5kaWYKI2Vsc2U=</text>
+        <text encoding="base64">ICAgIG1lbWNweShldGhlcl9mcmFtZS5ldGhlcl9oZHIuZXRoZXJfZGhvc3QsIGV0aGVyX2ZyYW1lLmV0aGVyX2hkci5ldGhlcl9zaG9zdCwgRVRIRVJfQUREUl9MRU4pOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBIYXJyaXNJcGNXcmFwcGVyOjpIYXJyaXNJcGNXcmFwcGVyKCkgOiB3cml0ZXJfZmQoLTEpLCByZWFkZXJfZmQoLTEpIHt9Cg==</text>
+        <text encoding="base64">ICAgIG1lbWNweSh0ZW1wX2V0aGVyX2hvc3QsIGV0aGVyX2ZyYW1lLmV0aGVyX2hkci5ldGhlcl9kaG9zdCwgRVRIRVJfQUREUl9MRU4pOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBzdGQ6OnN0cmluZyBtYWNfaWRfc3RyaW5nOwo=</text>
+        <text encoding="base64">I2VuZGlmCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">c3RydWN0IHR3d19jb25maWdfdCB7CiAgc3RkOjpzdHJpbmcgaGFycmlzX3dyaXRlX2NoYW47CiAgc3RkOjpzdHJpbmcgaGFycmlzX3JlYWRfY2hhbjsKICBzdGQ6OnN0cmluZyBtYWNfaWRfc3RyaW5nOwp9OwoK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
