@@ -87,16 +87,20 @@
       <file name="/Dummy.txt" timestamp="1589857403890">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/nvppfs/src/qnx/main-qnx.cpp" timestamp="1589247455114">
-        <mark key="[" line="175" column="0" />
-        <mark key="]" line="41" column="19" />
-        <mark key="^" line="99" column="21" />
-        <mark key="." line="41" column="0" />
+      <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/nvppfs/src/qnx/main-qnx.cpp" timestamp="1589932514637">
+        <mark key="[" line="197" column="8" />
+        <mark key="]" line="197" column="22" />
+        <mark key="^" line="197" column="22" />
+        <mark key="." line="197" column="21" />
       </file>
       <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/files/hiawatha/test-hiawatha-conn.c" timestamp="1589409629112">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/hiawatha/src/hiawatha.c" timestamp="1589932390817">
+        <mark key="'" line="58" column="33" />
+        <mark key="[" line="546" column="33" />
       </file>
       <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/tww-iface-utils/ipcResourceManagerInit.cpp" timestamp="1589497740361">
         <mark key="[" line="35" column="0" />
@@ -109,7 +113,7 @@
         <mark key="]" line="33" column="83" />
         <mark key="." line="33" column="83" />
       </file>
-      <file name="$USER_HOME$/.CLion2019.3/system/.remote/twt20918_2222/5a4b4bc4-288c-44e5-88ab-d4b75e136859/opt/qnx650/target/qnx6/usr/include/spawn.h" timestamp="1589929259573" />
+      <file name="$USER_HOME$/.CLion2019.3/system/.remote/twt20918_2222/5a4b4bc4-288c-44e5-88ab-d4b75e136859/opt/qnx650/target/qnx6/usr/include/spawn.h" timestamp="1589931738392" />
       <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/files/CMakeLists.txt" timestamp="1589340645152">
         <mark key="[" line="26" column="0" />
         <mark key="]" line="19" column="0" />
@@ -119,6 +123,7 @@
       <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/libtwtipc/src/twt_ipc.cpp" timestamp="1589324762059">
         <mark key="'" line="593" column="32" />
       </file>
+      <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/hiawatha/src/serverconfig.c" timestamp="1589932347634" />
       <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/libbrn/libbrn.cpp_dir/fragment.cpp" timestamp="1589857404997">
         <mark key="[" line="0" column="0" />
       </file>
@@ -146,12 +151,6 @@
         <mark key="]" line="40" column="19" />
         <mark key="." line="206" column="0" />
       </file>
-      <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/tww-iface-utils/moc-bgpp.cpp" timestamp="1588731459285">
-        <mark key="[" line="63" column="31" />
-        <mark key="]" line="63" column="17" />
-        <mark key="^" line="63" column="17" />
-        <mark key="." line="63" column="16" />
-      </file>
       <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/nvppfs/src/qnx/ramdisk/c_mount.cpp" timestamp="1588807040730">
         <mark key="[" line="77" column="0" />
         <mark key="]" line="77" column="0" />
@@ -169,12 +168,6 @@
         <mark key="]" line="99" column="0" />
         <mark key="^" line="91" column="43" />
         <mark key="." line="99" column="0" />
-      </file>
-      <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/libtwtos/include/libtwtos/MsgQue.hpp" timestamp="1588651539179">
-        <mark key="[" line="62" column="0" />
-        <mark key="]" line="62" column="0" />
-        <mark key="^" line="62" column="19" />
-        <mark key="." line="62" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -198,12 +191,13 @@
       <jump line="538" column="77" filename="$USER_HOME$/CLionProjects/prc-158-port/sources/libbrn/libbrn.cpp" />
       <jump line="593" column="32" filename="$USER_HOME$/CLionProjects/prc-158-port/sources/libtwtipc/src/twt_ipc.cpp" />
       <jump line="436" column="23" filename="$USER_HOME$/CLionProjects/prc-158-port/sources/libbrn/libbrn.cpp" />
+      <jump line="58" column="33" filename="$USER_HOME$/CLionProjects/prc-158-port/sources/hiawatha/src/hiawatha.c" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBzeXNsb2coTE9HX0VNRVJHLCAiXG5FcnJvciB3aGlsZSBjaGFuZ2luZyB1aWQvZ2lkIVxuIik7Cg==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
@@ -212,7 +206,7 @@
         <text encoding="base64">XDx0ZWFyRG93blNlcnZpY2VcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgIGZpbGVuYW1lID0gZXhlY3V0YWJsZS5jX3N0cigpOwogICAgICAgICAgY21kX2FyZ3VtZW50cyA9ICZhcmd1bWVudHM7Cg==</text>
+        <text encoding="base64">ICAgICAgICBzeXNsb2coTE9HX0VNRVJHLCAiXG5FcnJvciB3aGlsZSBjaGFuZ2luZyB1aWQvZ2lkIVxuIik7Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
