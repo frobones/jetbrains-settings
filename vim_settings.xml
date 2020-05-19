@@ -76,11 +76,11 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/libbrn/libbrn.cpp" timestamp="1589852071323">
-        <mark key="[" line="420" column="57" />
-        <mark key="]" line="394" column="37" />
-        <mark key="." line="394" column="36" />
-        <mark key="^" line="394" column="37" />
+      <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/libbrn/libbrn.cpp" timestamp="1589852683759">
+        <mark key="[" line="419" column="21" />
+        <mark key="]" line="419" column="22" />
+        <mark key="." line="419" column="22" />
+        <mark key="^" line="401" column="6" />
       </file>
       <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/nvppfs/src/qnx/main-qnx.cpp" timestamp="1589247455114">
         <mark key="[" line="175" column="0" />
@@ -193,7 +193,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbWVzc2FnZSArPSAiJzogc3Bhd252cChQX05PV0FJVCxmaWxlbmFtZSxhcmd2KSI7Cg==</text>
+        <text encoding="base64">ICAgIGZwcmludGYoc3RkZXJyLCAiQVxuIik7CiAgICBjb25zdCBhdXRvIHBpZCA9IHByaXZpbGVnZWQgPwo=</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
@@ -202,34 +202,34 @@
         <text>killed</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBmcHJpbnRmKHN0ZGVyciwgIkV2YWx1YXRpbmcgYm9vbGVhbjogJXNcbiIsIG1lbWJlci0+Y19zdHIoKSk7Cg==</text>
+        <text encoding="base64">ICAgIGZwcmludGYoc3RkZXJyLCAiQVxuIik7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbWVzc2FnZSArPSAiJzogc3Bhd252cChQX05PV0FJVCxmaWxlbmFtZSxhcmd2KSI7Cg==</text>
+        <text encoding="base64">ICAgIGZwcmludGYoc3RkZXJyLCAiQVxuIik7CiAgICBjb25zdCBhdXRvIHBpZCA9IHByaXZpbGVnZWQgPwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBlbHNlCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbWVzc2FnZSArPSAiJzogc3Bhd252cChQX05PV0FJVCxmaWxlbmFtZSxhcmd2KSI7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbWVzc2FnZSArPSAiJzogTGF1bmNoQnJuUHJpdmlsZWdlZFByb2Nlc3MoZmlsZW5hbWUsYXJndixlbnZpcm9uLGNocm9vdG9wdCkiOwo=</text>
+        <text encoding="base64">ICAgICAgICBlbHNlCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAocHJpdmlsZWdlZCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgbWVzc2FnZSArPSAiJzogTGF1bmNoQnJuUHJpdmlsZWdlZFByb2Nlc3MoZmlsZW5hbWUsYXJndixlbnZpcm9uLGNocm9vdG9wdCkiOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbWVzc2FnZSArPSAiICIgKyBzdGQ6OnN0cmluZyhhcmd1bWVudCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAocHJpdmlsZWdlZCkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IoYXV0byBhcmd1bWVudCA6IGFyZ3VtZW50cykK</text>
+        <text encoding="base64">ICAgICAgICAgICAgbWVzc2FnZSArPSAiICIgKyBzdGQ6OnN0cmluZyhhcmd1bWVudCk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGRlbGV0ZVtdIGFyZ3Y7Cg==</text>
+        <text encoding="base64">ICAgICAgICBmb3IoYXV0byBhcmd1bWVudCA6IGFyZ3VtZW50cykK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBkZWxldGVbXSBhcmd2Owo=</text>
+        <text encoding="base64">ICAgIGRlbGV0ZVtdIGFyZ3Y7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGFyZ3VtZW50c1thcmdpXSA9IE5VTEw7Cg==</text>
+        <text encoding="base64">ICAgICAgICBkZWxldGVbXSBhcmd2Owo=</text>
       </register>
     </registers>
   </component>
