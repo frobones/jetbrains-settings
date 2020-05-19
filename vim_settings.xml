@@ -76,11 +76,11 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/libbrn/libbrn.cpp" timestamp="1589852683759">
-        <mark key="[" line="419" column="21" />
-        <mark key="]" line="419" column="22" />
-        <mark key="." line="419" column="22" />
-        <mark key="^" line="401" column="6" />
+      <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/libbrn/libbrn.cpp" timestamp="1589853779649">
+        <mark key="[" line="396" column="4" />
+        <mark key="]" line="398" column="33" />
+        <mark key="." line="398" column="32" />
+        <mark key="^" line="398" column="33" />
       </file>
       <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/nvppfs/src/qnx/main-qnx.cpp" timestamp="1589247455114">
         <mark key="[" line="175" column="0" />
@@ -192,11 +192,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGZwcmludGYoc3RkZXJyLCAiQVxuIik7CiAgICBjb25zdCBhdXRvIHBpZCA9IHByaXZpbGVnZWQgPwo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">Jg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text encoding="base64">Jg==</text>
       </register>
       <register name="/" type="4">
         <text>killed</text>
