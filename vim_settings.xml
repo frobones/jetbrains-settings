@@ -9,6 +9,7 @@
         <entry>start</entry>
         <entry>spawnPr</entry>
         <entry>killed</entry>
+        <entry encoding="base64">XDx0ZWFyRG93blNlcnZpY2VcPg==</entry>
       </history-search>
       <history-cmd />
       <history-expr />
@@ -76,11 +77,12 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/libbrn/libbrn.cpp" timestamp="1589859624512">
-        <mark key="[" line="121" column="22" />
-        <mark key="]" line="122" column="0" />
-        <mark key="." line="122" column="0" />
-        <mark key="^" line="122" column="0" />
+      <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/libbrn/libbrn.cpp" timestamp="1589860067787">
+        <mark key="'" line="436" column="23" />
+        <mark key="[" line="458" column="28" />
+        <mark key="]" line="420" column="39" />
+        <mark key="." line="420" column="38" />
+        <mark key="^" line="420" column="39" />
       </file>
       <file name="/Dummy.txt" timestamp="1589857403890">
         <mark key="[" line="0" column="0" />
@@ -194,56 +196,57 @@
       <jump line="438" column="0" filename="$USER_HOME$/CLionProjects/prc-158-port/sources/libbrn/libbrn.cpp" />
       <jump line="538" column="77" filename="$USER_HOME$/CLionProjects/prc-158-port/sources/libbrn/libbrn.cpp" />
       <jump line="593" column="32" filename="$USER_HOME$/CLionProjects/prc-158-port/sources/libtwtipc/src/twt_ipc.cpp" />
+      <jump line="436" column="23" filename="$USER_HOME$/CLionProjects/prc-158-port/sources/libbrn/libbrn.cpp" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHJhcGlkanNvbjo6RG9jdW1lbnQgZDsK</text>
+        <text encoding="base64">ICAgIFNlcnZpY2UgdGVhckRvd25TZXJ2aWNlID0gc2VydmljZTsK</text>
       </register>
       <register name="-" type="4">
         <text>*</text>
       </register>
       <register name="/" type="4">
-        <text>killed</text>
+        <text encoding="base64">XDx0ZWFyRG93blNlcnZpY2VcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGNvbnN0IGF1dG8gcGlkID0gcHJpdmlsZWdlZCA/CiAgICAgICAgTGF1bmNoQnJuUHJpdmlsZWdlZFByb2Nlc3MoZmlsZW5hbWUsIGFyZ3VtZW50cy0+ZGF0YSgpLCBlbnZpcm9uLCBmYWxzZSkgOgogICAgICAgIHNwYXdudnAoUF9OT1dBSVQsIGZpbGVuYW1lLCBjb25zdF9jYXN0PGNoYXIqIGNvbnN0Kj4oYXJndW1lbnRzLT5kYXRhKCkpKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHJhcGlkanNvbjo6RG9jdW1lbnQgZDsK</text>
+        <text encoding="base64">ICAgIFNlcnZpY2UgdGVhckRvd25TZXJ2aWNlID0gc2VydmljZTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHN0ZDo6dmVjdG9yPGNvbnN0IGNoYXJbMjU2XT4gdGVhckRvd25DbWRBcmdzOwo=</text>
+        <text encoding="base64">ICAgIFNlcnZpY2UgdGVhckRvd25TZXJ2aWNlID0gc2VydmljZTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBhcmd2W2FyZ2ldID0gYXJndW1lbnRzW2ldLmNfc3RyKCk7Cg==</text>
+        <text encoding="base64">ICAgIHJhcGlkanNvbjo6RG9jdW1lbnQgZDsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgIHN0ZDo6dmVjdG9yPGNvbnN0IGNoYXJbMjU2XT4gdGVhckRvd25DbWRBcmdzOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBhcmdpKys7Cg==</text>
+        <text encoding="base64">ICAgICAgICBhcmd2W2FyZ2ldID0gYXJndW1lbnRzW2ldLmNfc3RyKCk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBhcmd2W2FyZ2ldID0gZXhlY3V0YWJsZS5jX3N0cigpOwo=</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGlmICghcHJpdmlsZWdlZCkgewo=</text>
+        <text encoding="base64">ICAgICAgICBhcmdpKys7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIC8vIGJ1dCBMYXVuY2hCcm5Qcml2aWxlZ2VkUHJvY2VzcyBkb2VzIG5vdAo=</text>
+        <text encoding="base64">ICAgICAgICBhcmd2W2FyZ2ldID0gZXhlY3V0YWJsZS5jX3N0cigpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIC8vIHNwYXduIG5lZWRzIHRoZSBmaXJzdCBhcmd1bWVudCB0byBiZSB0aGUgZXhlY3V0YWJsZSBmaWxlbmFtZQo=</text>
+        <text encoding="base64">ICAgIGlmICghcHJpdmlsZWdlZCkgewo=</text>
       </register>
     </registers>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>killed</last-search>
+      <last-search encoding="base64">XDx0ZWFyRG93blNlcnZpY2VcPg==</last-search>
       <last-offset />
-      <last-pattern>killed</last-pattern>
+      <last-pattern encoding="base64">XDx0ZWFyRG93blNlcnZpY2VcPg==</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
