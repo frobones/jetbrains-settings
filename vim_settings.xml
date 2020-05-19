@@ -76,11 +76,11 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/libbrn/libbrn.cpp" timestamp="1589854890653">
-        <mark key="[" line="431" column="51" />
-        <mark key="]" line="431" column="51" />
-        <mark key="." line="431" column="51" />
-        <mark key="^" line="409" column="52" />
+      <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/libbrn/libbrn.cpp" timestamp="1589855336564">
+        <mark key="[" line="437" column="61" />
+        <mark key="]" line="437" column="78" />
+        <mark key="." line="437" column="77" />
+        <mark key="^" line="437" column="78" />
       </file>
       <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/nvppfs/src/qnx/main-qnx.cpp" timestamp="1589247455114">
         <mark key="[" line="175" column="0" />
@@ -192,8 +192,8 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGNvbnN0IGF1dG8gcGlkID0gcHJpdmlsZWdlZCA/CiAgICAgICAgTGF1bmNoQnJuUHJpdmlsZWdlZFByb2Nlc3MoZmlsZW5hbWUsIGFyZ3VtZW50cy0+ZGF0YSgpLCBlbnZpcm9uLCBmYWxzZSkgOgogICAgICAgIHNwYXdudnAoUF9OT1dBSVQsIGZpbGVuYW1lLCBjb25zdF9jYXN0PGNoYXIqIGNvbnN0Kj4oYXJndW1lbnRzLT5kYXRhKCkpKTsK</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
@@ -202,7 +202,7 @@
         <text>killed</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGRlbGV0ZSBhcmd2W107Cg==</text>
+        <text encoding="base64">ICAgIGNvbnN0IGF1dG8gcGlkID0gcHJpdmlsZWdlZCA/CiAgICAgICAgTGF1bmNoQnJuUHJpdmlsZWdlZFByb2Nlc3MoZmlsZW5hbWUsIGFyZ3VtZW50cy0+ZGF0YSgpLCBlbnZpcm9uLCBmYWxzZSkgOgogICAgICAgIHNwYXdudnAoUF9OT1dBSVQsIGZpbGVuYW1lLCBjb25zdF9jYXN0PGNoYXIqIGNvbnN0Kj4oYXJndW1lbnRzLT5kYXRhKCkpKTsK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICBhcmd2W2FyZ2ldID0gYXJndW1lbnRzW2ldLmNfc3RyKCk7Cg==</text>
