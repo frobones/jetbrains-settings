@@ -76,10 +76,10 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/libbrn/libbrn.cpp" timestamp="1589855336564">
-        <mark key="[" line="437" column="61" />
-        <mark key="]" line="437" column="78" />
-        <mark key="." line="437" column="77" />
+      <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/libbrn/libbrn.cpp" timestamp="1589855689189">
+        <mark key="[" line="444" column="28" />
+        <mark key="]" line="444" column="28" />
+        <mark key="." line="444" column="28" />
         <mark key="^" line="437" column="78" />
       </file>
       <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/nvppfs/src/qnx/main-qnx.cpp" timestamp="1589247455114">
@@ -192,11 +192,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IGF1dG8gcGlkID0gcHJpdmlsZWdlZCA/CiAgICAgICAgTGF1bmNoQnJuUHJpdmlsZWdlZFByb2Nlc3MoZmlsZW5hbWUsIGFyZ3VtZW50cy0+ZGF0YSgpLCBlbnZpcm9uLCBmYWxzZSkgOgogICAgICAgIHNwYXdudnAoUF9OT1dBSVQsIGZpbGVuYW1lLCBjb25zdF9jYXN0PGNoYXIqIGNvbnN0Kj4oYXJndW1lbnRzLT5kYXRhKCkpKTsK</text>
+      <register name="&quot;" type="4">
+        <text>*</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>*</text>
       </register>
       <register name="/" type="4">
         <text>killed</text>
