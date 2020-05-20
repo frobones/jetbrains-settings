@@ -112,7 +112,6 @@
         <mark key="]" line="33" column="83" />
         <mark key="." line="33" column="83" />
       </file>
-      <file name="$USER_HOME$/.CLion2019.3/system/.remote/twt20918_2222/5a4b4bc4-288c-44e5-88ab-d4b75e136859/opt/qnx650/target/qnx6/usr/include/spawn.h" timestamp="1589931738392" />
       <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/files/CMakeLists.txt" timestamp="1589340645152">
         <mark key="[" line="26" column="0" />
         <mark key="]" line="19" column="0" />
@@ -122,7 +121,6 @@
       <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/libtwtipc/src/twt_ipc.cpp" timestamp="1589324762059">
         <mark key="'" line="593" column="32" />
       </file>
-      <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/hiawatha/src/serverconfig.c" timestamp="1589932347634" />
       <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/libbrn/libbrn.cpp_dir/fragment.cpp" timestamp="1589857404997">
         <mark key="[" line="0" column="0" />
       </file>
@@ -163,8 +161,8 @@
         <mark key="^" line="122" column="18" />
         <mark key="." line="122" column="17" />
       </file>
-      <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/tww-iface-utils/moc-ethFrameIpcChanEP.cpp" timestamp="1589499317921">
-        <mark key="[" line="99" column="0" />
+      <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/tww-iface-utils/moc-ethFrameIpcChanEP.cpp" timestamp="1589998960106">
+        <mark key="[" line="106" column="31" />
         <mark key="]" line="99" column="0" />
         <mark key="^" line="91" column="43" />
         <mark key="." line="99" column="0" />
