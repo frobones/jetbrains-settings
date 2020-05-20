@@ -150,12 +150,11 @@
         <mark key="]" line="40" column="19" />
         <mark key="." line="206" column="0" />
       </file>
-      <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/nvppfs/src/qnx/ramdisk/c_mount.cpp" timestamp="1589938746238">
+      <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/nvppfs/src/qnx/ramdisk/c_mount.cpp" timestamp="1589938870841">
         <mark key="'" line="24" column="50" />
-        <mark key="[" line="139" column="68" />
-        <mark key="]" line="43" column="19" />
-        <mark key="." line="43" column="18" />
-        <mark key="^" line="43" column="19" />
+        <mark key="[" line="145" column="0" />
+        <mark key="]" line="145" column="0" />
+        <mark key="." line="145" column="0" />
       </file>
       <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/nvppfs/src/qnx/ramdisk/ramdisk_ops.cpp" timestamp="1589247166545">
         <mark key="[" line="121" column="44" />
@@ -198,7 +197,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBmcHJpbnRmKHN0ZGVyciwgIlxuRXJyb3Igd2hpbGUgY2hhbmdpbmcgdWlkL2dpZCFcbiIpOwo=</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
@@ -210,31 +209,31 @@
         <text encoding="base64">Y29uc3RleHByIGdpZF90IFdSRU5fR0lEID0gOTg7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBmcHJpbnRmKHN0ZGVyciwgIlxuRXJyb3Igd2hpbGUgY2hhbmdpbmcgdWlkL2dpZCFcbiIpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Y29uc3RleHByIGdpZF90IFdSRU5fR0lEID0gOTg7CmNvbnN0ZXhwciB1aWRfdCBXUkVOX1VJRCA9IDk4OwoK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW50IGRvd25ncmFkZV9wZXJtcygpIHsKICAgIHN0ZDo6YXJyYXk8Z2lkX3QsIDE+IGdpZHNldCA9IHtXUkVOX0dJRH07CiAgICBpZiAoc2V0Z3JvdXBzKGdpZHNldC5zaXplKCksIGdpZHNldC5kYXRhKCkpID09IC0xKSB7CiAgICAgICAgcmV0dXJuIC0xOwogICAgfQoKICAgIGlmIChzZXRnaWQoV1JFTl9HSUQpID09IC0xKSB7CiAgICAgICAgcmV0dXJuIC0xOwogICAgfQoKICAgIGlmIChzZXR1aWQoV1JFTl9VSUQpID09IC0xKSB7CiAgICAgICAgcmV0dXJuIC0xOwogICAgfQoKICAgIHJldHVybiAwOwp9Cgo=</text>
+        <text encoding="base64">Y29uc3RleHByIGdpZF90IFdSRU5fR0lEID0gOTg7CmNvbnN0ZXhwciB1aWRfdCBXUkVOX1VJRCA9IDk4OwoK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW50IGRvd25ncmFkZV9wZXJtcygpIHsKICAgIHN0ZDo6YXJyYXk8Z2lkX3QsIDE+IGdpZHNldCA9IHtXUkVOX0dJRH07CiAgICBpZiAoc2V0Z3JvdXBzKGdpZHNldC5zaXplKCksIGdpZHNldC5kYXRhKCkpID09IC0xKSB7CiAgICAgICAgcmV0dXJuIC0xOwogICAgfQoKICAgIGlmIChzZXRnaWQoV1JFTl9HSUQpID09IC0xKSB7CiAgICAgICAgcmV0dXJuIC0xOwogICAgfQoKICAgIGlmIChzZXR1aWQoV1JFTl9VSUQpID09IC0xKSB7CiAgICAgICAgcmV0dXJuIC0xOwogICAgfQoKICAgIHJldHVybiAwOwp9Cgo=</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGlmIChkb3duZ3JhZGVfcGVybXMoKSA9PSAtMSkgewogICAgICAgIGZwcmludGYoc3RkZXJyLCAiXG5FcnJvciB3aGlsZSBjaGFuZ2luZyB1aWQvZ2lkIVxuIik7CiAgICAgICAgc3lzbG9nKExPR19FTUVSRywgIlxuRXJyb3Igd2hpbGUgY2hhbmdpbmcgdWlkL2dpZCFcbiIpOwogICAgICAgIGV4aXQoRVhJVF9GQUlMVVJFKTsKICAgIH0KCg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIGdpZF90IGdpZHNldFtdID0ge1dSRU5fR0lEfTsK</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIGlmIChkb3duZ3JhZGVfcGVybXMoKSA9PSAtMSkgewogICAgICAgIGZwcmludGYoc3RkZXJyLCAiXG5FcnJvciB3aGlsZSBjaGFuZ2luZyB1aWQvZ2lkIVxuIik7CiAgICAgICAgc3lzbG9nKExPR19FTUVSRywgIlxuRXJyb3Igd2hpbGUgY2hhbmdpbmcgdWlkL2dpZCFcbiIpOwogICAgICAgIGV4aXQoRVhJVF9GQUlMVVJFKTsKICAgIH0KCg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIGdpZF90IGdpZHNldFtdID0ge1dSRU5fR0lEfTsK</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgYm9vbCBwcml2aWxlZ2VkKSB7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
     </registers>
   </component>
