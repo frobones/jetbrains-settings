@@ -150,11 +150,12 @@
         <mark key="]" line="40" column="19" />
         <mark key="." line="206" column="0" />
       </file>
-      <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/nvppfs/src/qnx/ramdisk/c_mount.cpp" timestamp="1589938870841">
+      <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/nvppfs/src/qnx/ramdisk/c_mount.cpp" timestamp="1589940406529">
         <mark key="'" line="24" column="50" />
-        <mark key="[" line="145" column="0" />
-        <mark key="]" line="145" column="0" />
-        <mark key="." line="145" column="0" />
+        <mark key="[" line="52" column="29" />
+        <mark key="]" line="53" column="29" />
+        <mark key="." line="53" column="28" />
+        <mark key="^" line="53" column="29" />
       </file>
       <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/nvppfs/src/qnx/ramdisk/ramdisk_ops.cpp" timestamp="1589247166545">
         <mark key="[" line="121" column="44" />
