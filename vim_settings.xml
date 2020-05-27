@@ -78,11 +78,11 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/libbrn/libbrn.cpp" timestamp="1590539503035">
+      <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/libbrn/libbrn.cpp" timestamp="1590539743680">
         <mark key="'" line="130" column="19" />
-        <mark key="[" line="417" column="16" />
-        <mark key="]" line="399" column="4" />
-        <mark key="." line="399" column="3" />
+        <mark key="[" line="394" column="28" />
+        <mark key="]" line="394" column="28" />
+        <mark key="." line="394" column="28" />
         <mark key="^" line="399" column="4" />
       </file>
       <file name="/Dummy.txt" timestamp="1589857403890">
@@ -198,11 +198,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIFNlcnZpY2UgdGVhckRvd25TZXJ2aWNlID0gc2VydmljZTsK</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">Jg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text encoding="base64">Jg==</text>
       </register>
       <register name="/" type="4">
         <text>spawnProcess</text>
