@@ -78,13 +78,6 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/libbrn/libbrn.cpp" timestamp="1590540991592">
-        <mark key="'" line="189" column="19" />
-        <mark key="[" line="42" column="15" />
-        <mark key="]" line="507" column="36" />
-        <mark key="." line="507" column="35" />
-        <mark key="^" line="507" column="36" />
-      </file>
       <file name="/Dummy.txt" timestamp="1589857403890">
         <mark key="[" line="0" column="0" />
       </file>
@@ -133,7 +126,7 @@
       <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/tww-iface/tww.cpp" timestamp="1589493100946">
         <mark key="[" line="92" column="29" />
       </file>
-      <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/files/hiawatha/test-hiawatha-conn.cpp" timestamp="1589410754975">
+      <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/files/hiawatha/test-hiawatha-conn.cpp" timestamp="1590552355992">
         <mark key="[" line="71" column="49" />
         <mark key="]" line="71" column="49" />
         <mark key="." line="71" column="49" />
