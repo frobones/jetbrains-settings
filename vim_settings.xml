@@ -116,14 +116,11 @@
         <mark key="]" line="33" column="83" />
         <mark key="." line="33" column="83" />
       </file>
-      <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/twtipcd/CMakeLists.txt" timestamp="1590704929946">
-        <mark key="[" line="86" column="7" />
-      </file>
-      <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/files/CMakeLists.txt" timestamp="1589340645152">
-        <mark key="[" line="26" column="0" />
-        <mark key="]" line="19" column="0" />
-        <mark key="^" line="19" column="0" />
-        <mark key="." line="19" column="0" />
+      <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/twtipcd/CMakeLists.txt" timestamp="1590706013601">
+        <mark key="[" line="27" column="4" />
+        <mark key="]" line="26" column="5" />
+        <mark key="." line="26" column="4" />
+        <mark key="^" line="26" column="5" />
       </file>
       <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/libbrn/libbrn.cpp_dir/fragment.cpp" timestamp="1589857404997">
         <mark key="[" line="0" column="0" />
@@ -147,6 +144,7 @@
         <mark key="]" line="40" column="19" />
         <mark key="." line="206" column="0" />
       </file>
+      <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/twtipcd/src/twt_ipcd_linux_socket_ops_interface.hpp" timestamp="1590705311533" />
       <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/nvppfs/src/qnx/ramdisk/c_mount.cpp" timestamp="1589940922184">
         <mark key="'" line="24" column="50" />
         <mark key="[" line="119" column="0" />
@@ -190,11 +188,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IGNoYXIgKmVudltdID0geyAiIiwgTlVMTCB9Owo=</text>
+      <register name="&quot;" type="4">
+        <text>p</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Jg==</text>
+        <text>p</text>
       </register>
       <register name="/" type="4">
         <text>spawnProcess</text>
