@@ -114,6 +114,12 @@
         <mark key="]" line="33" column="83" />
         <mark key="." line="33" column="83" />
       </file>
+      <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/twtipcd/CMakeLists.txt" timestamp="1590707959596">
+        <mark key="[" line="132" column="4" />
+        <mark key="]" line="132" column="62" />
+        <mark key="^" line="131" column="58" />
+        <mark key="." line="132" column="0" />
+      </file>
       <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/libbrn/libbrn.cpp_dir/fragment.cpp" timestamp="1589857404997">
         <mark key="[" line="0" column="0" />
       </file>
@@ -180,7 +186,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHNyYy90d3RfaXBjZF90Y3BfY2xpZW50LmNwcAo=</text>
+        <text encoding="base64">ICAgICQ8JDxQTEFURk9STV9JRDpMaW51eD46c3JjL3R3dF9pcGNkX2xpbnV4X3R3dGlwY2QuY3BwPgo=</text>
       </register>
       <register name="-" type="4">
         <text>/</text>
@@ -189,7 +195,7 @@
         <text>spawnProcess</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">Y29uc3RleHByIGdpZF90IFdSRU5fR0lEID0gOTg7Cg==</text>
+        <text encoding="base64">ICAgICQ8JDxQTEFURk9STV9JRDpMaW51eD46c3JjL3R3dF9pcGNkX2xpbnV4X3R3dGlwY2QuY3BwPgo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIHNyYy90d3RfaXBjZF90Y3BfY2xpZW50LmNwcAo=</text>
