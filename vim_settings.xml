@@ -113,8 +113,8 @@
         <mark key="]" line="15" column="0" />
         <mark key="." line="15" column="0" />
       </file>
-      <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/twtipcd/src/twt_ipcd_qnx_twtipcd.cpp" timestamp="1590710754671">
-        <mark key="[" line="34" column="0" />
+      <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/twtipcd/src/twt_ipcd_qnx_twtipcd.cpp" timestamp="1590724149563">
+        <mark key="[" line="35" column="10" />
         <mark key="]" line="34" column="0" />
         <mark key="." line="34" column="0" />
       </file>
@@ -129,11 +129,11 @@
         <mark key="]" line="15" column="0" />
         <mark key="." line="15" column="0" />
       </file>
-      <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/twtipcd/CMakeLists.txt" timestamp="1590717991416">
-        <mark key="[" line="100" column="32" />
-        <mark key="]" line="155" column="50" />
+      <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/twtipcd/CMakeLists.txt" timestamp="1590724303221">
+        <mark key="[" line="27" column="4" />
+        <mark key="]" line="27" column="4" />
         <mark key="^" line="154" column="46" />
-        <mark key="." line="155" column="0" />
+        <mark key="." line="27" column="4" />
       </file>
       <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/waveform-control/CMakeLists.txt" timestamp="1590710457270" />
       <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/twtipcd/src/twt_ipcd_ipcd.hpp" timestamp="1590711184070" />
@@ -189,11 +189,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">I2luY2x1ZGUgImlwY19wYWNrZXQuaHBwIgo=</text>
+      <register name="&quot;" type="4">
+        <text>#</text>
       </register>
       <register name="-" type="4">
-        <text>_</text>
+        <text>#</text>
       </register>
       <register name="/" type="4">
         <text>spawnProcess</text>
