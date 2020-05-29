@@ -78,19 +78,6 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/libbrn/libbrn.cpp" timestamp="1590614632221">
-        <mark key="[" line="664" column="0" />
-        <mark key="]" line="664" column="0" />
-        <mark key="." line="664" column="0" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1590711284959">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/twtipcd/src/twt_ipcd_netlink_mac_interface.hpp" timestamp="1590730111559">
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="15" column="0" />
-        <mark key="." line="15" column="0" />
-      </file>
       <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/twtipcd/src/twt_ipcd_linux_twtipcd.cpp" timestamp="1590784392442">
         <mark key="'" line="61" column="30" />
       </file>
@@ -108,21 +95,16 @@
       <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/twtipcd/src/qnx/ipc_channelmsg.cpp" timestamp="1590718608359">
         <mark key="[" line="65" column="79" />
       </file>
+      <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/twtipcd/src/twt_ipcd_qnx_socket_ops_interface.cpp" timestamp="1590787944253">
+        <mark key="[" line="39" column="0" />
+        <mark key="]" line="39" column="0" />
+        <mark key="^" line="40" column="38" />
+        <mark key="." line="39" column="0" />
+      </file>
       <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/twtipcd/src/qnx/ipc_channelmsg.hpp" timestamp="1590718595966">
         <mark key="[" line="64" column="0" />
         <mark key="]" line="47" column="0" />
         <mark key="." line="47" column="0" />
-      </file>
-      <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/twtipcd/CMakeLists.txt" timestamp="1590786828197">
-        <mark key="[" line="154" column="25" />
-        <mark key="]" line="18" column="0" />
-        <mark key="." line="18" column="0" />
-      </file>
-      <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/libtwtipc/src/twt_ipc.h" timestamp="1590710251833">
-        <mark key="[" line="25" column="5" />
-        <mark key="]" line="27" column="6" />
-        <mark key="^" line="27" column="6" />
-        <mark key="." line="27" column="5" />
       </file>
       <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/twtipcd/src/epoll.hpp" timestamp="1590784795341">
         <mark key="[" line="15" column="10" />
@@ -135,14 +117,30 @@
       <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/twtipcd/src/epoll-qnx.hpp" timestamp="1590783590062">
         <mark key="[" line="16" column="21" />
       </file>
-      <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/libtwtos/src/Eventpoll.cpp" timestamp="1590784533965" />
       <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/twtipcd/src/twt_ipcd_qnx_twtipcd.cpp" timestamp="1590786753375">
         <mark key="[" line="380" column="24" />
         <mark key="]" line="276" column="0" />
         <mark key="." line="276" column="0" />
       </file>
+      <file name="/Dummy.txt" timestamp="1590711284959">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/twtipcd/src/twt_ipcd_netlink_mac_interface.hpp" timestamp="1590730111559">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="0" />
+        <mark key="." line="15" column="0" />
+      </file>
+      <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/twtipcd/CMakeLists.txt" timestamp="1590787613961">
+        <mark key="[" line="100" column="31" />
+        <mark key="]" line="18" column="0" />
+        <mark key="." line="18" column="0" />
+      </file>
+      <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/libtwtos/src/Eventpoll.cpp" timestamp="1590784533965" />
       <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/twtipcd/src/twt_ipcd_netlink_mac_interface.cpp" timestamp="1590714592771">
         <mark key="[" line="382" column="22" />
+      </file>
+      <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/twtipcd/src/twt_ipcd_linux_socket_ops_interface.cpp" timestamp="1590787703671">
+        <mark key="[" line="25" column="45" />
       </file>
     </filemarks>
     <jumps>
@@ -176,7 +174,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgeyJuZXRsaW5rLWdyb3VwIiwgMSwgMCwgbmV0bGlua19ncm91cF9vcHR9LAo=</text>
+        <text encoding="base64">ICAgLy8gdGhlIG5vbi1wcml2bGVkZ2VkIHNvY2tldCBvcHRpb24K</text>
       </register>
       <register name="-" type="4">
         <text>;</text>
@@ -188,31 +186,31 @@
         <text encoding="base64">ICAgICQ8JDxQTEFURk9STV9JRDpMaW51eD46dHd0aXBjZC1kZWZzLWxpbnV4Pgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgeyJuZXRsaW5rLWdyb3VwIiwgMSwgMCwgbmV0bGlua19ncm91cF9vcHR9LAo=</text>
+        <text encoding="base64">ICAgLy8gdGhlIG5vbi1wcml2bGVkZ2VkIHNvY2tldCBvcHRpb24K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgeyJuZXRsaW5rLWZhbWlseSIsIDEsIDAsIG5ldGxpbmtfZmFtaWx5X29wdH0sCg==</text>
+        <text encoding="base64">ICAgLy8gQXQgdGhpcyBwb2ludCB3ZSdyZSBub3QgYWxsb3dlZCB0byB1c2UgU09fU05EQlVGRk9SQ0UsIHNvIHVzZQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGZwcmludGYoZmQsICIgIC0tbmV0bGluay1ncm91cCA8Z3JvdXA+ICAgR3JvdXAgbmFtZSBmb3IgbmV0bGluayBpbnRlcmZhY2UgKGRlZmF1bHQgXCJUV1RfSVBDX1JYXCIpXG4iKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGZwcmludGYoZmQsICIgIC0tbmV0bGluay1mYW1pbHkgPGZhbWlseT4gRmFtaWx5IG5hbWUgZm9yIG5ldGxpbmsgaW50ZXJmYWNlIChkZWZhdWx0IFwiVFdUX0lQQ1wiKVxuIik7Cg==</text>
+        <text encoding="base64">ICAgfQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgbmV0bGlua19ncm91cF9vcHQsCg==</text>
+        <text encoding="base64">ICAgICAgfQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgbmV0bGlua19mYW1pbHlfb3B0LAo=</text>
+        <text encoding="base64">ICAgICAgICAgcmV0dXJuIHRydWU7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgewo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYnJlYWs7Cg==</text>
+        <text encoding="base64">ICAgICAgZWxzZQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbmV0bGlua19ncm91cCA9IG9wdGFyZzsK</text>
+        <text encoding="base64">ICAgICAgfQo=</text>
       </register>
     </registers>
   </component>
