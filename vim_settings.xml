@@ -84,10 +84,11 @@
         <mark key="." line="664" column="0" />
       </file>
       <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/twtipcd/src/qnx/MacSocketImpl.cpp" timestamp="1590714807472" />
-      <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/twtipcd/src/twt_ipcd_harris_ipc_channel_mac_interface.cpp" timestamp="1590715145484">
-        <mark key="[" line="354" column="0" />
-        <mark key="]" line="354" column="0" />
-        <mark key="." line="354" column="0" />
+      <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/twtipcd/src/twt_ipcd_harris_ipc_channel_mac_interface.cpp" timestamp="1590717641231">
+        <mark key="[" line="450" column="3" />
+        <mark key="]" line="450" column="4" />
+        <mark key="." line="450" column="3" />
+        <mark key="^" line="450" column="4" />
       </file>
       <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/twtipcd/src/qnx/MacSocketImpl.hpp" timestamp="1590713829985" />
       <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/libtwtipc/src/twt_ipc.h" timestamp="1590710251833">
