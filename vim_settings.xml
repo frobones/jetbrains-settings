@@ -135,10 +135,11 @@
       <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/twtipcd/src/epoll-qnx.hpp" timestamp="1590783590062">
         <mark key="[" line="16" column="21" />
       </file>
-      <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/twtipcd/src/twt_ipcd_qnx_twtipcd.cpp" timestamp="1590796472511">
+      <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/twtipcd/src/twt_ipcd_qnx_twtipcd.cpp" timestamp="1590797053684">
         <mark key="[" line="381" column="54" />
-        <mark key="]" line="244" column="0" />
-        <mark key="." line="244" column="0" />
+        <mark key="]" line="104" column="19" />
+        <mark key="." line="104" column="18" />
+        <mark key="^" line="104" column="19" />
       </file>
       <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/twtipcd/src/twt_ipcd_netlink_mac_interface.cpp" timestamp="1590796566097">
         <mark key="[" line="382" column="22" />
