@@ -87,6 +87,9 @@
         <mark key="." line="256" column="0" />
         <mark key="^" line="182" column="28" />
       </file>
+      <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/libtwtipc/src/twt_ipc_socket_ops.cpp" timestamp="1591220093744">
+        <mark key="[" line="65" column="50" />
+      </file>
       <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/twtipcd/src/qnx/MacSocketImpl.cpp" timestamp="1591216869322" />
       <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/twtipcd/src/twt_ipcd_linux_twtipcd.cpp" timestamp="1591040756794">
         <mark key="'" line="61" column="30" />
@@ -124,11 +127,6 @@
       </file>
       <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/twtipcd/src/epoll.hpp" timestamp="1590784795341">
         <mark key="[" line="15" column="10" />
-      </file>
-      <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/twtipcd/src/twt_ipcd_harris_ipc_channel_mac_interface.hpp" timestamp="1590782590061">
-        <mark key="[" line="23" column="0" />
-        <mark key="]" line="23" column="0" />
-        <mark key="." line="23" column="0" />
       </file>
       <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/twtipcd/src/epoll-qnx.hpp" timestamp="1590783590062">
         <mark key="[" line="16" column="21" />
