@@ -90,7 +90,7 @@
       <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/libtwtipc/src/twt_ipc_socket_ops.cpp" timestamp="1591220634295">
         <mark key="[" line="64" column="50" />
       </file>
-      <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/twtipcd/src/qnx/MacSocketImpl.cpp" timestamp="1591216869322" />
+      <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/libtwtipc/CMakeLists.txt" timestamp="1591300677227" />
       <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/twtipcd/src/twt_ipcd_linux_twtipcd.cpp" timestamp="1591222466913">
         <mark key="'" line="61" column="30" />
       </file>
@@ -122,11 +122,9 @@
         <mark key="." line="105" column="2" />
         <mark key="^" line="105" column="3" />
       </file>
-      <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/libtwtipc/src/twt_ipc.cpp" timestamp="1591213837321">
+      <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/libtwtipc/src/twt_ipc.cpp" timestamp="1591300734142">
         <mark key="'" line="58" column="67" />
       </file>
-      <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/tww-iface/tww.cpp" timestamp="1591222888996" />
-      <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/libtwtos/src/Eventpoll.cpp" timestamp="1591248017642" />
       <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/twtipcd/src/twt_ipcd_qnx_twtipcd.cpp" timestamp="1591247765718">
         <mark key="[" line="232" column="35" />
         <mark key="]" line="351" column="21" />
