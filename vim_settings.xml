@@ -99,11 +99,11 @@
         <mark key="^" line="24" column="1" />
         <mark key="." line="25" column="0" />
       </file>
-      <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/twtipcd/src/twt_ipcd_harris_ipc_channel_mac_interface.cpp" timestamp="1591310215819">
-        <mark key="[" line="299" column="63" />
-        <mark key="]" line="299" column="64" />
-        <mark key="." line="299" column="63" />
-        <mark key="^" line="299" column="64" />
+      <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/twtipcd/src/twt_ipcd_harris_ipc_channel_mac_interface.cpp" timestamp="1591386657731">
+        <mark key="[" line="217" column="25" />
+        <mark key="]" line="217" column="47" />
+        <mark key="." line="217" column="0" />
+        <mark key="^" line="301" column="64" />
       </file>
       <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/twtipcd/src/qnx/ipc_channelmsg.cpp" timestamp="1591147618772">
         <mark key="[" line="65" column="0" />
@@ -189,7 +189,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGxpc3QoQVBQRU5EIFRBUkdFVF9MSVNUIGhhcnJpcy1tYWMtaW50ZXJmYWNlLXRlc3QpCg==</text>
+        <text encoding="base64">ICAgICAgICBmcHJpbnRmKHN0ZGVyciwgImVycm9ybm89JWRcbiIsIGJ5dGVzKTsK</text>
       </register>
       <register name="-" type="4">
         <text>S</text>
@@ -198,7 +198,7 @@
         <text>spawnProcess</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGxpc3QoQVBQRU5EIFRBUkdFVF9MSVNUIGhhcnJpcy1tYWMtaW50ZXJmYWNlLXRlc3QpCg==</text>
+        <text encoding="base64">ICAgICAgICBmcHJpbnRmKHN0ZGVyciwgImVycm9ybm89JWRcbiIsIGJ5dGVzKTsK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
