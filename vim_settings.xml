@@ -142,10 +142,11 @@
       <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/twtipcd/src/twt_ipcd_netlink_mac_interface.cpp" timestamp="1591149141589">
         <mark key="[" line="382" column="22" />
       </file>
-      <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/libtwtipc/test/ipc_echo.c" timestamp="1591396155278">
+      <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/libtwtipc/test/ipc_echo.c" timestamp="1591397043805">
         <mark key="[" line="311" column="22" />
-        <mark key="]" line="312" column="9" />
-        <mark key="." line="312" column="9" />
+        <mark key="]" line="315" column="51" />
+        <mark key="." line="315" column="50" />
+        <mark key="^" line="315" column="51" />
       </file>
     </filemarks>
     <jumps>
