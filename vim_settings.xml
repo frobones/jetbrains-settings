@@ -126,10 +126,10 @@
         <mark key="'" line="58" column="67" />
       </file>
       <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/twt-blobd/src/server.cpp" timestamp="1591307008564" />
-      <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/twtipcd/src/twt_ipcd_qnx_twtipcd.cpp" timestamp="1591247765718">
-        <mark key="[" line="232" column="35" />
-        <mark key="]" line="351" column="21" />
-        <mark key="." line="351" column="20" />
+      <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/twtipcd/src/twt_ipcd_qnx_twtipcd.cpp" timestamp="1591324672844">
+        <mark key="[" line="412" column="0" />
+        <mark key="]" line="412" column="0" />
+        <mark key="." line="412" column="0" />
         <mark key="^" line="351" column="21" />
       </file>
       <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/twtipcd/src/twt_ipcd_netlink_mac_interface.cpp" timestamp="1591149141589">
@@ -173,8 +173,8 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgc3RkOjpzdHJpbmcgbmV0bGlua19ncm91cDsK</text>
+      <register name="&quot;" type="4">
+        <text>/</text>
       </register>
       <register name="-" type="4">
         <text>/</text>
