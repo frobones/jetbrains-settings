@@ -78,10 +78,18 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/twtipcd/src/qnx/MacSocketImpl.cpp" timestamp="1591388612914" />
-      <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/twtipcd/src/twt_ipcd_client.cpp" timestamp="1591411953799">
-        <mark key="[" line="31" column="0" />
-        <mark key="]" line="31" column="51" />
+      <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/libtwtipc/src/twt_ipc_socket_ops.cpp" timestamp="1591400413192">
+        <mark key="[" line="64" column="50" />
+      </file>
+      <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/twtipcd/src/twt_ipcd_noop_mac_interface.cpp" timestamp="1591412051247">
+        <mark key="[" line="39" column="0" />
+        <mark key="]" line="39" column="51" />
+        <mark key="." line="39" column="0" />
+      </file>
+      <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/twtipcd/src/twt_ipcd_client.cpp" timestamp="1591647188576">
+        <mark key="[" line="32" column="34" />
+        <mark key="]" line="32" column="3" />
+        <mark key="." line="32" column="3" />
       </file>
       <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/twtipcd/src/twt_ipcd_harris_ipc_channel_mac_interface.cpp" timestamp="1591412011454">
         <mark key="[" line="94" column="0" />
@@ -95,52 +103,42 @@
         <mark key="." line="313" column="55" />
         <mark key="^" line="33" column="13" />
       </file>
+      <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/twtipcd/src/twt_ipcd_tcp_client.cpp" timestamp="1591412096312">
+        <mark key="[" line="29" column="0" />
+        <mark key="]" line="29" column="51" />
+        <mark key="." line="29" column="0" />
+      </file>
       <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/twtipcd/src/qnx/ipc_channelmsg.cpp" timestamp="1591388289843">
         <mark key="[" line="65" column="0" />
         <mark key="]" line="68" column="0" />
         <mark key="." line="68" column="0" />
       </file>
-      <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/twtipcd/src/twt_ipcd_qnx_socket_ops_interface.cpp" timestamp="1591412056252">
-        <mark key="[" line="39" column="0" />
-        <mark key="]" line="39" column="51" />
+      <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/twtipcd/src/twt_ipcd_qnx_socket_ops_interface.cpp" timestamp="1591647061059">
+        <mark key="[" line="39" column="3" />
+        <mark key="]" line="39" column="3" />
         <mark key="^" line="14" column="22" />
-        <mark key="." line="39" column="0" />
-      </file>
-      <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/libtwtipc/src/twt_ipc.cpp" timestamp="1591401826173">
-        <mark key="'" line="58" column="67" />
-        <mark key="[" line="360" column="3" />
-        <mark key="]" line="417" column="69" />
-      </file>
-      <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/libtwtipc/src/twt_ipc.h" timestamp="1591400214253" />
-      <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/twtipcd/src/twt_ipcd_qnx_twtipcd.cpp" timestamp="1591413525639">
-        <mark key="[" line="255" column="31" />
-        <mark key="]" line="255" column="32" />
-        <mark key="." line="255" column="31" />
-        <mark key="^" line="255" column="32" />
-      </file>
-      <file name="$USER_HOME$/.CLion2019.3/system/.remote/twt20918_2222/5a4b4bc4-288c-44e5-88ab-d4b75e136859/opt/qnx650/target/qnx6/usr/include/errno.h" timestamp="1591395320590" />
-      <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/libtwtipc/src/twt_ipc_socket_ops.cpp" timestamp="1591400413192">
-        <mark key="[" line="64" column="50" />
-      </file>
-      <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/twtipcd/src/twt_ipcd_noop_mac_interface.cpp" timestamp="1591412051247">
-        <mark key="[" line="39" column="0" />
-        <mark key="]" line="39" column="51" />
-        <mark key="." line="39" column="0" />
-      </file>
-      <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/twtipcd/src/twt_ipcd_tcp_client.cpp" timestamp="1591412096312">
-        <mark key="[" line="29" column="0" />
-        <mark key="]" line="29" column="51" />
-        <mark key="." line="29" column="0" />
+        <mark key="." line="39" column="3" />
       </file>
       <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/twtipcd/src/twt_ipcd_tcp_client_factory.cpp" timestamp="1591412100310">
         <mark key="[" line="21" column="0" />
         <mark key="]" line="21" column="51" />
         <mark key="." line="21" column="0" />
       </file>
+      <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/libtwtipc/src/twt_ipc.cpp" timestamp="1591401826173">
+        <mark key="'" line="58" column="67" />
+        <mark key="[" line="360" column="3" />
+        <mark key="]" line="417" column="69" />
+      </file>
       <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/twtipcd/src/twt_ipcd_dropped_client.cpp" timestamp="1591413544132">
         <mark key="[" line="23" column="0" />
         <mark key="]" line="23" column="51" />
         <mark key="." line="23" column="0" />
+      </file>
+      <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/twtipcd/src/twt_ipcd_qnx_twtipcd.cpp" timestamp="1591413525639">
+        <mark key="[" line="255" column="31" />
+        <mark key="]" line="255" column="32" />
+        <mark key="." line="255" column="31" />
+        <mark key="^" line="255" column="32" />
       </file>
       <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/twtipcd/src/twt_ipcd_tcp_server_socket.cpp" timestamp="1591412125559">
         <mark key="[" line="148" column="0" />
@@ -196,8 +194,8 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICBmcHJpbnRmKHN0ZGVyciwgIiVzOiVkXG4iLCBfX2Z1bmNfXywgX19MSU5FX18pOwo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
