@@ -154,7 +154,8 @@
         <mark key="]" line="150" column="3" />
         <mark key="." line="150" column="3" />
       </file>
-      <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/twtipcd/src/twt_ipcd_ipcd.cpp" timestamp="1591648813980">
+      <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/twtipcd/src/twt_ipcd_ipcd.cpp" timestamp="1591659425433">
+        <mark key="'" line="75" column="3" />
         <mark key="[" line="61" column="4" />
         <mark key="]" line="58" column="3" />
         <mark key="." line="58" column="3" />
@@ -199,6 +200,7 @@
       <jump line="130" column="19" filename="$USER_HOME$/CLionProjects/prc-158-port/sources/libbrn/libbrn.cpp" />
       <jump line="61" column="30" filename="$USER_HOME$/CLionProjects/prc-158-port/sources/twtipcd/src/twt_ipcd_linux_twtipcd.cpp" />
       <jump line="58" column="67" filename="$USER_HOME$/CLionProjects/prc-158-port/sources/libtwtipc/src/twt_ipc.cpp" />
+      <jump line="75" column="3" filename="$USER_HOME$/CLionProjects/prc-158-port/sources/twtipcd/src/twt_ipcd_ipcd.cpp" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
