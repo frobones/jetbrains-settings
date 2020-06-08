@@ -109,11 +109,6 @@
         <mark key="]" line="29" column="3" />
         <mark key="." line="29" column="3" />
       </file>
-      <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/twtipcd/src/qnx/ipc_channelmsg.cpp" timestamp="1591388289843">
-        <mark key="[" line="65" column="0" />
-        <mark key="]" line="68" column="0" />
-        <mark key="." line="68" column="0" />
-      </file>
       <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/twtipcd/src/twt_ipcd_qnx_socket_ops_interface.cpp" timestamp="1591649160081">
         <mark key="[" line="30" column="3" />
         <mark key="]" line="41" column="3" />
@@ -125,6 +120,12 @@
         <mark key="]" line="16" column="6" />
         <mark key="^" line="16" column="6" />
         <mark key="." line="16" column="5" />
+      </file>
+      <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/twtipcd/CMakeLists.txt" timestamp="1591653075650">
+        <mark key="[" line="145" column="4" />
+        <mark key="]" line="145" column="28" />
+        <mark key="." line="145" column="27" />
+        <mark key="^" line="145" column="28" />
       </file>
       <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/twtipcd/src/twt_ipcd_tcp_client_factory.cpp" timestamp="1591649211587">
         <mark key="[" line="21" column="3" />
@@ -201,8 +202,8 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>u</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICQ8JDxQTEFURk9STV9JRDpRTlg+OnR3dG9zPgo=</text>
       </register>
       <register name="-" type="4">
         <text>u</text>
@@ -211,7 +212,7 @@
         <text>spawnProcess</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgLy9zZXRsb2dtYXNrKExPR19VUFRPKExPR19OT1RJQ0UpKTsK</text>
+        <text encoding="base64">ICAgICQ8JDxQTEFURk9STV9JRDpRTlg+OnR3dG9zPgo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgc3lzbG9nKExPR19ERUJVRywgIiVzOiVzOiVkOiAiLCBfX0ZJTEVfXywgX19mdW5jX18sIF9fTElORV9fKTsK</text>
