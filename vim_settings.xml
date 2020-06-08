@@ -120,7 +120,12 @@
         <mark key="^" line="14" column="22" />
         <mark key="." line="41" column="3" />
       </file>
-      <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/twtipcd/src/ipc-subscriptions.hpp" timestamp="1591648600822" />
+      <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/twtipcd/src/ipc-subscriptions.hpp" timestamp="1591651143448">
+        <mark key="[" line="16" column="5" />
+        <mark key="]" line="16" column="6" />
+        <mark key="^" line="16" column="6" />
+        <mark key="." line="16" column="5" />
+      </file>
       <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/twtipcd/src/twt_ipcd_tcp_client_factory.cpp" timestamp="1591649211587">
         <mark key="[" line="21" column="3" />
         <mark key="]" line="21" column="3" />
@@ -197,10 +202,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>u</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>u</text>
       </register>
       <register name="/" type="4">
         <text>spawnProcess</text>
