@@ -93,11 +93,11 @@
         <mark key="." line="42" column="19" />
         <mark key="^" line="42" column="20" />
       </file>
-      <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/twtipcd/src/twt_ipcd_harris_ipc_channel_mac_interface.cpp" timestamp="1591666860384">
-        <mark key="[" line="107" column="17" />
-        <mark key="]" line="338" column="36" />
-        <mark key="." line="338" column="35" />
-        <mark key="^" line="338" column="36" />
+      <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/twtipcd/src/twt_ipcd_harris_ipc_channel_mac_interface.cpp" timestamp="1591669618030">
+        <mark key="[" line="234" column="124" />
+        <mark key="]" line="346" column="0" />
+        <mark key="." line="341" column="0" />
+        <mark key="^" line="341" column="20" />
       </file>
       <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/libtwtipc/test/ipc_echo.cpp" timestamp="1591399815902">
         <mark key="[" line="313" column="67" />
@@ -206,7 +206,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHN0ZDo6bWVtY3B5KGJ1Zi5kYXRhKCksIGlwY19tZXNzYWdlLmRhdGFfcHRyLCBpcGNfbWVzc2FnZS5nZXRfcGF5bG9hZF9sZW5ndGgoKSk7Cg==</text>
+        <text encoding="base64">ICAgIGZwcmludGYoc3RkZXJyLCAiUmVjdiBidWZmZXI6IFsiKTsKICAgIGZvciAoYXV0byBjb25zdCYgaSA6IGlwY19tZXNzYWdlLnBheWxvYWRCdWZmZXIpIHsKICAgICAgICBmcHJpbnRmKHN0ZGVyciwgIiUwMlggIiwgaSk7CiAgICB9CiAgICBmcHJpbnRmKHN0ZGVyciwgIl1cbiIpOwoK</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">Jg==</text>
@@ -215,7 +215,7 @@
         <text>spawnProcess</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBpcGNfbWVzc2FnZS5wYXlsb2FkQnVmZmVyLmluc2VydChpcGNfbWVzc2FnZS5wYXlsb2FkQnVmZmVyLmVuZCgpLCBjaGFyQnVmLCAmY2hhckJ1ZltzaXplb2YoaXBjX21lc3NhZ2UuaXBjX2hlYWRlcildKTsK</text>
+        <text encoding="base64">ICAgIGZwcmludGYoc3RkZXJyLCAiUmVjdiBidWZmZXI6IFsiKTsKICAgIGZvciAoYXV0byBjb25zdCYgaSA6IGlwY19tZXNzYWdlLnBheWxvYWRCdWZmZXIpIHsKICAgICAgICBmcHJpbnRmKHN0ZGVyciwgIiUwMlggIiwgaSk7CiAgICB9CiAgICBmcHJpbnRmKHN0ZGVyciwgIl1cbiIpOwoK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIHN0ZDo6bWVtY3B5KGJ1Zi5kYXRhKCksIGlwY19tZXNzYWdlLmRhdGFfcHRyLCBpcGNfbWVzc2FnZS5nZXRfcGF5bG9hZF9sZW5ndGgoKSk7Cg==</text>
