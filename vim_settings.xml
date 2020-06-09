@@ -78,8 +78,8 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/libtwtipc/src/twt_ipc_socket_ops.cpp" timestamp="1591738416041">
-        <mark key="[" line="66" column="47" />
+      <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/libtwtipc/src/twt_ipc_socket_ops.cpp" timestamp="1591740193611">
+        <mark key="[" line="66" column="50" />
         <mark key="]" line="66" column="66" />
         <mark key="^" line="66" column="66" />
         <mark key="." line="66" column="65" />
