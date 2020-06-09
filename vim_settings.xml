@@ -93,11 +93,11 @@
         <mark key="." line="16" column="0" />
         <mark key="^" line="40" column="20" />
       </file>
-      <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/twtipcd/src/twt_ipcd_harris_ipc_channel_mac_interface.cpp" timestamp="1591699272383">
-        <mark key="[" line="69" column="3" />
-        <mark key="]" line="216" column="0" />
-        <mark key="." line="214" column="0" />
-        <mark key="^" line="213" column="0" />
+      <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/twtipcd/src/twt_ipcd_harris_ipc_channel_mac_interface.cpp" timestamp="1591700943175">
+        <mark key="[" line="153" column="64" />
+        <mark key="]" line="153" column="65" />
+        <mark key="." line="153" column="0" />
+        <mark key="^" line="152" column="62" />
       </file>
       <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/libtwtipc/test/ipc_echo.cpp" timestamp="1591399815902">
         <mark key="[" line="313" column="67" />
@@ -203,7 +203,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGZwcmludGYoc3RkZXJyLCAiU2VuZCBidWZmZXI6ICIpOwogICAgaXBjX21lc3NhZ2UucHJpbnRfcGFja2V0KCk7Cgo=</text>
+        <text encoding="base64">ICAgIGZwcmludGYoc3RkZXJyLCAicGFja2V0IGxlbmd0aCA9JWRbMHgleF1cbiIsIGxlbmd0aCwgbGVuZ3RoKTsK</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
@@ -212,34 +212,34 @@
         <text>spawnProcess</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGZwcmludGYoc3RkZXJyLCAiU2VuZCBidWZmZXI6ICIpOwogICAgaXBjX21lc3NhZ2UucHJpbnRfcGFja2V0KCk7Cgo=</text>
+        <text encoding="base64">ICAgIGZwcmludGYoc3RkZXJyLCAiYnl0ZXMgcmVhZCA9JWRbMHgleF1cbiIsIGJ5dGVzLCBieXRlcyk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHN0cnVjdCBpcGNfbWVzc2FnZV90IGlwY19tZXNzYWdlOwo=</text>
+        <text encoding="base64">ICAgIGZwcmludGYoc3RkZXJyLCAicGFja2V0IGxlbmd0aCA9JWRbMHgleF1cbiIsIGxlbmd0aCwgbGVuZ3RoKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGlwY19tZXNzYWdlLnNldF9kc3RfcG9ydChpcGNfaGVhZGVyLmRlc3RpbmF0aW9uX3BvcnQpOwo=</text>
+        <text encoding="base64">ICAgIGZwcmludGYoc3RkZXJyLCAicGFja2V0IGxlbmd0aCA9JWRbMHgleF1cbiIsIGxlbmd0aCwgbGVuZ3RoKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGlwY19tZXNzYWdlLnNldF9kc3RfYWRkcihpcGNfaGVhZGVyLmRlc3RpbmF0aW9uX2FkZHJlc3MpOwo=</text>
+        <text encoding="base64">ICAgIHN0cnVjdCBpcGNfbWVzc2FnZV90IGlwY19tZXNzYWdlOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGlwY19tZXNzYWdlLnNldF9zcmNfcG9ydChpcGNfaGVhZGVyLnNvdXJjZV9wb3J0KTsK</text>
+        <text encoding="base64">ICAgIGlwY19tZXNzYWdlLnNldF9kc3RfcG9ydChpcGNfaGVhZGVyLmRlc3RpbmF0aW9uX3BvcnQpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGlwY19tZXNzYWdlLnNldF9zcmNfYWRkcihpcGNfaGVhZGVyLnNvdXJjZV9hZGRyZXNzKTsK</text>
+        <text encoding="base64">ICAgIGlwY19tZXNzYWdlLnNldF9kc3RfYWRkcihpcGNfaGVhZGVyLmRlc3RpbmF0aW9uX2FkZHJlc3MpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGlwY19tZXNzYWdlLnNldF9zcmNfcG9ydChpcGNfaGVhZGVyLnNvdXJjZV9wb3J0KTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">ICAgIGlwY19tZXNzYWdlLnNldF9zcmNfYWRkcihpcGNfaGVhZGVyLnNvdXJjZV9hZGRyZXNzKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGlwY19oZWFkZXItPnN0cF9tc2cuZHN0X3BvcnQgPSBkc3RfcG9ydDsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">dm9pZCBpcGNfbWVzc2FnZV90OjpzZXRfZHN0X3BvcnQodWludDE2X3QgZHN0X3BvcnQpIHsK</text>
+        <text encoding="base64">fQo=</text>
       </register>
     </registers>
   </component>
