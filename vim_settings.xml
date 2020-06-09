@@ -154,11 +154,11 @@
         <mark key="]" line="150" column="3" />
         <mark key="." line="150" column="3" />
       </file>
-      <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/twtipcd/src/twt_ipcd_ipcd.cpp" timestamp="1591662755341">
+      <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/twtipcd/src/twt_ipcd_ipcd.cpp" timestamp="1591692201676">
         <mark key="'" line="75" column="3" />
-        <mark key="[" line="45" column="18" />
-        <mark key="]" line="58" column="3" />
-        <mark key="." line="58" column="3" />
+        <mark key="[" line="235" column="33" />
+        <mark key="]" line="235" column="33" />
+        <mark key="." line="235" column="33" />
       </file>
       <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/twtipcd/test/harris-mac-interface-test.cpp" timestamp="1591396806382">
         <mark key="[" line="58" column="0" />
@@ -206,10 +206,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>R</text>
+        <text>p</text>
       </register>
       <register name="-" type="4">
-        <text>R</text>
+        <text>p</text>
       </register>
       <register name="/" type="4">
         <text>spawnProcess</text>
