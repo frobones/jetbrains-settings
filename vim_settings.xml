@@ -161,11 +161,11 @@
       <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/twtipcd/src/qnx/qepoll.hpp" timestamp="1591747378698">
         <mark key="[" line="50" column="3" />
       </file>
-      <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/libtwtipc/test/endpoint-tester.cpp" timestamp="1591819314980">
-        <mark key="[" line="347" column="24" />
-        <mark key="]" line="347" column="25" />
-        <mark key="^" line="317" column="38" />
-        <mark key="." line="347" column="25" />
+      <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/libtwtipc/test/endpoint-tester.cpp" timestamp="1591820166157">
+        <mark key="[" line="319" column="27" />
+        <mark key="]" line="319" column="6" />
+        <mark key="^" line="317" column="43" />
+        <mark key="." line="319" column="6" />
       </file>
       <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/libtwtipc/test/ipc_echo.c" timestamp="1591743708898">
         <mark key="[" line="351" column="10" />
@@ -208,16 +208,16 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>R</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>R</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>spawnProcess</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGNoYXIgKmJ1ZmZlcjsK</text>
+        <text encoding="base64">ICAgICAgc3RkOjpjb3V0IDw8ICJDQVRDSCAxIiAgPDwgc3RkOjplbmRsOwo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgc2V0bG9nbWFzayhMT0dfVVBUTyhMT0dfREVCVUcpKTsK</text>
