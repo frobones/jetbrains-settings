@@ -78,7 +78,8 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/libtwtipc/src/twt_ipc_socket_ops.cpp" timestamp="1591750538106">
+      <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/libtwtipc/src/twt_ipc_socket_ops.cpp" timestamp="1591767335099">
+        <mark key="'" line="504" column="46" />
         <mark key="[" line="186" column="0" />
         <mark key="]" line="186" column="0" />
         <mark key="^" line="32" column="35" />
@@ -161,7 +162,7 @@
       <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/twtipcd/src/qnx/qepoll.hpp" timestamp="1591747378698">
         <mark key="[" line="50" column="3" />
       </file>
-      <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/libtwtipc/test/endpoint-tester.cpp" timestamp="1591745589571" />
+      <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/libtwtipc/test/endpoint-tester.cpp" timestamp="1591767332277" />
       <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/libtwtipc/test/ipc_echo.c" timestamp="1591743708898">
         <mark key="[" line="351" column="10" />
         <mark key="]" line="351" column="66" />
@@ -197,6 +198,7 @@
       <jump line="61" column="30" filename="$USER_HOME$/CLionProjects/prc-158-port/sources/twtipcd/src/twt_ipcd_linux_twtipcd.cpp" />
       <jump line="58" column="67" filename="$USER_HOME$/CLionProjects/prc-158-port/sources/libtwtipc/src/twt_ipc.cpp" />
       <jump line="75" column="3" filename="$USER_HOME$/CLionProjects/prc-158-port/sources/twtipcd/src/twt_ipcd_ipcd.cpp" />
+      <jump line="504" column="46" filename="$USER_HOME$/CLionProjects/prc-158-port/sources/libtwtipc/src/twt_ipc_socket_ops.cpp" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
