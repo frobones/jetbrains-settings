@@ -101,10 +101,10 @@
         <mark key="." line="16" column="0" />
         <mark key="^" line="40" column="20" />
       </file>
-      <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/twtipcd/src/twt_ipcd_harris_ipc_channel_mac_interface.cpp" timestamp="1591830234766">
-        <mark key="[" line="190" column="65" />
-        <mark key="]" line="305" column="0" />
-        <mark key="." line="305" column="0" />
+      <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/twtipcd/src/twt_ipcd_harris_ipc_channel_mac_interface.cpp" timestamp="1591830459040">
+        <mark key="[" line="148" column="58" />
+        <mark key="]" line="148" column="58" />
+        <mark key="." line="148" column="58" />
       </file>
       <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/twtipcd/src/twt_ipcd_tcp_client.cpp" timestamp="1591694271060">
         <mark key="[" line="15" column="0" />
@@ -205,10 +205,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>;</text>
+        <text>)</text>
       </register>
       <register name="-" type="4">
-        <text>;</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>spawnProcess</text>
