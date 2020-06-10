@@ -90,7 +90,6 @@
         <mark key="]" line="11" column="0" />
         <mark key="." line="11" column="0" />
       </file>
-      <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/twtipcd/src/twt_ipcd_client.hpp" timestamp="1591747495596" />
       <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/twtipcd/src/twt_ipcd_linux_twtipcd.cpp" timestamp="1591747914910">
         <mark key="[" line="430" column="46" />
         <mark key="]" line="430" column="46" />
@@ -162,7 +161,12 @@
       <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/twtipcd/src/qnx/qepoll.hpp" timestamp="1591747378698">
         <mark key="[" line="50" column="3" />
       </file>
-      <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/libtwtipc/test/endpoint-tester.cpp" timestamp="1591767332277" />
+      <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/libtwtipc/test/endpoint-tester.cpp" timestamp="1591819314980">
+        <mark key="[" line="347" column="24" />
+        <mark key="]" line="347" column="25" />
+        <mark key="^" line="317" column="38" />
+        <mark key="." line="347" column="25" />
+      </file>
       <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/libtwtipc/test/ipc_echo.c" timestamp="1591743708898">
         <mark key="[" line="351" column="10" />
         <mark key="]" line="351" column="66" />
