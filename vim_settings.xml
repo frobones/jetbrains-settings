@@ -121,6 +121,12 @@
         <mark key="]" line="254" column="53" />
         <mark key="." line="254" column="53" />
       </file>
+      <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/wren-waveform-services/test/twt-voice-translator/integration-test/src/twt-voice-translator-generator.cpp" timestamp="1591987776389">
+        <mark key="[" line="234" column="4" />
+        <mark key="]" line="235" column="0" />
+        <mark key="." line="234" column="0" />
+        <mark key="^" line="234" column="4" />
+      </file>
       <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/twtipcd/src/qnx/qepoll.hpp" timestamp="1591747378698">
         <mark key="[" line="50" column="3" />
       </file>
@@ -177,7 +183,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBmcHJpbnRmKHN0ZGVyciwgIiUwMlgiLCBpKTsK</text>
       </register>
       <register name="-" type="4">
         <text>ipc_message</text>
@@ -186,7 +192,7 @@
         <text>spawnProcess</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGZwcmludGYoc3RkZXJyLCAiU0VORDogIik7Cg==</text>
+        <text encoding="base64">ICAgICAgICBmcHJpbnRmKHN0ZGVyciwgIiUwMlgiLCBpKTsK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
