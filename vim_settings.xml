@@ -90,6 +90,9 @@
         <mark key="]" line="430" column="46" />
         <mark key="." line="430" column="46" />
       </file>
+      <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/twtipcd/src/qnx/epoll_qnx.hpp" timestamp="1592260534592">
+        <mark key="[" line="27" column="8" />
+      </file>
       <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/twtipcd/src/twt_ipcd_client.cpp" timestamp="1592259564426">
         <mark key="[" line="40" column="79" />
         <mark key="]" line="40" column="79" />
@@ -115,6 +118,11 @@
         <mark key="[" line="88" column="0" />
         <mark key="]" line="88" column="0" />
         <mark key="." line="88" column="0" />
+      </file>
+      <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/twtipcd/src/ipc-subscriptions.hpp" timestamp="1592260229710">
+        <mark key="[" line="388" column="52" />
+        <mark key="]" line="388" column="52" />
+        <mark key="." line="388" column="52" />
       </file>
       <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/twtipcd/src/twt_ipcd_tcp_client_factory.cpp" timestamp="1591694449515">
         <mark key="[" line="12" column="0" />
@@ -203,8 +211,8 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">IyB2YWxpZGF0ZSBuZXRsaW5rIGNvbmZpZyBmb3IgUU5YIG9ubHkK</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
