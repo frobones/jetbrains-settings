@@ -114,11 +114,6 @@
         <mark key="]" line="29" column="62" />
         <mark key="." line="29" column="62" />
       </file>
-      <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/twtipcd/CMakeLists.txt" timestamp="1592260183464">
-        <mark key="[" line="88" column="0" />
-        <mark key="]" line="88" column="0" />
-        <mark key="." line="88" column="0" />
-      </file>
       <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/twtipcd/src/ipc-subscriptions.hpp" timestamp="1592260229710">
         <mark key="[" line="388" column="52" />
         <mark key="]" line="388" column="52" />
@@ -161,9 +156,9 @@
         <mark key="[" line="50" column="3" />
       </file>
       <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/twtipcd/src/twt_ipcd_ipcd.cpp" timestamp="1592259284523">
-        <mark key="[" line="250" column="61" />
-        <mark key="]" line="250" column="61" />
-        <mark key="." line="250" column="61" />
+        <mark key="[" line="247" column="61" />
+        <mark key="]" line="247" column="61" />
+        <mark key="." line="247" column="61" />
       </file>
       <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/libtwtipc/test/endpoint-tester.cpp" timestamp="1592258526679">
         <mark key="[" line="441" column="34" />
