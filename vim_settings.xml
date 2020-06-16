@@ -120,6 +120,9 @@
         <mark key="]" line="388" column="52" />
         <mark key="." line="388" column="52" />
       </file>
+      <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/files/CMakeLists.txt" timestamp="1592265487616">
+        <mark key="[" line="18" column="0" />
+      </file>
       <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/libtwtipc/src/twt_ipc.cpp" timestamp="1591750448511">
         <mark key="'" line="58" column="67" />
         <mark key="[" line="361" column="6" />
@@ -131,8 +134,8 @@
         <mark key="]" line="109" column="0" />
         <mark key="." line="103" column="0" />
       </file>
-      <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/twtipcd/src/twt_ipcd_qnx_twtipcd.cpp" timestamp="1592259370881">
-        <mark key="[" line="356" column="50" />
+      <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/twtipcd/src/twt_ipcd_qnx_twtipcd.cpp" timestamp="1592265633072">
+        <mark key="[" line="33" column="23" />
         <mark key="]" line="356" column="50" />
         <mark key="." line="356" column="50" />
         <mark key="^" line="355" column="10" />
@@ -161,12 +164,6 @@
         <mark key="]" line="442" column="35" />
         <mark key="^" line="442" column="35" />
         <mark key="." line="442" column="34" />
-      </file>
-      <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/libtwtipc/test/ipc_echo.c" timestamp="1591743708898">
-        <mark key="[" line="351" column="10" />
-        <mark key="]" line="351" column="66" />
-        <mark key="." line="351" column="0" />
-        <mark key="^" line="351" column="10" />
       </file>
     </filemarks>
     <jumps>
