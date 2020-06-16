@@ -114,10 +114,10 @@
         <mark key="]" line="14" column="9" />
         <mark key="." line="14" column="9" />
       </file>
-      <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/twtipcd/src/twt_ipcd_qnx_twtipcd.cpp" timestamp="1592271772394">
-        <mark key="[" line="485" column="49" />
-        <mark key="]" line="485" column="49" />
-        <mark key="." line="485" column="49" />
+      <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/twtipcd/src/twt_ipcd_qnx_twtipcd.cpp" timestamp="1592275173727">
+        <mark key="[" line="387" column="0" />
+        <mark key="]" line="387" column="0" />
+        <mark key="." line="387" column="0" />
       </file>
       <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/libtwtipc/test/endpoint-tester.cpp" timestamp="1592258526679">
         <mark key="[" line="441" column="34" />
@@ -181,8 +181,8 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBlcG9sbC5hZGQoUE9MTElOLHVuaXhfc2VydmVyX3NvY2tldC5mZCgpLCAmdW5peF9zZXJ2ZXJfaGFuZGxlcik7Cg==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
@@ -194,31 +194,31 @@
         <text encoding="base64">I2luY2x1ZGUgInR3dF9pcGNkX25ldGxpbmtfbWFjX2ludGVyZmFjZS5ocHAiCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gZGVzdHJ1Y3RvciBjbG9zZXMgaXRzIHNvY2tldCBkZXNjcmlwdG9yLiAgQ2xvc2luZyB0aGUK</text>
+        <text encoding="base64">ICAgICAgICBlcG9sbC5hZGQoUE9MTElOLHVuaXhfc2VydmVyX3NvY2tldC5mZCgpLCAmdW5peF9zZXJ2ZXJfaGFuZGxlcik7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gc29ja2V0IGRlc2NyaXB0b3IgaW1wbGljaXRseSByZW1vdmVzIHRoZSBzb2NrZXQgZGVzY3JpcHRvcgo=</text>
+        <text encoding="base64">ICAgICAgICB1bml4X3NlcnZlcl9zb2NrZXRfaGFuZGxlciB1bml4X3NlcnZlcl9oYW5kbGVyKCZpcGNkLCB1bml4X3NlcnZlcl9zb2NrZXQuZmQoKSwgJmVwb2xsLCAmZHJvcHBlZF9jbGllbnRzKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gZnJvbSB0aGUgZXBvbGwgc2V0LCBzbyB0aGVyZSdzIG5vIG5lZWQgdG8gY2FsbAo=</text>
+        <text encoding="base64">ICAgICAgICB0d3Q6OmlwY2Q6OnVuaXhfc2VydmVyX3NvY2tldCB1bml4X3NlcnZlcl9zb2NrZXQodW5peF9kb21haW5fbmFtZSk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gZXBvbGwucmVtb3ZlKGZkKS4gIFdlIGRvIGhvd2V2ZXIgbmVlZCB0byByZWR1Y2UgdGhlIGVwb2xsCg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gcmV2ZW50cyBzaXplCg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZXBvbGxfZGF0YS5wdHIgPSAmbWFjX2hhbmRsZXI7Cg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBicmVhazsK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB1bml4X2RvbWFpbl9uYW1lID0gb3B0YXJnOwo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNhc2UgdW5peF9kb21haW5fb3B0Ogo=</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBlcG9sbF9kYXRhLnB0ciA9ICZ1bml4X3NlcnZlcl9oYW5kbGVyOwo=</text>
+        <text encoding="base64">ICAgICAgICBzdGQ6OnN0cmluZyB1bml4X2RvbWFpbl9uYW1lID0gSVBDX0RBRU1PTl9VTklYX1NPQ0tfU0VRUEFDS0VUX05BTUU7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBlcG9sbF9kYXRhID0gezB9Owo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgeyJ1bml4LWRvbWFpbiIsIDEsIDAsIHVuaXhfZG9tYWluX29wdH0sCg==</text>
       </register>
     </registers>
   </component>
