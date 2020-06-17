@@ -92,12 +92,6 @@
         <mark key="]" line="40" column="79" />
         <mark key="." line="40" column="79" />
       </file>
-      <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/twtipcd/src/twt_ipcd_harris_ipc_channel_mac_interface.cpp" timestamp="1592259092452">
-        <mark key="[" line="193" column="73" />
-        <mark key="]" line="193" column="73" />
-        <mark key="." line="193" column="73" />
-        <mark key="^" line="82" column="41" />
-      </file>
       <file name="$USER_HOME$/.CLion2019.3/system/.remote/twt20918_2222/5a4b4bc4-288c-44e5-88ab-d4b75e136859/opt/qnx650/target/qnx6/usr/include/sys/socket.h" timestamp="1592271078754" />
       <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/twtipcd/src/twt_ipcd_qnx_socket_ops_interface.cpp" timestamp="1592270887441">
         <mark key="[" line="29" column="40" />
@@ -120,6 +114,7 @@
         <mark key="]" line="361" column="6" />
         <mark key="." line="361" column="6" />
       </file>
+      <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/tww-iface/tww.cpp" timestamp="1592367909746" />
       <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/twtipcd/src/twt_ipcd_qnx_twtipcd.cpp" timestamp="1592278681660">
         <mark key="[" line="446" column="0" />
         <mark key="]" line="446" column="0" />
