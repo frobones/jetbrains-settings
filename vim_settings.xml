@@ -122,10 +122,10 @@
         <mark key="]" line="361" column="6" />
         <mark key="." line="361" column="6" />
       </file>
-      <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/twtipcd/src/twt_ipcd_qnx_twtipcd.cpp" timestamp="1592528866576">
-        <mark key="[" line="446" column="0" />
-        <mark key="]" line="446" column="0" />
-        <mark key="." line="446" column="0" />
+      <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/twtipcd/src/twt_ipcd_qnx_twtipcd.cpp" timestamp="1592530850154">
+        <mark key="[" line="427" column="40" />
+        <mark key="]" line="427" column="40" />
+        <mark key="." line="427" column="40" />
       </file>
       <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/twtipcd/src/twt_ipcd_tcp_server_socket.cpp" timestamp="1592259405620">
         <mark key="[" line="139" column="58" />
@@ -176,11 +176,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">dHd0OjppcGM6OnNlcXBhY2tldDo6aXBjZF9yZWNlaXZlKHN0ZDo6bm90aHJvd190LAo=</text>
+      <register name="&quot;" type="4">
+        <text>)</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>spawnProcess</text>
