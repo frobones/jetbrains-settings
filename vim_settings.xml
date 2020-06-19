@@ -78,9 +78,9 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/libtwtipc/src/twt_ipc_socket_ops.cpp" timestamp="1592278614582">
-        <mark key="'" line="504" column="46" />
-        <mark key="[" line="193" column="0" />
+      <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/libtwtipc/src/twt_ipc_socket_ops.cpp" timestamp="1592538776517">
+        <mark key="'" line="439" column="28" />
+        <mark key="[" line="80" column="3" />
         <mark key="]" line="193" column="4" />
         <mark key="^" line="193" column="4" />
         <mark key="." line="193" column="3" />
@@ -161,6 +161,7 @@
       <jump line="58" column="67" filename="$USER_HOME$/CLionProjects/prc-158-port/sources/libtwtipc/src/twt_ipc.cpp" />
       <jump line="75" column="3" filename="$USER_HOME$/CLionProjects/prc-158-port/sources/twtipcd/src/twt_ipcd_ipcd.cpp" />
       <jump line="504" column="46" filename="$USER_HOME$/CLionProjects/prc-158-port/sources/libtwtipc/src/twt_ipc_socket_ops.cpp" />
+      <jump line="439" column="28" filename="$USER_HOME$/CLionProjects/prc-158-port/sources/libtwtipc/src/twt_ipc_socket_ops.cpp" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
