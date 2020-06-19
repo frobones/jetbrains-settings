@@ -78,6 +78,13 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/libtwtipc/src/twt_ipc_socket_ops.cpp" timestamp="1592278614582">
+        <mark key="'" line="504" column="46" />
+        <mark key="[" line="193" column="0" />
+        <mark key="]" line="193" column="4" />
+        <mark key="^" line="193" column="4" />
+        <mark key="." line="193" column="3" />
+      </file>
       <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/twtipcd/src/twt_ipcd_linux_twtipcd.cpp" timestamp="1592278882375">
         <mark key="[" line="41" column="0" />
         <mark key="]" line="41" column="45" />
@@ -86,13 +93,11 @@
       <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/twtipcd/src/qnx/epoll_qnx.hpp" timestamp="1592260534592">
         <mark key="[" line="27" column="8" />
       </file>
-      <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/twtipcd/src/twt_ipcd_unix_server_socket.cpp" timestamp="1592278940745" />
       <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/twtipcd/src/twt_ipcd_client.cpp" timestamp="1592259564426">
         <mark key="[" line="40" column="79" />
         <mark key="]" line="40" column="79" />
         <mark key="." line="40" column="79" />
       </file>
-      <file name="$USER_HOME$/.CLion2019.3/system/.remote/twt20918_2222/5a4b4bc4-288c-44e5-88ab-d4b75e136859/opt/qnx650/target/qnx6/usr/include/sys/socket.h" timestamp="1592271078754" />
       <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/twtipcd/src/twt_ipcd_qnx_socket_ops_interface.cpp" timestamp="1592270887441">
         <mark key="[" line="29" column="40" />
         <mark key="]" line="29" column="62" />
@@ -108,35 +113,20 @@
         <mark key="]" line="14" column="9" />
         <mark key="." line="14" column="9" />
       </file>
+      <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/files/CMakeLists.txt" timestamp="1592265487616">
+        <mark key="[" line="18" column="0" />
+      </file>
       <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/libtwtipc/src/twt_ipc.cpp" timestamp="1592276782671">
         <mark key="'" line="58" column="67" />
         <mark key="[" line="361" column="6" />
         <mark key="]" line="361" column="6" />
         <mark key="." line="361" column="6" />
       </file>
-      <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/tww-iface/tww.cpp" timestamp="1592367909746" />
-      <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/twtipcd/src/twt_ipcd_qnx_twtipcd.cpp" timestamp="1592278681660">
+      <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/twtipcd/src/twt_ipcd_qnx_twtipcd.cpp" timestamp="1592526459114">
         <mark key="[" line="446" column="0" />
         <mark key="]" line="446" column="0" />
         <mark key="." line="446" column="0" />
       </file>
-      <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/twtipcd/src/twt_ipcd_ipcd_LOCAL_887.cpp" timestamp="1592340089496">
-        <mark key="[" line="58" column="35" />
-        <mark key="]" line="58" column="36" />
-        <mark key="." line="58" column="36" />
-      </file>
-      <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/libtwtipc/src/twt_ipc_socket_ops.cpp" timestamp="1592278614582">
-        <mark key="'" line="504" column="46" />
-        <mark key="[" line="193" column="0" />
-        <mark key="]" line="193" column="4" />
-        <mark key="^" line="193" column="4" />
-        <mark key="." line="193" column="3" />
-      </file>
-      <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/twtipcd/CMakeLists.txt" timestamp="1592264786050" />
-      <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/files/CMakeLists.txt" timestamp="1592265487616">
-        <mark key="[" line="18" column="0" />
-      </file>
-      <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/twtipcd/src/twt_ipcd_seqpacket_client.cpp" timestamp="1592266540239" />
       <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/twtipcd/src/twt_ipcd_tcp_server_socket.cpp" timestamp="1592259405620">
         <mark key="[" line="139" column="58" />
         <mark key="]" line="139" column="58" />
@@ -147,7 +137,11 @@
         <mark key="]" line="227" column="61" />
         <mark key="." line="227" column="61" />
       </file>
-      <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/twtipcd/src/twt_ipcd_linux_socket_ops_interface.cpp" timestamp="1592268066066" />
+      <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/twtipcd/src/twt_ipcd_ipcd_LOCAL_887.cpp" timestamp="1592340089496">
+        <mark key="[" line="58" column="35" />
+        <mark key="]" line="58" column="36" />
+        <mark key="." line="58" column="36" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="63" column="0" filename="$USER_HOME$/CLionProjects/prc-158-port/sources/nvppfs/src/qnx/main-qnx.cpp" />
