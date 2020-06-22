@@ -87,11 +87,12 @@
       </file>
       <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/libbrn/libbrn.cpp" timestamp="1592857193012">
         <mark key="'" line="10" column="16" />
-        <mark key="[" line="108" column="0" />
-        <mark key="]" line="108" column="0" />
+        <mark key="[" line="107" column="0" />
+        <mark key="]" line="107" column="0" />
         <mark key="^" line="105" column="17" />
-        <mark key="." line="108" column="0" />
+        <mark key="." line="107" column="0" />
       </file>
+      <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/libbrn/brntest.cpp" timestamp="1592857736379" />
       <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/twtipcd/src/twt_ipcd_linux_twtipcd.cpp" timestamp="1592278882375">
         <mark key="[" line="41" column="0" />
         <mark key="]" line="41" column="45" />
