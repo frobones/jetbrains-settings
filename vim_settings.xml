@@ -85,12 +85,12 @@
         <mark key="^" line="193" column="4" />
         <mark key="." line="193" column="3" />
       </file>
-      <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/libbrn/libbrn.cpp" timestamp="1592857193012">
+      <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/libbrn/libbrn.cpp" timestamp="1592858554255">
         <mark key="'" line="10" column="16" />
-        <mark key="[" line="107" column="0" />
-        <mark key="]" line="107" column="0" />
+        <mark key="[" line="176" column="0" />
+        <mark key="]" line="176" column="0" />
         <mark key="^" line="105" column="17" />
-        <mark key="." line="107" column="0" />
+        <mark key="." line="176" column="0" />
       </file>
       <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/libbrn/brntest.cpp" timestamp="1592857736379" />
       <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/twtipcd/src/twt_ipcd_linux_twtipcd.cpp" timestamp="1592278882375">
@@ -202,28 +202,28 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBzcGF3bnAoY21kLCAwLCAwLCAmaW5oZXJpdCwgY29uc3RfY2FzdDxjaGFyICpjb25zdCAqPihjbWRfYXJndW1lbnRzLT5kYXRhKCkpLCBlbnZpcm9uKTsK</text>
+        <text encoding="base64">cmFwaWRqc29uOjpEb2N1bWVudCBkOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBMYXVuY2hCcm5Qcml2aWxlZ2VkUHJvY2VzcyhjbWQsIGNtZF9hcmd1bWVudHMtPmRhdGEoKSwgZW52aXJvbiwgZmFsc2UpIDoK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IGF1dG8gcmMgPSBwcml2aWxlZ2VkID8K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBzcGF3bnAoY21kLCAwLCAwLCAmaW5oZXJpdCwgY29uc3RfY2FzdDxjaGFyICpjb25zdCAqPihjbWRfYXJndW1lbnRzLT5kYXRhKCkpLCBlbnZpcm9uKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">dHd0OjppcGM6OnNlcXBhY2tldDo6aXBjZF9yZWNlaXZlKHN0ZDo6bm90aHJvd190LAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBMYXVuY2hCcm5Qcml2aWxlZ2VkUHJvY2VzcyhjbWQsIGNtZF9hcmd1bWVudHMtPmRhdGEoKSwgZW52aXJvbiwgZmFsc2UpIDoK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBlcG9sbC5hZGQoUE9MTElOLHVuaXhfc2VydmVyX3NvY2tldC5mZCgpLCAmdW5peF9zZXJ2ZXJfaGFuZGxlcik7Cg==</text>
+        <text encoding="base64">ICAgIGNvbnN0IGF1dG8gcmMgPSBwcml2aWxlZ2VkID8K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB1bml4X3NlcnZlcl9zb2NrZXRfaGFuZGxlciB1bml4X3NlcnZlcl9oYW5kbGVyKCZpcGNkLCB1bml4X3NlcnZlcl9zb2NrZXQuZmQoKSwgJmVwb2xsLCAmZHJvcHBlZF9jbGllbnRzKTsK</text>
+        <text encoding="base64">dHd0OjppcGM6OnNlcXBhY2tldDo6aXBjZF9yZWNlaXZlKHN0ZDo6bm90aHJvd190LAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB0d3Q6OmlwY2Q6OnVuaXhfc2VydmVyX3NvY2tldCB1bml4X3NlcnZlcl9zb2NrZXQodW5peF9kb21haW5fbmFtZSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBlcG9sbC5hZGQoUE9MTElOLHVuaXhfc2VydmVyX3NvY2tldC5mZCgpLCAmdW5peF9zZXJ2ZXJfaGFuZGxlcik7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHRoaXMtPmNsaWVudF9mYWN0b3J5KTsK</text>
+        <text encoding="base64">ICAgICAgICB1bml4X3NlcnZlcl9zb2NrZXRfaGFuZGxlciB1bml4X3NlcnZlcl9oYW5kbGVyKCZpcGNkLCB1bml4X3NlcnZlcl9zb2NrZXQuZmQoKSwgJmVwb2xsLCAmZHJvcHBlZF9jbGllbnRzKTsK</text>
       </register>
     </registers>
   </component>
