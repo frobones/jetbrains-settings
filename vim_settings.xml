@@ -106,6 +106,12 @@
         <mark key="]" line="40" column="79" />
         <mark key="." line="40" column="79" />
       </file>
+      <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/twtipcd/src/twt_ipcd_harris_ipc_channel_mac_interface.cpp" timestamp="1592874133287">
+        <mark key="[" line="168" column="14" />
+        <mark key="]" line="168" column="12" />
+        <mark key="." line="168" column="11" />
+        <mark key="^" line="168" column="12" />
+      </file>
       <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/libtwtos/include/libtwtos/Eventpoll.hpp" timestamp="1592872702871">
         <mark key="[" line="97" column="1" />
         <mark key="]" line="97" column="1" />
@@ -116,11 +122,6 @@
         <mark key="]" line="29" column="62" />
         <mark key="." line="29" column="62" />
       </file>
-      <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/twtipcd/src/ipc-subscriptions.hpp" timestamp="1592260229710">
-        <mark key="[" line="388" column="52" />
-        <mark key="]" line="388" column="52" />
-        <mark key="." line="388" column="52" />
-      </file>
       <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/twtipcd/src/epoll_qnx.hpp" timestamp="1592872938706">
         <mark key="[" line="73" column="32" />
         <mark key="]" line="72" column="22" />
@@ -130,6 +131,7 @@
       <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/files/CMakeLists.txt" timestamp="1592265487616">
         <mark key="[" line="18" column="0" />
       </file>
+      <file name="$USER_HOME$/.CLion2019.3/system/.remote/twt20918_2222/5a4b4bc4-288c-44e5-88ab-d4b75e136859/opt/qnx650/target/qnx6/usr/include/c++/5.4.0/bits/stl_vector.h" timestamp="1592874128740" />
       <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/libtwtipc/src/twt_ipc.h" timestamp="1592862556467">
         <mark key="[" line="26" column="21" />
       </file>
@@ -139,16 +141,12 @@
         <mark key="." line="430" column="67" />
         <mark key="^" line="430" column="68" />
       </file>
-      <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/twtipcd/src/twt_ipcd_tcp_server_socket.cpp" timestamp="1592259405620">
-        <mark key="[" line="139" column="58" />
-        <mark key="]" line="139" column="58" />
-        <mark key="." line="139" column="58" />
-      </file>
       <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/libtwtipc/test/endpoint-tester.cpp" timestamp="1592591395449">
         <mark key="[" line="166" column="33" />
         <mark key="]" line="213" column="28" />
         <mark key="." line="213" column="20" />
       </file>
+      <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/twtipcd/src/twt_ipcd_netlink_mac_interface.cpp" timestamp="1592873715235" />
       <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/twtipcd/src/twt_ipcd_ipcd_LOCAL_887.cpp" timestamp="1592340089496">
         <mark key="[" line="58" column="35" />
         <mark key="]" line="58" column="36" />
@@ -196,11 +194,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBzdGQ6Om9zdHJpbmdzdHJlYW0gc3M7CiAgICAgICAgICAgICAgICAgICAgc3MgPDwgImVwb2xsIGZhaWxlZDogIiA8PCBzdGQ6OnN0cmVycm9yKGVycm5vKTsKICAgICAgICAgICAgICAgICAgICB0aHJvdyBzdGQ6OnJ1bnRpbWVfZXJyb3Ioc3Muc3RyKCkpOwo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>;</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>spawnProcess</text>
@@ -209,10 +207,10 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBzdGQ6Om9zdHJpbmdzdHJlYW0gc3M7CiAgICAgICAgICAgICAgICAgICAgc3MgPDwgImVwb2xsIGZhaWxlZDogIiA8PCBzdGQ6OnN0cmVycm9yKGVycm5vKTsKICAgICAgICAgICAgICAgICAgICB0aHJvdyBzdGQ6OnJ1bnRpbWVfZXJyb3Ioc3Muc3RyKCkpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgcmV0dXJuIChmZHB0ci5lbmQoKSA9PSBwdHIpID8gbnVsbHB0ciA6ICpwdHI7Cg==</text>
+        <text encoding="base64">ICAgIG1lbXNldChjaGFyQnVmLCAwLCBzaXplb2YoY2hhckJ1ZikpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgcmV0dXJuIChmZHB0ci5lbmQoKSA9PSBwdHIpID8gbnVsbHB0ciA6ICpwdHI7Cg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
@@ -221,19 +219,19 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgc3RkOjp1bm9yZGVyZWRfbWFwPGludCwgdm9pZCAqPiBmZHB0cjsK</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgc3RkOjp1bm9yZGVyZWRfbWFwPGludCwgdm9pZCAqPiBmZHB0cjsK</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBzcGF3bnAoY21kLCAwLCAwLCAmaW5oZXJpdCwgY29uc3RfY2FzdDxjaGFyICpjb25zdCAqPihjbWRfYXJndW1lbnRzLT5kYXRhKCkpLCBlbnZpcm9uKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBMYXVuY2hCcm5Qcml2aWxlZ2VkUHJvY2VzcyhjbWQsIGNtZF9hcmd1bWVudHMtPmRhdGEoKSwgZW52aXJvbiwgZmFsc2UpIDoK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBzcGF3bnAoY21kLCAwLCAwLCAmaW5oZXJpdCwgY29uc3RfY2FzdDxjaGFyICpjb25zdCAqPihjbWRfYXJndW1lbnRzLT5kYXRhKCkpLCBlbnZpcm9uKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IGF1dG8gcmMgPSBwcml2aWxlZ2VkID8K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBMYXVuY2hCcm5Qcml2aWxlZ2VkUHJvY2VzcyhjbWQsIGNtZF9hcmd1bWVudHMtPmRhdGEoKSwgZW52aXJvbiwgZmFsc2UpIDoK</text>
       </register>
     </registers>
   </component>
