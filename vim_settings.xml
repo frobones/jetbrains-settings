@@ -96,8 +96,8 @@
       <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/twtipcd/test/harris-channel.cpp" timestamp="1592947874704">
         <mark key="[" line="19" column="23" />
       </file>
-      <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/twtipcd/test/twtipcd-unit-tests.cpp" timestamp="1592949362357">
-        <mark key="'" line="35" column="37" />
+      <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/twtipcd/test/twtipcd-unit-tests.cpp" timestamp="1592949798598">
+        <mark key="'" line="31" column="37" />
         <mark key="[" line="24" column="0" />
         <mark key="]" line="24" column="0" />
         <mark key="." line="24" column="0" />
@@ -205,8 +205,8 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>/</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">I2VuZGlmCg==</text>
       </register>
       <register name="-" type="4">
         <text>/</text>
@@ -218,31 +218,31 @@
         <text encoding="base64">ICAgIHN0cnVjdCBlcG9sbF9kYXRhX3QKICAgIHsKICAgICAgdm9pZCAqIHB0cjsKICAgIH07Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">I2VuZGlmCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">fSBjbWRfdDsK</text>
+        <text encoding="base64">I2luY2x1ZGUgPGVwb2xsLmhwcD4K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgSVBDX05FVExJTktfQ01EX1VOU1VCU0NSSUJFLAo=</text>
+        <text encoding="base64">I2Vsc2UK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgSVBDX05FVExJTktfQ01EX1NVQlNDUklCRSwK</text>
+        <text encoding="base64">I2lmZGVmIF9RTlhfU09VUkNFCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgSVBDX05FVExJTktfQ01EX1JFQ0VJVkUsCg==</text>
+        <text encoding="base64">I2VuZGlmCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgSVBDX05FVExJTktfQ01EX1RSQU5TTUlUID0gMSwK</text>
+        <text encoding="base64">I2luY2x1ZGUgPGVwb2xsLmhwcD4K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">dHlwZWRlZiBlbnVtIHsK</text>
+        <text encoding="base64">I2Vsc2UK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">I2luY2x1ZGUgPGxpYnR3dG9zL0V2ZW50cG9sbC5ocHA+Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">cwo=</text>
+        <text encoding="base64">I2VuZGlmCg==</text>
       </register>
     </registers>
   </component>
