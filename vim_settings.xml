@@ -103,8 +103,8 @@
       <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/twtipcd/test/harris-channel.cpp" timestamp="1592947874704">
         <mark key="[" line="19" column="23" />
       </file>
-      <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/twtipcd/test/twtipcd-unit-tests.cpp" timestamp="1592949798598">
-        <mark key="'" line="31" column="37" />
+      <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/twtipcd/test/twtipcd-unit-tests.cpp" timestamp="1593033477674">
+        <mark key="'" line="40" column="0" />
         <mark key="[" line="24" column="0" />
         <mark key="]" line="24" column="0" />
         <mark key="." line="24" column="0" />
@@ -198,6 +198,7 @@
       <jump line="10" column="16" filename="$USER_HOME$/CLionProjects/prc-158-port/sources/libbrn/libbrn.cpp" />
       <jump line="35" column="37" filename="$USER_HOME$/CLionProjects/prc-158-port/sources/twtipcd/test/twtipcd-unit-tests.cpp" />
       <jump line="54" column="17" filename="$USER_HOME$/CLionProjects/prc-158-port/sources/libbrn/libbrn.cpp" />
+      <jump line="40" column="0" filename="$USER_HOME$/CLionProjects/prc-158-port/sources/twtipcd/test/twtipcd-unit-tests.cpp" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
