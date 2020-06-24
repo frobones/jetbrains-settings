@@ -78,11 +78,11 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/libbrn/libbrn.cpp" timestamp="1593026570065">
-        <mark key="[" line="470" column="59" />
-        <mark key="]" line="470" column="0" />
-        <mark key="^" line="96" column="33" />
-        <mark key="." line="470" column="0" />
+      <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/libbrn/libbrn.cpp" timestamp="1593026941307">
+        <mark key="[" line="146" column="16" />
+        <mark key="]" line="146" column="12" />
+        <mark key="^" line="146" column="12" />
+        <mark key="." line="146" column="11" />
       </file>
       <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/twtipcd/src/twt_ipcd_qnx_socket_ops_interface.hpp" timestamp="1592875951634">
         <mark key="[" line="12" column="22" />
@@ -209,17 +209,17 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoYXJndW1lbnQgIT0gbnVsbHB0cikK</text>
+      <register name="&quot;" type="4">
+        <text>A</text>
       </register>
       <register name="-" type="4">
-        <text>*</text>
+        <text>A</text>
       </register>
       <register name="/" type="4">
         <text>spawnProcess</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IgKGF1dG8gYXJnIDogdGVhckRvd25DbWRBcmdzXykgewogICAgICAgICAgICBjbWRfYXJndW1lbnRzLT5lbXBsYWNlX2JhY2soYXJnLmNfc3RyKCkpOwogICAgICAgIH0K</text>
+        <text encoding="base64">Y29uc3Qgc3RkOjp2ZWN0b3I8c3RkOjpzdHJpbmc+ICZTZXJ2aWNlOjpnZXRUZWFyRG93bkFyZ3MoKSB7CiAgICByZXR1cm4gdGVhckRvd25DbWRBcmdzXzsKfQoK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICBpZiAoYXJndW1lbnQgIT0gbnVsbHB0cikK</text>
