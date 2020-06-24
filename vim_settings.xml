@@ -78,12 +78,9 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/libbrn/libbrn.cpp" timestamp="1592964333805">
-        <mark key="'" line="10" column="16" />
+      <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/libbrn/libbrn.cpp" timestamp="1592964934576">
+        <mark key="'" line="54" column="17" />
         <mark key="[" line="47" column="25" />
-        <mark key="]" line="108" column="0" />
-        <mark key="^" line="105" column="17" />
-        <mark key="." line="108" column="0" />
       </file>
       <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/twtipcd/src/twt_ipcd_qnx_socket_ops_interface.hpp" timestamp="1592875951634">
         <mark key="[" line="12" column="22" />
@@ -206,6 +203,7 @@
       <jump line="439" column="28" filename="$USER_HOME$/CLionProjects/prc-158-port/sources/libtwtipc/src/twt_ipc_socket_ops.cpp" />
       <jump line="10" column="16" filename="$USER_HOME$/CLionProjects/prc-158-port/sources/libbrn/libbrn.cpp" />
       <jump line="35" column="37" filename="$USER_HOME$/CLionProjects/prc-158-port/sources/twtipcd/test/twtipcd-unit-tests.cpp" />
+      <jump line="54" column="17" filename="$USER_HOME$/CLionProjects/prc-158-port/sources/libbrn/libbrn.cpp" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
