@@ -78,8 +78,11 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/libbrn/libbrn.cpp" timestamp="1593109603874">
-        <mark key="[" line="208" column="0" />
+      <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/libbrn/libbrn.cpp" timestamp="1593110077125">
+        <mark key="[" line="302" column="30" />
+        <mark key="]" line="298" column="31" />
+        <mark key="." line="298" column="30" />
+        <mark key="^" line="298" column="31" />
       </file>
       <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/twtipcd/src/twt_ipcd_qnx_socket_ops_interface.hpp" timestamp="1592875951634">
         <mark key="[" line="12" column="22" />
@@ -201,7 +204,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICB0ZW1wbGF0ZTx0eXBlbmFtZSBUPiAvLyBhbnkgdHlwZSBvZiB0aGUgb2JqZWN0cyBhY2Nlc3NpYmxlIGZyb20gcmFwaWRqc29uOjpEb2N1bWVudDo6QmVnaW4oKQogIGJvb2wgSGFzTWVtYmVyKGNvbnN0IFQmIGRvbU9iaik7</text>
+        <text encoding="base64">ICB0ZW1wbGF0ZTx0eXBlbmFtZSBUPiAvLyBhbnkgdHlwZSBvZiB0aGUgb2JqZWN0cyBhY2Nlc3NpYmxlIGZyb20gcmFwaWRqc29uOjpEb2N1bWVudDo6QmVnaW4oKQogIGJvb2wgUGFyc2UoY29uc3QgVCYgZG9tT2JqKTsKCg==</text>
       </register>
       <register name="-" type="4">
         <text>A</text>
@@ -210,7 +213,7 @@
         <text>spawnProcess</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">dGVtcGxhdGU8dHlwZW5hbWUgVD4KYm9vbCBCb29sUGFyc2VyOjpQYXJzZShjb25zdCBUJiBkb21PYmopIHsKICAgIHBhcnNlZF8ucHJlc2VudCA9IGRvbU9iai5IYXNNZW1iZXIobmFtZV8uY19zdHIoKSk7Cgo=</text>
+        <text encoding="base64">ICB0ZW1wbGF0ZTx0eXBlbmFtZSBUPiAvLyBhbnkgdHlwZSBvZiB0aGUgb2JqZWN0cyBhY2Nlc3NpYmxlIGZyb20gcmFwaWRqc29uOjpEb2N1bWVudDo6QmVnaW4oKQogIGJvb2wgUGFyc2UoY29uc3QgVCYgZG9tT2JqKTsKCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICB0ZW1wbGF0ZTx0eXBlbmFtZSBUPiAvLyBhbnkgdHlwZSBvZiB0aGUgb2JqZWN0cyBhY2Nlc3NpYmxlIGZyb20gcmFwaWRqc29uOjpEb2N1bWVudDo6QmVnaW4oKQogIGJvb2wgSGFzTWVtYmVyKGNvbnN0IFQmIGRvbU9iaik7</text>
