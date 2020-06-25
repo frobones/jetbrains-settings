@@ -78,11 +78,11 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/libbrn/libbrn.cpp" timestamp="1593117883853">
-        <mark key="[" line="292" column="37" />
-        <mark key="]" line="292" column="0" />
-        <mark key="^" line="292" column="53" />
-        <mark key="." line="292" column="0" />
+      <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/libbrn/libbrn.cpp" timestamp="1593118917369">
+        <mark key="[" line="306" column="33" />
+        <mark key="]" line="293" column="13" />
+        <mark key="^" line="293" column="13" />
+        <mark key="." line="293" column="12" />
       </file>
       <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/twtipcd/src/twt_ipcd_qnx_socket_ops_interface.hpp" timestamp="1592875951634">
         <mark key="[" line="12" column="22" />
@@ -204,7 +204,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHN0ZDo6Y291dCA8PCAidXNsZWVwIGZhaWxlZCBlcnJubz0iIDw8IGVycm5vIDw8ICIgIjw8IHN0cmVycm9yKGVycm5vKSA8PCBzdGQ6OmVuZGw7Cg==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
@@ -213,34 +213,34 @@
         <text>spawnProcess</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICB0ZW1wbGF0ZTx0eXBlbmFtZSBUPiAvLyBhbnkgdHlwZSBvZiB0aGUgb2JqZWN0cyBhY2Nlc3NpYmxlIGZyb20gcmFwaWRqc29uOjpEb2N1bWVudDo6QmVnaW4oKQogIGJvb2wgUGFyc2UoY29uc3QgVCYgZG9tT2JqKTsKCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHN0ZDo6Y291dCA8PCAidXNsZWVwIGZhaWxlZCBlcnJubz0iIDw8IGVycm5vIDw8ICIgIjw8IHN0cmVycm9yKGVycm5vKSA8PCBzdGQ6OmVuZGw7Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICByZXR1cm4gZmFsc2U7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBzdGQ6OmNvdXQgPDwgIlZhbHVlIGZvciAncHJpdmlsZWdlZCcgYXR0cmlidXRlIGlzbid0IEJvb2xlYW4hIiA8PCBzdGQ6OmVuZGw7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIChub3QoKmkpWyJwcml2aWxlZ2VkIl0uSXNCb29sKCkpIHsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHNlcnZpY2UtPnByaXZpbGVnZWQgPSBmYWxzZTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICByZXR1cm4gZmFsc2U7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2VydmljZS0+dGVhckRvd25DbWQgPSAiIjsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBzdGQ6OmNvdXQgPDwgIlZhbHVlIGZvciAncHJpdmlsZWdlZCcgYXR0cmlidXRlIGlzbid0IEJvb2xlYW4hIiA8PCBzdGQ6OmVuZGw7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2VydmljZS0+bm9fc3lzdGVtZCA9IGZhbHNlOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIChub3QoKmkpWyJwcml2aWxlZ2VkIl0uSXNCb29sKCkpIHsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB9IGVsc2UK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHNlcnZpY2UtPnByaXZpbGVnZWQgPSBmYWxzZTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2VydmljZS0+bm9fc3lzdGVtZCA9ICgqaSlbIm5vLXN5c3RlbWQiXS5HZXRCb29sKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2VydmljZS0+dGVhckRvd25DbWQgPSAiIjsK</text>
       </register>
     </registers>
   </component>
