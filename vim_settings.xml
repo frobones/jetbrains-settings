@@ -110,11 +110,11 @@
         <mark key="]" line="32" column="0" />
         <mark key="." line="32" column="0" />
       </file>
-      <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/manet-network-monitoring-server/CMakeLists.txt" timestamp="1594145488196">
+      <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/manet-network-monitoring-server/CMakeLists.txt" timestamp="1594155193035">
         <mark key="[" line="7" column="74" />
-        <mark key="]" line="9" column="73" />
-        <mark key="." line="9" column="72" />
-        <mark key="^" line="9" column="73" />
+        <mark key="]" line="9" column="83" />
+        <mark key="." line="9" column="82" />
+        <mark key="^" line="9" column="83" />
       </file>
       <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/twtipcd/CMakeLists.txt" timestamp="1592957697370">
         <mark key="[" line="30" column="45" />
