@@ -110,8 +110,8 @@
         <mark key="]" line="32" column="0" />
         <mark key="." line="32" column="0" />
       </file>
-      <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/manet-network-monitoring-server/CMakeLists.txt" timestamp="1594075813188">
-        <mark key="[" line="4" column="7" />
+      <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/manet-network-monitoring-server/CMakeLists.txt" timestamp="1594145488196">
+        <mark key="[" line="7" column="74" />
         <mark key="]" line="9" column="73" />
         <mark key="." line="9" column="72" />
         <mark key="^" line="9" column="73" />
@@ -148,10 +148,10 @@
         <mark key="]" line="58" column="0" />
         <mark key="." line="58" column="0" />
       </file>
-      <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/manet-network-monitoring-server/twt/manet_network_monitoring_server/snapshot_nodevinfo.cpp" timestamp="1594144064215">
-        <mark key="[" line="125" column="0" />
-        <mark key="]" line="91" column="31" />
-        <mark key="." line="91" column="30" />
+      <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/manet-network-monitoring-server/twt/manet_network_monitoring_server/snapshot_nodevinfo.cpp" timestamp="1594145377671">
+        <mark key="[" line="71" column="120" />
+        <mark key="]" line="71" column="120" />
+        <mark key="." line="71" column="120" />
         <mark key="^" line="91" column="31" />
       </file>
       <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/prc-158-iface/eud-iface-data-forwarder/src/main.cpp" timestamp="1593208358516">
@@ -205,10 +205,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>r</text>
+        <text>:</text>
       </register>
       <register name="-" type="4">
-        <text>r</text>
+        <text>:</text>
       </register>
       <register name="/" type="4">
         <text>spawnProcess</text>
