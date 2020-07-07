@@ -100,10 +100,11 @@
         <mark key="]" line="24" column="0" />
         <mark key="." line="24" column="0" />
       </file>
-      <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/manet-network-monitoring-server/twt/manet_network_monitoring_server/snapshot_nodevinfo.hpp" timestamp="1594083276247">
-        <mark key="[" line="10" column="25" />
-        <mark key="]" line="8" column="0" />
-        <mark key="." line="8" column="0" />
+      <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/manet-network-monitoring-server/twt/manet_network_monitoring_server/snapshot_nodevinfo.hpp" timestamp="1594089036892">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="15" column="0" />
+        <mark key="^" line="15" column="71" />
+        <mark key="." line="15" column="0" />
       </file>
       <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/twtipcd/src/twt_ipcd_harris_ipc_channel_mac_interface.cpp" timestamp="1593733519040">
         <mark key="[" line="32" column="0" />
@@ -145,11 +146,11 @@
         <mark key="]" line="58" column="0" />
         <mark key="." line="58" column="0" />
       </file>
-      <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/manet-network-monitoring-server/twt/manet_network_monitoring_server/snapshot_nodevinfo.cpp" timestamp="1594084631914">
-        <mark key="[" line="18" column="54" />
-        <mark key="]" line="12" column="0" />
-        <mark key="." line="12" column="0" />
-        <mark key="^" line="12" column="0" />
+      <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/manet-network-monitoring-server/twt/manet_network_monitoring_server/snapshot_nodevinfo.cpp" timestamp="1594089574047">
+        <mark key="[" line="19" column="15" />
+        <mark key="]" line="82" column="31" />
+        <mark key="." line="82" column="30" />
+        <mark key="^" line="82" column="31" />
       </file>
       <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/prc-158-iface/eud-iface-data-forwarder/src/main.cpp" timestamp="1593208358516">
         <mark key="[" line="114" column="61" />
@@ -208,7 +209,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">I2luY2x1ZGUgPHN0cmluZz4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
@@ -220,31 +221,31 @@
         <text encoding="base64">ICAgICAgICAgICAgICA8PCAiICAtdyA8aGFycmlzX3dyaXRlX2NoYW5fbmFtZT4gICAgIE5hbWUgb2YgSGFycmlzIElQQyB3cml0ZSBjaGFubmVsIHVzZWQgZm9yIHNlbmRpbmcgcGFja2V0cy4gRGVmYXVsdDogIiA8PCBoYXJyaXNfd3JpdGVfY2hhbl9uYW1lIDw8IHN0ZDo6ZW5kbAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">I2luY2x1ZGUgPHN0cmluZz4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">I2luY2x1ZGUgIi4uLy4uLy4uLy4uLy4uLy4uLy5DTGlvbjIwMTkuMy9zeXN0ZW0vLnJlbW90ZS90d3QyMDkxOF8yMjIyLzVhNGI0YmM0LTI4OGMtNDRlNS04OGFiLWQ0Yjc1ZTEzNjg1OS9vcHQvcW54NjUwL3RhcmdldC9xbng2L2FybWxlLXY3L3Vzci9pbmNsdWRlL2Jvb3N0L2V4Y2VwdGlvbi90b19zdHJpbmcuaHBwIgo=</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgcmV0dXJuIChlbmQgPT0gc3RkOjpzdHJpbmc6Om5wb3MpID8gIiIgOiBzLnN1YnN0cigwLCBlbmQrMSk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text>endif ()</text>
+        <text encoding="base64">ICAgICAgc2l6ZV90IGVuZCA9IHMuZmluZF9sYXN0X25vdF9vZihXSElURVNQQUNFKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHRhcmdldF9saW5rX2xpYnJhcmllcyAoYnJuIHJhcGlkanNvbl9oZWFkZXJzKQo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">aWYgKFRBUkdFVCByYXBpZGpzb25faGVhZGVycykK</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICB9Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgcmV0dXJuIHRva2VuczsK</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">aW5zdGFsbCAoVEFSR0VUUyBicm4gREVTVElOQVRJT04gJHtDTUFLRV9JTlNUQUxMX1BSRUZJWH0pCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">dGFyZ2V0X2NvbXBpbGVfb3B0aW9ucyAoYnJuIFBSSVZBVEUgLVdlcnJvciAtV2FsbCAtV2V4dHJhIC1mUElDKQo=</text>
+        <text encoding="base64">ICAgICAgfQo=</text>
       </register>
     </registers>
   </component>
