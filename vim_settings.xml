@@ -87,7 +87,6 @@
       <file name="/Dummy.txt" timestamp="1594097152175">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/cmake-build-twt-remote/CMakeCache.txt" timestamp="1594085610021" />
       <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/twtipcd/src/twt_ipcd_linux_twtipcd.cpp" timestamp="1592959698590">
         <mark key="[" line="206" column="0" />
         <mark key="]" line="206" column="0" />
@@ -100,11 +99,11 @@
         <mark key="]" line="24" column="0" />
         <mark key="." line="24" column="0" />
       </file>
-      <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/manet-network-monitoring-server/twt/manet_network_monitoring_server/snapshot_nodevinfo.hpp" timestamp="1594097077462">
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="15" column="0" />
-        <mark key="^" line="15" column="71" />
-        <mark key="." line="15" column="0" />
+      <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/manet-network-monitoring-server/twt/manet_network_monitoring_server/snapshot_nodevinfo.hpp" timestamp="1594144288404">
+        <mark key="[" line="23" column="45" />
+        <mark key="]" line="14" column="15" />
+        <mark key="^" line="14" column="42" />
+        <mark key="." line="14" column="15" />
       </file>
       <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/twtipcd/src/twt_ipcd_harris_ipc_channel_mac_interface.cpp" timestamp="1593733519040">
         <mark key="[" line="32" column="0" />
@@ -117,7 +116,6 @@
         <mark key="." line="9" column="72" />
         <mark key="^" line="9" column="73" />
       </file>
-      <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/manet-network-monitoring-server/twt/manet_network_monitoring_server/snapshot_common.py" timestamp="1594089838149" />
       <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/twtipcd/CMakeLists.txt" timestamp="1592957697370">
         <mark key="[" line="30" column="45" />
         <mark key="]" line="122" column="34" />
@@ -150,11 +148,11 @@
         <mark key="]" line="58" column="0" />
         <mark key="." line="58" column="0" />
       </file>
-      <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/manet-network-monitoring-server/twt/manet_network_monitoring_server/snapshot_nodevinfo.cpp" timestamp="1594089574047">
-        <mark key="[" line="19" column="15" />
-        <mark key="]" line="82" column="31" />
-        <mark key="." line="82" column="30" />
-        <mark key="^" line="82" column="31" />
+      <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/manet-network-monitoring-server/twt/manet_network_monitoring_server/snapshot_nodevinfo.cpp" timestamp="1594144064215">
+        <mark key="[" line="125" column="0" />
+        <mark key="]" line="91" column="31" />
+        <mark key="." line="91" column="30" />
+        <mark key="^" line="91" column="31" />
       </file>
       <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/prc-158-iface/eud-iface-data-forwarder/src/main.cpp" timestamp="1593208358516">
         <mark key="[" line="114" column="61" />
@@ -167,7 +165,6 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/manet-network-monitoring-server/twt/manet_network_monitoring_server/snapshot_nodevinfo.py" timestamp="1594089861267" />
     </filemarks>
     <jumps>
       <jump line="63" column="0" filename="$USER_HOME$/CLionProjects/prc-158-port/sources/nvppfs/src/qnx/main-qnx.cpp" />
@@ -207,17 +204,17 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>r</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>r</text>
       </register>
       <register name="/" type="4">
         <text>spawnProcess</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICA8PCAiICAtdyA8aGFycmlzX3dyaXRlX2NoYW5fbmFtZT4gICAgIE5hbWUgb2YgSGFycmlzIElQQyB3cml0ZSBjaGFubmVsIHVzZWQgZm9yIHNlbmRpbmcgcGFja2V0cy4gRGVmYXVsdDogIiA8PCBoYXJyaXNfd3JpdGVfY2hhbl9uYW1lIDw8IHN0ZDo6ZW5kbAo=</text>
+        <text encoding="base64">ICBzdGQ6OnN0cmluZyBydHJpbShjb25zdCBzdGQ6OnN0cmluZyYgcyk7Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
