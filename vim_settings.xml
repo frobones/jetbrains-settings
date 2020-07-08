@@ -151,10 +151,11 @@
         <mark key="]" line="58" column="0" />
         <mark key="." line="58" column="0" />
       </file>
-      <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/manet-network-monitoring-server/twt/manet_network_monitoring_server/snapshot_nodevinfo.cpp" timestamp="1594240009679">
-        <mark key="[" line="185" column="0" />
-        <mark key="]" line="185" column="0" />
-        <mark key="." line="185" column="0" />
+      <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/manet-network-monitoring-server/twt/manet_network_monitoring_server/snapshot_nodevinfo.cpp" timestamp="1594240253238">
+        <mark key="[" line="182" column="4" />
+        <mark key="]" line="183" column="84" />
+        <mark key="." line="183" column="0" />
+        <mark key="^" line="182" column="0" />
       </file>
       <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/prc-158-iface/eud-iface-data-forwarder/src/main.cpp" timestamp="1593208358516">
         <mark key="[" line="114" column="61" />
@@ -207,7 +208,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHZpcy5hcHBlbmQoc3RyaW5nX2Zvcm1hdChSIigidGltZSIgOiAiJXMiLCkiLCBzdGQ6OnB1dF90aW1lKCBzdGQ6OmdtdGltZSggJnQgKSwgIiVGVCVUJXoiICkpKTsK</text>
+        <text encoding="base64">ICAgIHN0ZDo6c3RyaW5nIGlzb19mb3JtYXR0ZWRfdGltZSggc3RkOjpwdXRfdGltZSggc3RkOjpnbXRpbWUoICZ0ICksICIlRlQlVCV6IiApICk7Cg==</text>
       </register>
       <register name="-" type="4">
         <text />
@@ -216,7 +217,7 @@
         <text>spawnProcess</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHZpcy5hcHBlbmQoc3RyaW5nX2Zvcm1hdChSIigidGltZSIgOiAiJXMiLCkiLCBzdGQ6OnB1dF90aW1lKCBzdGQ6OmdtdGltZSggJnQgKSwgIiVGVCVUJXoiICkpKTsK</text>
+        <text encoding="base64">ICAgIHN0ZDo6c3RyaW5nIGlzb19mb3JtYXR0ZWRfdGltZSggc3RkOjpwdXRfdGltZSggc3RkOjpnbXRpbWUoICZ0ICksICIlRlQlVCV6IiApICk7Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIHZpcy5hcHBlbmQoc3RyaW5nX2Zvcm1hdChSIigidGltZSIgOiAiJXMiLCkiLCBzdGQ6OnB1dF90aW1lKCBzdGQ6OmdtdGltZSggJnQgKSwgIiVGVCVUJXoiICkpKTsK</text>
