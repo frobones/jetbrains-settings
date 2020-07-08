@@ -151,11 +151,11 @@
         <mark key="]" line="58" column="0" />
         <mark key="." line="58" column="0" />
       </file>
-      <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/manet-network-monitoring-server/twt/manet_network_monitoring_server/snapshot_nodevinfo.cpp" timestamp="1594232792188">
-        <mark key="[" line="68" column="34" />
-        <mark key="]" line="69" column="29" />
-        <mark key="^" line="196" column="76" />
-        <mark key="." line="68" column="0" />
+      <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/manet-network-monitoring-server/twt/manet_network_monitoring_server/snapshot_nodevinfo.cpp" timestamp="1594233428821">
+        <mark key="[" line="120" column="29" />
+        <mark key="]" line="120" column="30" />
+        <mark key="^" line="76" column="30" />
+        <mark key="." line="120" column="30" />
       </file>
       <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/prc-158-iface/eud-iface-data-forwarder/src/main.cpp" timestamp="1593208358516">
         <mark key="[" line="114" column="61" />
@@ -208,7 +208,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZnByaW50ZihzdGRlcnIsICIlczolZCAtIEFbJWRdXG4iLCBfX2Z1bmNfXywgX19MSU5FX18sIGNoYW5uZWwpOwo=</text>
+        <text encoding="base64">ICAgIGZwcmludGYoc3RkZXJyLCAiJXM6JWQgLSBBXG4iLCBfX2Z1bmNfXywgX19MSU5FX18pOwo=</text>
       </register>
       <register name="-" type="4">
         <text>)</text>
@@ -217,7 +217,7 @@
         <text>spawnProcess</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZnByaW50ZihzdGRlcnIsICIlczolZCAtIEFbJWRdXG4iLCBfX2Z1bmNfXywgX19MSU5FX18sIGNoYW5uZWwpOwo=</text>
+        <text encoding="base64">ICAgIGZwcmludGYoc3RkZXJyLCAiJXM6JWQgLSBBXG4iLCBfX2Z1bmNfXywgX19MSU5FX18pOwo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIGZwcmludGYoc3RkZXJyLCAiQSAtICVzOiVkXG4iLCBfX2Z1bmNfXywgX19MSU5FX18pOwo=</text>
