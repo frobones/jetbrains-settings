@@ -151,11 +151,11 @@
         <mark key="]" line="58" column="0" />
         <mark key="." line="58" column="0" />
       </file>
-      <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/manet-network-monitoring-server/twt/manet_network_monitoring_server/snapshot_nodevinfo.cpp" timestamp="1594240253238">
-        <mark key="[" line="182" column="4" />
-        <mark key="]" line="183" column="84" />
-        <mark key="." line="183" column="0" />
-        <mark key="^" line="182" column="0" />
+      <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/manet-network-monitoring-server/twt/manet_network_monitoring_server/snapshot_nodevinfo.cpp" timestamp="1594249112228">
+        <mark key="[" line="167" column="0" />
+        <mark key="]" line="186" column="82" />
+        <mark key="." line="186" column="81" />
+        <mark key="^" line="186" column="82" />
       </file>
       <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/prc-158-iface/eud-iface-data-forwarder/src/main.cpp" timestamp="1593208358516">
         <mark key="[" line="114" column="61" />
@@ -208,7 +208,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHN0ZDo6c3RyaW5nIGlzb19mb3JtYXR0ZWRfdGltZSggc3RkOjpwdXRfdGltZSggc3RkOjpnbXRpbWUoICZ0ICksICIlRlQlVCV6IiApICk7Cg==</text>
+        <text encoding="base64">ICAgIHN0ZDo6c3RyaW5nIGlzb19mb3JtYXR0ZWRfdGltZXMoICJmb28iKTsK</text>
       </register>
       <register name="-" type="4">
         <text />
@@ -220,31 +220,31 @@
         <text encoding="base64">ICAgIHN0ZDo6c3RyaW5nIGlzb19mb3JtYXR0ZWRfdGltZSggc3RkOjpwdXRfdGltZSggc3RkOjpnbXRpbWUoICZ0ICksICIlRlQlVCV6IiApICk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHZpcy5hcHBlbmQoc3RyaW5nX2Zvcm1hdChSIigidGltZSIgOiAiJXMiLCkiLCBzdGQ6OnB1dF90aW1lKCBzdGQ6OmdtdGltZSggJnQgKSwgIiVGVCVUJXoiICkpKTsK</text>
+        <text encoding="base64">ICAgIHN0ZDo6c3RyaW5nIGlzb19mb3JtYXR0ZWRfdGltZXMoICJmb28iKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGZwcmludGYoc3RkZXJyLCAiJXM6JWQgLSBGXG4iLCBfX2Z1bmNfXywgX19MSU5FX18pOwo=</text>
+        <text encoding="base64">ICAgIHZpcy5hcHBlbmQoc3RyaW5nX2Zvcm1hdChSIigidGltZSIgOiAiJXMiLCkiLCBzdGQ6OnB1dF90aW1lKCBzdGQ6OmdtdGltZSggJnQgKSwgIiVGVCVUJXoiICkpKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGZwcmludGYoc3RkZXJyLCAiJXM6JWQgLSBFXG4iLCBfX2Z1bmNfXywgX19MSU5FX18pOwo=</text>
+        <text encoding="base64">ICAgIGZwcmludGYoc3RkZXJyLCAiJXM6JWQgLSBGXG4iLCBfX2Z1bmNfXywgX19MSU5FX18pOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGZwcmludGYoc3RkZXJyLCAiJXM6JWQgLSBEXG4iLCBfX2Z1bmNfXywgX19MSU5FX18pOwo=</text>
+        <text encoding="base64">ICAgIGZwcmludGYoc3RkZXJyLCAiJXM6JWQgLSBFXG4iLCBfX2Z1bmNfXywgX19MSU5FX18pOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGZwcmludGYoc3RkZXJyLCAiJXM6JWQgLSBDXG4iLCBfX2Z1bmNfXywgX19MSU5FX18pOwo=</text>
+        <text encoding="base64">ICAgIGZwcmludGYoc3RkZXJyLCAiJXM6JWQgLSBEXG4iLCBfX2Z1bmNfXywgX19MSU5FX18pOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGZwcmludGYoc3RkZXJyLCAiJXM6JWQgLSBzaXplIG9mIGdlbmVyYWw9JWRcbiIsIF9fZnVuY19fLCBfX0xJTkVfXywgZ2VuZXJhbC5zaXplKCkpOwo=</text>
+        <text encoding="base64">ICAgIGZwcmludGYoc3RkZXJyLCAiJXM6JWQgLSBDXG4iLCBfX2Z1bmNfXywgX19MSU5FX18pOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGZwcmludGYoc3RkZXJyLCAiJXM6JWQgLSBCXG4iLCBfX2Z1bmNfXywgX19MSU5FX18pOwo=</text>
+        <text encoding="base64">ICAgIGZwcmludGYoc3RkZXJyLCAiJXM6JWQgLSBzaXplIG9mIGdlbmVyYWw9JWRcbiIsIF9fZnVuY19fLCBfX0xJTkVfXywgZ2VuZXJhbC5zaXplKCkpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGZwcmludGYoc3RkZXJyLCAiJXM6JWQgLSBBXG4iLCBfX2Z1bmNfXywgX19MSU5FX18pOwo=</text>
+        <text encoding="base64">ICAgIGZwcmludGYoc3RkZXJyLCAiJXM6JWQgLSBCXG4iLCBfX2Z1bmNfXywgX19MSU5FX18pOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGZwcmludGYoc3RkZXJyLCAiJXM6JWQgLSBTVEFSVFxuIiwgX19mdW5jX18sIF9fTElORV9fKTsK</text>
+        <text encoding="base64">ICAgIGZwcmludGYoc3RkZXJyLCAiJXM6JWQgLSBBXG4iLCBfX2Z1bmNfXywgX19MSU5FX18pOwo=</text>
       </register>
     </registers>
   </component>
