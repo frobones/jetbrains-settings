@@ -151,11 +151,11 @@
         <mark key="]" line="58" column="0" />
         <mark key="." line="58" column="0" />
       </file>
-      <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/manet-network-monitoring-server/twt/manet_network_monitoring_server/snapshot_nodevinfo.cpp" timestamp="1594256433760">
-        <mark key="[" line="167" column="0" />
-        <mark key="]" line="186" column="82" />
-        <mark key="." line="186" column="81" />
-        <mark key="^" line="186" column="82" />
+      <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/manet-network-monitoring-server/twt/manet_network_monitoring_server/snapshot_nodevinfo.cpp" timestamp="1594326152485">
+        <mark key="[" line="189" column="55" />
+        <mark key="]" line="186" column="23" />
+        <mark key="." line="186" column="22" />
+        <mark key="^" line="186" column="23" />
       </file>
       <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/prc-158-iface/eud-iface-data-forwarder/src/main.cpp" timestamp="1593208358516">
         <mark key="[" line="114" column="61" />
@@ -168,7 +168,6 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/manet-network-monitoring-server/twt/manet_network_monitoring_server/snapshot_nodevinfo.py" timestamp="1594254217849" />
     </filemarks>
     <jumps>
       <jump line="63" column="0" filename="$USER_HOME$/CLionProjects/prc-158-port/sources/nvppfs/src/qnx/main-qnx.cpp" />
@@ -209,7 +208,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHN0ZDo6c3RyaW5nIGlzb19mb3JtYXR0ZWRfdGltZXMoICJmb28iKTsK</text>
+        <text encoding="base64">ICAgIHN0cnVjdCB0aW1ldmFsIHRpbWU7Cg==</text>
       </register>
       <register name="-" type="4">
         <text />
@@ -221,31 +220,31 @@
         <text encoding="base64">ICAgIHN0ZDo6c3RyaW5nIGlzb19mb3JtYXR0ZWRfdGltZSggc3RkOjpwdXRfdGltZSggc3RkOjpnbXRpbWUoICZ0ICksICIlRlQlVCV6IiApICk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHN0ZDo6c3RyaW5nIGlzb19mb3JtYXR0ZWRfdGltZXMoICJmb28iKTsK</text>
+        <text encoding="base64">ICAgIHN0cnVjdCB0aW1ldmFsIHRpbWU7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHZpcy5hcHBlbmQoc3RyaW5nX2Zvcm1hdChSIigidGltZSIgOiAiJXMiLCkiLCBzdGQ6OnB1dF90aW1lKCBzdGQ6OmdtdGltZSggJnQgKSwgIiVGVCVUJXoiICkpKTsK</text>
+        <text encoding="base64">ICAgIGF1dG8gdCA9IHN0ZDo6Y2hyb25vOjpzeXN0ZW1fY2xvY2s6OnRvX3RpbWVfdChzdGQ6OmNocm9ubzo6aGlnaF9yZXNvbHV0aW9uX2Nsb2NrOjpub3coKSk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGZwcmludGYoc3RkZXJyLCAiJXM6JWQgLSBGXG4iLCBfX2Z1bmNfXywgX19MSU5FX18pOwo=</text>
+        <text encoding="base64">ICAgIGF1dG8gbm93ID0gc3RkOjpjaHJvbm86Ogo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGZwcmludGYoc3RkZXJyLCAiJXM6JWQgLSBFXG4iLCBfX2Z1bmNfXywgX19MSU5FX18pOwo=</text>
+        <text encoding="base64">ICAgIHN0ZDo6c3RyaW5nIGlzb19mb3JtYXR0ZWRfdGltZXMoICJmb28iKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGZwcmludGYoc3RkZXJyLCAiJXM6JWQgLSBEXG4iLCBfX2Z1bmNfXywgX19MSU5FX18pOwo=</text>
+        <text encoding="base64">ICAgIHZpcy5hcHBlbmQoc3RyaW5nX2Zvcm1hdChSIigidGltZSIgOiAiJXMiLCkiLCBzdGQ6OnB1dF90aW1lKCBzdGQ6OmdtdGltZSggJnQgKSwgIiVGVCVUJXoiICkpKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGZwcmludGYoc3RkZXJyLCAiJXM6JWQgLSBDXG4iLCBfX2Z1bmNfXywgX19MSU5FX18pOwo=</text>
+        <text encoding="base64">ICAgIGZwcmludGYoc3RkZXJyLCAiJXM6JWQgLSBGXG4iLCBfX2Z1bmNfXywgX19MSU5FX18pOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGZwcmludGYoc3RkZXJyLCAiJXM6JWQgLSBzaXplIG9mIGdlbmVyYWw9JWRcbiIsIF9fZnVuY19fLCBfX0xJTkVfXywgZ2VuZXJhbC5zaXplKCkpOwo=</text>
+        <text encoding="base64">ICAgIGZwcmludGYoc3RkZXJyLCAiJXM6JWQgLSBFXG4iLCBfX2Z1bmNfXywgX19MSU5FX18pOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGZwcmludGYoc3RkZXJyLCAiJXM6JWQgLSBCXG4iLCBfX2Z1bmNfXywgX19MSU5FX18pOwo=</text>
+        <text encoding="base64">ICAgIGZwcmludGYoc3RkZXJyLCAiJXM6JWQgLSBEXG4iLCBfX2Z1bmNfXywgX19MSU5FX18pOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGZwcmludGYoc3RkZXJyLCAiJXM6JWQgLSBBXG4iLCBfX2Z1bmNfXywgX19MSU5FX18pOwo=</text>
+        <text encoding="base64">ICAgIGZwcmludGYoc3RkZXJyLCAiJXM6JWQgLSBDXG4iLCBfX2Z1bmNfXywgX19MSU5FX18pOwo=</text>
       </register>
     </registers>
   </component>
