@@ -116,6 +116,9 @@
         <mark key="." line="7" column="45" />
         <mark key="^" line="7" column="46" />
       </file>
+      <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/manet-network-monitoring-server/twt/manet_network_monitoring_server/snapshot_common.py" timestamp="1594341762696">
+        <mark key="[" line="47" column="23" />
+      </file>
       <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/twtipcd/CMakeLists.txt" timestamp="1592957697370">
         <mark key="[" line="30" column="45" />
         <mark key="]" line="122" column="34" />
@@ -126,6 +129,9 @@
         <mark key="[" line="167" column="56" />
         <mark key="]" line="83" column="0" />
         <mark key="." line="83" column="0" />
+      </file>
+      <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/manet-network-monitoring-server/twt/manet_network_monitoring_server/logical_channel.py" timestamp="1594341697894">
+        <mark key="[" line="45" column="12" />
       </file>
       <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/libtwtipc/src/twt_ipc.h" timestamp="1593213247852">
         <mark key="[" line="24" column="0" />
@@ -142,9 +148,6 @@
       </file>
       <file name="/Dummy.cpp" timestamp="1594148197655">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/twtipcd/src/twt_ipcd_qnx_twtipcd.cpp" timestamp="1592952646549">
-        <mark key="." line="27" column="0" />
       </file>
       <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/prc-158-iface/harris-ipc-wrapper/include/harris-ipc-wrapper/HarrisIpcWrapper.hpp" timestamp="1593206792950">
         <mark key="[" line="58" column="0" />
