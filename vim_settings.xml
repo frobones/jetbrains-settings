@@ -116,8 +116,8 @@
         <mark key="." line="7" column="45" />
         <mark key="^" line="7" column="46" />
       </file>
-      <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/manet-network-monitoring-server/twt/manet_network_monitoring_server/snapshot_common.py" timestamp="1594341762696">
-        <mark key="[" line="47" column="23" />
+      <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/manet-network-monitoring-server/twt/manet_network_monitoring_server/snapshot_common.py" timestamp="1594409091871">
+        <mark key="[" line="67" column="21" />
       </file>
       <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/twtipcd/CMakeLists.txt" timestamp="1592957697370">
         <mark key="[" line="30" column="45" />
@@ -130,14 +130,15 @@
         <mark key="]" line="83" column="0" />
         <mark key="." line="83" column="0" />
       </file>
-      <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/manet-network-monitoring-server/twt/manet_network_monitoring_server/logical_channel.py" timestamp="1594341697894">
-        <mark key="[" line="45" column="12" />
+      <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/manet-network-monitoring-server/twt/manet_network_monitoring_server/logical_channel.py" timestamp="1594409080655">
+        <mark key="[" line="98" column="49" />
       </file>
       <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/libtwtipc/src/twt_ipc.h" timestamp="1593213247852">
         <mark key="[" line="24" column="0" />
         <mark key="]" line="24" column="0" />
         <mark key="." line="24" column="0" />
       </file>
+      <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/manet-network-monitoring-server/cgi/snapshot_nodevinfo.cgi" timestamp="1594408554920" />
       <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/spec" timestamp="1594097232130">
         <mark key="[" line="68" column="8" />
       </file>
