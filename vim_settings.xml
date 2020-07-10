@@ -87,12 +87,6 @@
       <file name="/Dummy.txt" timestamp="1594097152175">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/twtipcd/src/twt_ipcd_linux_twtipcd.cpp" timestamp="1592959698590">
-        <mark key="[" line="206" column="0" />
-        <mark key="]" line="206" column="0" />
-        <mark key="." line="206" column="0" />
-        <mark key="^" line="206" column="0" />
-      </file>
       <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/twtipcd/test/twtipcd-unit-tests.cpp" timestamp="1593034268150">
         <mark key="'" line="36" column="0" />
         <mark key="[" line="24" column="0" />
@@ -128,6 +122,12 @@
       </file>
       <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/manet-network-monitoring-server/twt/manet_network_monitoring_server/logical_channel.py" timestamp="1594409508372">
         <mark key="[" line="98" column="34" />
+      </file>
+      <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/files/web-apps/var/www/apps/private/cgi-bin/snapshot_nodevinfo.py" timestamp="1594417109392">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="10" column="37" />
+        <mark key="^" line="9" column="5" />
+        <mark key="." line="9" column="0" />
       </file>
       <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/libtwtipc/src/twt_ipc.h" timestamp="1593213247852">
         <mark key="[" line="24" column="0" />
@@ -213,7 +213,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICNzdWJwcm9jZXNzLmNoZWNrX2NhbGwoYXJncywgZW52PWVudikK</text>
       </register>
       <register name="-" type="4">
         <text />
@@ -222,7 +222,7 @@
         <text>spawnProcess</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHN0ZDo6c3RyaW5nIGlzb19mb3JtYXR0ZWRfdGltZSggc3RkOjpwdXRfdGltZSggc3RkOjpnbXRpbWUoICZ0ICksICIlRlQlVCV6IiApICk7Cg==</text>
+        <text encoding="base64">ICAgICNzdWJwcm9jZXNzLmNoZWNrX2NhbGwoYXJncywgZW52PWVudikK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
