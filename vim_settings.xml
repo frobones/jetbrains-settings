@@ -93,8 +93,8 @@
         <mark key="]" line="24" column="0" />
         <mark key="." line="24" column="0" />
       </file>
-      <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/manet-network-monitoring-server/twt/manet_network_monitoring_server/snapshot_nodevinfo.hpp" timestamp="1594238808588">
-        <mark key="[" line="28" column="64" />
+      <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/manet-network-monitoring-server/twt/manet_network_monitoring_server/snapshot_nodevinfo.hpp" timestamp="1594426760146">
+        <mark key="[" line="15" column="48" />
         <mark key="]" line="28" column="72" />
         <mark key="^" line="28" column="72" />
         <mark key="." line="28" column="71" />
@@ -110,7 +110,7 @@
         <mark key="." line="7" column="45" />
         <mark key="^" line="7" column="46" />
       </file>
-      <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/manet-network-monitoring-server/twt/manet_network_monitoring_server/snapshot_common.py" timestamp="1594409757567">
+      <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/manet-network-monitoring-server/twt/manet_network_monitoring_server/snapshot_common.py" timestamp="1594426629920">
         <mark key="[" line="65" column="0" />
         <mark key="]" line="65" column="0" />
         <mark key="." line="65" column="0" />
@@ -151,11 +151,10 @@
         <mark key="]" line="58" column="0" />
         <mark key="." line="58" column="0" />
       </file>
-      <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/manet-network-monitoring-server/twt/manet_network_monitoring_server/snapshot_nodevinfo.cpp" timestamp="1594330679229">
-        <mark key="[" line="185" column="4" />
-        <mark key="]" line="185" column="80" />
-        <mark key="." line="185" column="0" />
-        <mark key="^" line="184" column="71" />
+      <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/manet-network-monitoring-server/twt/manet_network_monitoring_server/snapshot_nodevinfo.cpp" timestamp="1594427504725">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
       </file>
       <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/prc-158-iface/eud-iface-data-forwarder/src/main.cpp" timestamp="1593208358516">
         <mark key="[" line="114" column="61" />
@@ -168,7 +167,7 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/manet-network-monitoring-server/twt/manet_network_monitoring_server/snapshot_nodevinfo.py" timestamp="1594409521774">
+      <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/manet-network-monitoring-server/twt/manet_network_monitoring_server/snapshot_nodevinfo.py" timestamp="1594427203586">
         <mark key="[" line="59" column="58" />
         <mark key="]" line="80" column="0" />
         <mark key="." line="80" column="0" />
@@ -213,7 +212,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICNzdWJwcm9jZXNzLmNoZWNrX2NhbGwoYXJncywgZW52PWVudikK</text>
+        <text encoding="base64">I2luY2x1ZGUgPGN0aW1lPgo=</text>
       </register>
       <register name="-" type="4">
         <text />
@@ -222,34 +221,34 @@
         <text>spawnProcess</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICNzdWJwcm9jZXNzLmNoZWNrX2NhbGwoYXJncywgZW52PWVudikK</text>
+        <text encoding="base64">ICAgICAgICBzdGQ6OmNvdXQgPDwgc25hcHNob3Rfbm9kZXZpbmZvOjpzeXN0ZW1fcmVhZCgpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">I2luY2x1ZGUgPGN0aW1lPgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBzdGQ6OmNvdXQgPDwgc25hcHNob3Rfbm9kZXZpbmZvOjpzeXN0ZW1fcmVhZCgpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHJldHVybiB2aXMK</text>
+        <text encoding="base64">ICAgICAgICBzdGQ6OmNvdXQgPDwgc25hcHNob3Rfbm9kZXZpbmZvOjpzeXN0ZW1fcmVhZCgpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB2aXMuYXBwZW5kKGxvZ2ljYWwpCg==</text>
+        <text encoding="base64">ICAgICAgICBzdGQ6Ogo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmlzLmFwcGVuZCgnLCcpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBlbHNlOgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZmlyc3QgPSBGYWxzZQo=</text>
+        <text encoding="base64">ICAgIHJldHVybiB2aXMK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBmaXJzdDoK</text>
+        <text encoding="base64">ICAgICAgICB2aXMuYXBwZW5kKGxvZ2ljYWwpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmlzLmFwcGVuZCgnLCcpCg==</text>
       </register>
     </registers>
   </component>
