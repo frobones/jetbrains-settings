@@ -131,6 +131,12 @@
         <mark key="]" line="24" column="0" />
         <mark key="." line="24" column="0" />
       </file>
+      <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/manet-network-monitoring-server/cgi/snapshot_nodevinfo.cgi" timestamp="1594939587749">
+        <mark key="[" line="6" column="9" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+        <mark key="^" line="5" column="0" />
+      </file>
       <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/spec" timestamp="1594097232130">
         <mark key="[" line="68" column="8" />
       </file>
@@ -139,7 +145,7 @@
         <mark key="]" line="71" column="0" />
         <mark key="." line="71" column="0" />
       </file>
-      <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/nvppfs/CMakeLists.txt" timestamp="1594936863431" />
+      <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/nvppfs/CMakeLists.txt" timestamp="1594939320741" />
       <file name="/Dummy.cpp" timestamp="1594148197655">
         <mark key="[" line="0" column="0" />
       </file>
@@ -160,11 +166,11 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/manet-network-monitoring-server/twt/manet_network_monitoring_server/snapshot_nodevinfo.py" timestamp="1594851548779">
-        <mark key="[" line="104" column="24" />
-        <mark key="]" line="55" column="0" />
-        <mark key="." line="55" column="0" />
-        <mark key="^" line="54" column="3" />
+      <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/manet-network-monitoring-server/twt/manet_network_monitoring_server/snapshot_nodevinfo.py" timestamp="1594939596759">
+        <mark key="[" line="103" column="23" />
+        <mark key="]" line="103" column="29" />
+        <mark key="." line="103" column="28" />
+        <mark key="^" line="103" column="29" />
       </file>
     </filemarks>
     <jumps>
@@ -206,8 +212,8 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>v</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">aWYgb3MuZW52aXJvbi5nZXQgPT0gJ1BSQ18xNTgnOgo=</text>
       </register>
       <register name="-" type="4">
         <text>v</text>
@@ -219,31 +225,31 @@
         <text encoding="base64">ICAgIHN0ZDo6c3RyaW5nIG52cHBfcGF0aCA9IC91c3IvYXBwcy93cmVuOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">aWYgb3MuZW52aXJvbi5nZXQgPT0gJ1BSQ18xNTgnOgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBudnBwX3BhdGggPSAiL3Zhci92b2xhdGlsZSI7Cg==</text>
+        <text encoding="base64">aW1wb3J0IHBsYXRmb3JtCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIH0gZWxzZSB7Cg==</text>
+        <text encoding="base64">aW1wb3J0IHBsYXRmb3JtCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBudnBwX3BhdGggPSBzdGQ6OnN0cmluZyhhcmd2WzFdKTsK</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGlmIChfUU5YX1NPVVJDRSkgewo=</text>
+        <text encoding="base64">ICAgICAgICBudnBwX3BhdGggPSAiL3Zhci92b2xhdGlsZSI7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHN0ZDo6c3RyaW5nIG52cHBfcGF0aDsK</text>
+        <text encoding="base64">ICAgIH0gZWxzZSB7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHZpcyA9IFsneyddCg==</text>
+        <text encoding="base64">ICAgICAgICBudnBwX3BhdGggPSBzdGQ6OnN0cmluZyhhcmd2WzFdKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">I2luY2x1ZGUgPGN0aW1lPgo=</text>
+        <text encoding="base64">ICAgIGlmIChfUU5YX1NPVVJDRSkgewo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBzdGQ6OmNvdXQgPDwgc25hcHNob3Rfbm9kZXZpbmZvOjpzeXN0ZW1fcmVhZCgpOwo=</text>
+        <text encoding="base64">ICAgIHN0ZDo6c3RyaW5nIG52cHBfcGF0aDsK</text>
       </register>
     </registers>
   </component>
