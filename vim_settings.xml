@@ -114,11 +114,11 @@
       <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/wren-waveform-services/src/twt-tsm-voice-translator/CMakeLists.txt" timestamp="1595442906328">
         <mark key="[" line="76" column="26" />
       </file>
-      <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/twtipcd/CMakeLists.txt" timestamp="1595462239769">
-        <mark key="[" line="50" column="15" />
-        <mark key="]" line="51" column="0" />
-        <mark key="." line="51" column="0" />
-        <mark key="^" line="51" column="45" />
+      <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/twtipcd/CMakeLists.txt" timestamp="1595465172885">
+        <mark key="[" line="91" column="5" />
+        <mark key="]" line="91" column="5" />
+        <mark key="." line="91" column="5" />
+        <mark key="^" line="91" column="40" />
       </file>
       <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/twtipcd/doc/porting-guide.md" timestamp="1595462058032">
         <mark key="[" line="61" column="20" />
@@ -183,11 +183,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aWYgKCAiJHtDTUFLRV9TWVNURU1fTkFNRX0iIFNUUkVRVUFMICJMaW51eCIgKQo=</text>
+      <register name="&quot;" type="4">
+        <text>&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>v</text>
+        <text>&quot;</text>
       </register>
       <register name="/" type="4">
         <text>spawnProcess</text>
