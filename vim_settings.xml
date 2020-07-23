@@ -102,6 +102,7 @@
       <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/wren-waveform-services/test/unit-tests/twt-otf-status-handler/CMakeLists.txt" timestamp="1595442977383">
         <mark key="[" line="69" column="32" />
       </file>
+      <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/wren-waveform-services/test/unit-tests/twt-nb-data-translator/CMakeLists.txt" timestamp="1595533129405" />
       <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/wren-waveform-services/src/twt-nb-pli-translator/CMakeLists.txt" timestamp="1595442755550">
         <mark key="[" line="71" column="26" />
       </file>
@@ -125,9 +126,6 @@
       </file>
       <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/wren-waveform-services/test/twt-nb-data-translator/integration-test/twt-nb-data-translator-generator/CMakeLists.txt" timestamp="1595382314039">
         <mark key="[" line="46" column="22" />
-      </file>
-      <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/wren-waveform-services/test/twt-nb-data-translator/integration-test/twt-nb-data-translator-checker/CMakeLists.txt" timestamp="1595382299404">
-        <mark key="[" line="46" column="29" />
       </file>
       <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/wren-waveform-services/src/twt-tsm-status-handler/CMakeLists.txt" timestamp="1595442899238">
         <mark key="[" line="68" column="29" />
