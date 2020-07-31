@@ -117,12 +117,12 @@
       <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/twtipcd/doc/porting-guide.md" timestamp="1595462058032">
         <mark key="[" line="61" column="20" />
       </file>
-      <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/nvppfs/src/ipc_monitor.cpp" timestamp="1596238221187">
-        <mark key="'" line="94" column="42" />
-        <mark key="[" line="100" column="31" />
-        <mark key="]" line="100" column="32" />
-        <mark key="." line="100" column="31" />
-        <mark key="^" line="100" column="32" />
+      <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/nvppfs/src/ipc_monitor.cpp" timestamp="1596239237966">
+        <mark key="'" line="96" column="42" />
+        <mark key="[" line="63" column="17" />
+        <mark key="]" line="63" column="17" />
+        <mark key="." line="63" column="17" />
+        <mark key="^" line="102" column="27" />
       </file>
       <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/twtipcd/src/twt_ipcd_qnx_twtipcd.cpp" timestamp="1596237757676">
         <mark key="'" line="177" column="88" />
@@ -179,34 +179,34 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>=</text>
       </register>
       <register name="/" type="4">
         <text>spawnProcess</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">c2V0KCBDTUFLRV9TWVNURU1fTkFNRSBRTlggKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKG1faXBjX2VuZHBvaW50ID09IG51bGxwdHIpCiAgICAgICAgICAgICAgICBicmVhazsKICAgICAgICAgICAgZWxzZQogICAgICAgICAgICAgICAgY29udGludWU7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgIHN0YXRpYyBzdHJ1Y3Qgc3RhdCBzYnVmOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29udGludWU7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgc3RhdGljIHN0cnVjdCBzdGF0IHNidWY7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgc3RhdCgiL3Vzci9hcHBzL3dyZW4vbnZwcCIsICZzYnVmKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aWYgKCAiJHtDTUFLRV9TWVNURU1fTkFNRX0iIFNUUkVRVUFMICJMaW51eCIgKQo=</text>
+        <text encoding="base64">ICAgICAgIHN0YXRpYyBzdHJ1Y3Qgc3RhdCBzYnVmOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJHtDTUFLRV9DVVJSRU5UX1NPVVJDRV9ESVJ9L3NyYy9xbngK</text>
+        <text encoding="base64">ICAgICAgICAgc3RhdGljIHN0cnVjdCBzdGF0IHNidWY7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Ly8gVGhpcyBzaG91bGQgb25seSBiZSBjb21waWxlZCBmb3IgUU5YCg==</text>
+        <text encoding="base64">aWYgKCAiJHtDTUFLRV9TWVNURU1fTkFNRX0iIFNUUkVRVUFMICJMaW51eCIgKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Ly8gVGhpcyBzaG91bGQgb25seSBiZSBjb21waWxlZCBmb3IgUU5YCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJHtDTUFLRV9DVVJSRU5UX1NPVVJDRV9ESVJ9L3NyYy9xbngK</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Ly8gVGhpcyBzaG91bGQgb25seSBiZSBjb21waWxlZCBmb3IgUU5YCg==</text>
