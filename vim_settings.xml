@@ -96,9 +96,6 @@
       <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/wren-waveform-services/test/unit-tests/twt-otf-status-handler/CMakeLists.txt" timestamp="1595442977383">
         <mark key="[" line="69" column="32" />
       </file>
-      <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/wren-waveform-services/src/twt-nb-pli-translator/CMakeLists.txt" timestamp="1595442755550">
-        <mark key="[" line="71" column="26" />
-      </file>
       <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/wren-waveform-services/src/twt-transec-responder/CMakeLists.txt" timestamp="1595442872451">
         <mark key="[" line="55" column="26" />
       </file>
@@ -117,6 +114,7 @@
       <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/twtipcd/doc/porting-guide.md" timestamp="1595462058032">
         <mark key="[" line="61" column="20" />
       </file>
+      <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/nvppfs/src/nvp_monitor_base.hpp" timestamp="1596243519187" />
       <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/nvppfs/src/ipc_monitor.cpp" timestamp="1596239237966">
         <mark key="'" line="96" column="42" />
         <mark key="[" line="63" column="17" />
