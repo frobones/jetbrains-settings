@@ -106,11 +106,6 @@
       <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/twtipcd/doc/porting-guide.md" timestamp="1595462058032">
         <mark key="[" line="61" column="20" />
       </file>
-      <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/service-tools/CMakeLists.txt" timestamp="1596845635888">
-        <mark key="[" line="98" column="0" />
-        <mark key="]" line="97" column="0" />
-        <mark key="." line="97" column="0" />
-      </file>
       <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/nvppfs/src/ipc_monitor.cpp" timestamp="1596244531552">
         <mark key="'" line="96" column="42" />
         <mark key="[" line="91" column="10" />
@@ -181,7 +176,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">dGFyZ2V0X2xpbmtfbGlicmFyaWVzIChodHRwLXJlcXVlc3QgUFJJVkFURQogICAkPCQ8UExBVEZPUk1fSUQ6UU5YPjpzb2NrZXQ+CikKCg==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
@@ -190,7 +185,7 @@
         <text>spawnProcess</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBleGl0X3N0YXR1cyA9IEVYSVRfRkFJTFVSRTsK</text>
+        <text encoding="base64">dGFyZ2V0X2xpbmtfbGlicmFyaWVzIChodHRwLXJlcXVlc3QgUFJJVkFURQogICAkPCQ8UExBVEZPUk1fSUQ6UU5YPjpzb2NrZXQ+CikKCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
