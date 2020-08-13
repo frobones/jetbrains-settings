@@ -93,6 +93,9 @@
       <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/wren-waveform-services/test/unit-tests/twt-otf-status-handler/CMakeLists.txt" timestamp="1595442977383">
         <mark key="[" line="69" column="32" />
       </file>
+      <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/openssl/crypto/pkcs12/p12_kiss.c" timestamp="1597358997607">
+        <mark key="'" line="19" column="1" />
+      </file>
       <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/wren-waveform-services/src/twt-tsm-voice-translator/CMakeLists.txt" timestamp="1595442906328">
         <mark key="[" line="76" column="26" />
       </file>
@@ -173,6 +176,7 @@
       <jump line="177" column="88" filename="$USER_HOME$/CLionProjects/prc-158-port/sources/twtipcd/src/twt_ipcd_qnx_twtipcd.cpp" />
       <jump line="93" column="42" filename="$USER_HOME$/CLionProjects/prc-158-port/sources/nvppfs/src/ipc_monitor.cpp" />
       <jump line="21" column="24" filename="$USER_HOME$/CLionProjects/prc-158-port/sources/service-tools/twt-certificates.cpp" />
+      <jump line="19" column="1" filename="$USER_HOME$/CLionProjects/prc-158-port/sources/openssl/crypto/pkcs12/p12_kiss.c" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
