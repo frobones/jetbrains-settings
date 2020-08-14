@@ -118,11 +118,12 @@
         <mark key="^" line="102" column="27" />
       </file>
       <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/qnx-build-environment/qnx650/target/qnx6/usr/include/openssl/evp.h" timestamp="1597438457834" />
-      <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/service-tools/twt-certificates.cpp" timestamp="1597447070653">
-        <mark key="[" line="173" column="0" />
-        <mark key="]" line="173" column="0" />
-        <mark key="." line="173" column="0" />
-        <mark key="^" line="173" column="35" />
+      <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/service-tools/twt-certificates.cpp" timestamp="1597448285805">
+        <mark key="'" line="265" column="35" />
+        <mark key="[" line="234" column="22" />
+        <mark key="]" line="15" column="0" />
+        <mark key="." line="15" column="0" />
+        <mark key="^" line="265" column="36" />
       </file>
       <file name="/Dummy.cpp" timestamp="1596846702516">
         <mark key="[" line="0" column="0" />
@@ -183,15 +184,17 @@
       <jump line="21" column="24" filename="$USER_HOME$/CLionProjects/prc-158-port/sources/service-tools/twt-certificates.cpp" />
       <jump line="19" column="1" filename="$USER_HOME$/CLionProjects/prc-158-port/sources/openssl/crypto/pkcs12/p12_kiss.c" />
       <jump line="157" column="46" filename="$USER_HOME$/CLionProjects/prc-158-port/sources/nvppfs/src/nvppfs.cpp" />
+      <jump line="257" column="44" filename="$USER_HOME$/CLionProjects/prc-158-port/sources/service-tools/twt-certificates.cpp" />
+      <jump line="265" column="35" filename="$USER_HOME$/CLionProjects/prc-158-port/sources/service-tools/twt-certificates.cpp" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBleGl0X3N0YXR1cyA9IEVYSVRfRkFJTFVSRTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>_</text>
+        <text>;</text>
       </register>
       <register name="/" type="4">
         <text>spawnProcess</text>
@@ -200,31 +203,31 @@
         <text encoding="base64">ICAgICAgICBmcHJpbnRmKHN0ZGVyciwgIkVycm9yIHJlYWRpbmcgUEVNIGZpbGVcbiIpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBleGl0X3N0YXR1cyA9IEVYSVRfRkFJTFVSRTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBleGl0X3N0YXR1cyA9IEVYSVRfRkFJTFVSRTsK</text>
+        <text encoding="base64">aW50IHJlc3BvbnNlX2NvZGUgPSA0MDQ7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBzdGQ6OnJlZ2V4X3JlcGxhY2Uoc3ViamVjdCxlLCJzdWJqZWN0PUNOID0gJDIiKTsK</text>
+        <text encoding="base64">aW50IGV4aXRfc3RhdHVzID0gRVhJVF9TVUNDRVNTOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHN0ZDo6cmVnZXggZSAoIiguKilDTj0oLiopIik7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">c3RkOjpzdHJpbmcgY29udGVudF90eXBlKCJ0ZXh0L2h0bWwiKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBleGl0X3N0YXR1cyA9IEVYSVRfRkFJTFVSRTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gIiI7Cg==</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHR3dC1jZXJ0KCIuL2NlcnRpZmljYXRlLnBlbSIpOwo=</text>
+        <text encoding="base64">ICAgIHJldHVybiBpc19SU0EyMDQ4KCkgJiYgaXNfc2hhMjU2V2l0aFJTQUVuY3J5cHRpb24oKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ym9vbCB0d3QtY2VydDo6aXNfdmFsaWQoKSB7Cg==</text>
       </register>
     </registers>
   </component>
