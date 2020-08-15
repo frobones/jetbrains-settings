@@ -110,6 +110,11 @@
         <mark key="[" line="61" column="20" />
       </file>
       <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/libwebsockets/lib/tls/mbedtls/wrapper/include/internal/ssl_types.h" timestamp="1597437617511" />
+      <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/service-tools/CMakeLists.txt" timestamp="1597456237071">
+        <mark key="[" line="107" column="32" />
+        <mark key="]" line="107" column="32" />
+        <mark key="." line="107" column="32" />
+      </file>
       <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/nvppfs/src/ipc_monitor.cpp" timestamp="1596244531552">
         <mark key="'" line="96" column="42" />
         <mark key="[" line="91" column="10" />
@@ -190,11 +195,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IEVWUF9NRCAqZGlnZXN0ID0gRVZQX3NoYTEoKTsgLy8gVE9ETzogRG8gd2UgaGF2ZSB0byBmcmVlIHRoaXM/Cg==</text>
+      <register name="&quot;" type="4">
+        <text>s</text>
       </register>
       <register name="-" type="4">
-        <text>e</text>
+        <text>s</text>
       </register>
       <register name="/" type="4">
         <text>spawnProcess</text>
