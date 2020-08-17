@@ -84,8 +84,11 @@
       <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/wren-waveform-services/test/twt-nb-pli-tester/CMakeLists.txt" timestamp="1595442913765">
         <mark key="[" line="61" column="25" />
       </file>
-      <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/service-tools/twt-certificate.cpp" timestamp="1597703226369">
-        <mark key="[" line="255" column="67" />
+      <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/service-tools/twt-certificate.cpp" timestamp="1597703928981">
+        <mark key="[" line="275" column="38" />
+        <mark key="]" line="274" column="8" />
+        <mark key="^" line="274" column="8" />
+        <mark key="." line="274" column="7" />
       </file>
       <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/wren-waveform-services/test/twt-tsm-voice-translator/integration-test/CMakeLists.txt" timestamp="1595442935523">
         <mark key="[" line="50" column="26" />
@@ -93,6 +96,7 @@
       <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/wren-waveform-services/test/unit-tests/twt-otf-status-handler/CMakeLists.txt" timestamp="1595442977383">
         <mark key="[" line="69" column="32" />
       </file>
+      <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/manet-network-monitoring-server/CMakeLists.txt" timestamp="1597704022156" />
       <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/openssl/crypto/pkcs12/p12_kiss.c" timestamp="1597358997607">
         <mark key="'" line="19" column="1" />
       </file>
@@ -108,8 +112,8 @@
       <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/twtipcd/doc/porting-guide.md" timestamp="1595462058032">
         <mark key="[" line="61" column="20" />
       </file>
-      <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/service-tools/CMakeLists.txt" timestamp="1597456439442">
-        <mark key="[" line="93" column="31" />
+      <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/service-tools/CMakeLists.txt" timestamp="1597703969681">
+        <mark key="[" line="93" column="30" />
         <mark key="]" line="93" column="31" />
         <mark key="." line="93" column="31" />
       </file>
@@ -136,9 +140,6 @@
       <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/twtipcd/src/twt_ipcd_qnx_twtipcd.cpp" timestamp="1596237757676">
         <mark key="'" line="177" column="88" />
         <mark key="[" line="29" column="16" />
-      </file>
-      <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/wren-waveform-services/src/twt-tsm-status-handler/CMakeLists.txt" timestamp="1595442899238">
-        <mark key="[" line="68" column="29" />
       </file>
       <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/twtipcd/test/CMakeLists.txt" timestamp="1595465215933">
         <mark key="[" line="14" column="4" />
@@ -192,8 +193,8 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>s</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBzdGQ6OmNvdXQgPDwgIkhUVFAvMS4xIDIwMCIgPDwgc3RkOjplbmRsOwogICAgICAgIHN0ZDo6Y291dCA8PCAiQ29udGVudC1UeXBlOiB0ZXh0L2h0bWwiIDw8IHN0ZDo6ZW5kbCA8PCBzdGQ6OmVuZGw7Cg==</text>
       </register>
       <register name="-" type="4">
         <text>s</text>
@@ -202,7 +203,7 @@
         <text>spawnProcess</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIEZJTEUgKmZwOwo=</text>
+        <text encoding="base64">ICAgICAgICBzdGQ6OmNvdXQgPDwgIkhUVFAvMS4xIDIwMCIgPDwgc3RkOjplbmRsOwogICAgICAgIHN0ZDo6Y291dCA8PCAiQ29udGVudC1UeXBlOiB0ZXh0L2h0bWwiIDw8IHN0ZDo6ZW5kbCA8PCBzdGQ6OmVuZGw7Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIGNvbnN0IEVWUF9NRCAqZGlnZXN0ID0gRVZQX3NoYTEoKTsgLy8gVE9ETzogRG8gd2UgaGF2ZSB0byBmcmVlIHRoaXM/Cg==</text>
