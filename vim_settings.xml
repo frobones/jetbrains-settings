@@ -81,12 +81,11 @@
       <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/wren-waveform-services/test/twt-tsm-pli-tester/CMakeLists.txt" timestamp="1595442922086">
         <mark key="[" line="73" column="47" />
       </file>
-      <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/openssl/crypto/x509/x509.h" timestamp="1597437890066" />
       <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/wren-waveform-services/test/twt-nb-pli-tester/CMakeLists.txt" timestamp="1595442913765">
         <mark key="[" line="61" column="25" />
       </file>
-      <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/wren-waveform-services/src/twt-tsm-pli-translator/CMakeLists.txt" timestamp="1595442892221">
-        <mark key="[" line="74" column="28" />
+      <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/service-tools/twt-certificate.cpp" timestamp="1597703226369">
+        <mark key="[" line="255" column="67" />
       </file>
       <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/wren-waveform-services/test/twt-tsm-voice-translator/integration-test/CMakeLists.txt" timestamp="1595442935523">
         <mark key="[" line="50" column="26" />
@@ -109,7 +108,6 @@
       <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/twtipcd/doc/porting-guide.md" timestamp="1595462058032">
         <mark key="[" line="61" column="20" />
       </file>
-      <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/libwebsockets/lib/tls/mbedtls/wrapper/include/internal/ssl_types.h" timestamp="1597437617511" />
       <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/service-tools/CMakeLists.txt" timestamp="1597456439442">
         <mark key="[" line="93" column="31" />
         <mark key="]" line="93" column="31" />
@@ -122,7 +120,6 @@
         <mark key="." line="63" column="17" />
         <mark key="^" line="102" column="27" />
       </file>
-      <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/qnx-build-environment/qnx650/target/qnx6/usr/include/openssl/evp.h" timestamp="1597438457834" />
       <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/service-tools/twt-certificates.cpp" timestamp="1597455425058">
         <mark key="'" line="265" column="35" />
         <mark key="[" line="171" column="0" />
