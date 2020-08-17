@@ -84,11 +84,12 @@
       <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/wren-waveform-services/test/twt-nb-pli-tester/CMakeLists.txt" timestamp="1595442913765">
         <mark key="[" line="61" column="25" />
       </file>
-      <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/service-tools/twt-certificate.cpp" timestamp="1597703928981">
-        <mark key="[" line="275" column="38" />
-        <mark key="]" line="274" column="8" />
-        <mark key="^" line="274" column="8" />
-        <mark key="." line="274" column="7" />
+      <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/service-tools/twt-certificate.cpp" timestamp="1597705182090">
+        <mark key="'" line="23" column="8" />
+        <mark key="[" line="275" column="8" />
+        <mark key="]" line="275" column="62" />
+        <mark key="^" line="275" column="62" />
+        <mark key="." line="275" column="61" />
       </file>
       <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/wren-waveform-services/test/twt-tsm-voice-translator/integration-test/CMakeLists.txt" timestamp="1595442935523">
         <mark key="[" line="50" column="26" />
@@ -112,7 +113,7 @@
       <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/twtipcd/doc/porting-guide.md" timestamp="1595462058032">
         <mark key="[" line="61" column="20" />
       </file>
-      <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/service-tools/CMakeLists.txt" timestamp="1597704134849">
+      <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/service-tools/CMakeLists.txt" timestamp="1597705176352">
         <mark key="[" line="93" column="30" />
         <mark key="]" line="107" column="1" />
         <mark key="." line="107" column="0" />
@@ -190,6 +191,7 @@
       <jump line="157" column="46" filename="$USER_HOME$/CLionProjects/prc-158-port/sources/nvppfs/src/nvppfs.cpp" />
       <jump line="257" column="44" filename="$USER_HOME$/CLionProjects/prc-158-port/sources/service-tools/twt-certificates.cpp" />
       <jump line="265" column="35" filename="$USER_HOME$/CLionProjects/prc-158-port/sources/service-tools/twt-certificates.cpp" />
+      <jump line="23" column="8" filename="$USER_HOME$/CLionProjects/prc-158-port/sources/service-tools/twt-certificate.cpp" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
