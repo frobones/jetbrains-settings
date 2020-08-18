@@ -84,11 +84,11 @@
       <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/wren-waveform-services/test/twt-nb-pli-tester/CMakeLists.txt" timestamp="1595442913765">
         <mark key="[" line="61" column="25" />
       </file>
-      <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/service-tools/twt-certificate.cpp" timestamp="1597711697324">
-        <mark key="[" line="295" column="0" />
-        <mark key="]" line="295" column="0" />
-        <mark key="." line="295" column="0" />
-        <mark key="^" line="294" column="71" />
+      <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/service-tools/twt-certificate.cpp" timestamp="1597711993057">
+        <mark key="[" line="159" column="30" />
+        <mark key="]" line="159" column="33" />
+        <mark key="^" line="159" column="33" />
+        <mark key="." line="159" column="32" />
       </file>
       <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/wren-waveform-services/test/twt-tsm-voice-translator/integration-test/CMakeLists.txt" timestamp="1595442935523">
         <mark key="[" line="50" column="26" />
@@ -99,9 +99,6 @@
       <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/manet-network-monitoring-server/CMakeLists.txt" timestamp="1597704022156" />
       <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/openssl/crypto/pkcs12/p12_kiss.c" timestamp="1597358997607">
         <mark key="'" line="19" column="1" />
-      </file>
-      <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/wren-waveform-services/src/twt-tsm-voice-translator/CMakeLists.txt" timestamp="1595442906328">
-        <mark key="[" line="76" column="26" />
       </file>
       <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/twtipcd/CMakeLists.txt" timestamp="1595465172885">
         <mark key="[" line="91" column="5" />
@@ -142,6 +139,7 @@
         <mark key="'" line="177" column="88" />
         <mark key="[" line="29" column="16" />
       </file>
+      <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/manet-network-monitoring-server/twt/manet_network_monitoring_server/snapshot_nodevinfo.cpp" timestamp="1597711957379" />
       <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/twtipcd/test/CMakeLists.txt" timestamp="1595465215933">
         <mark key="[" line="14" column="4" />
         <mark key="]" line="14" column="4" />
