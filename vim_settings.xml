@@ -81,11 +81,11 @@
       <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/wren-waveform-services/test/twt-tsm-pli-tester/CMakeLists.txt" timestamp="1595442922086">
         <mark key="[" line="73" column="47" />
       </file>
-      <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/service-tools/twt-certificate.cpp" timestamp="1597803001442">
-        <mark key="[" line="50" column="4" />
-        <mark key="]" line="326" column="56" />
-        <mark key="." line="326" column="55" />
-        <mark key="^" line="326" column="56" />
+      <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/service-tools/twt-certificate.cpp" timestamp="1597817216582">
+        <mark key="[" line="271" column="47" />
+        <mark key="]" line="250" column="48" />
+        <mark key="^" line="250" column="48" />
+        <mark key="." line="250" column="47" />
       </file>
       <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/wren-waveform-services/test/twt-tsm-voice-translator/integration-test/CMakeLists.txt" timestamp="1595442935523">
         <mark key="[" line="50" column="26" />
@@ -195,17 +195,17 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc3RkOjpjb3V0IDw8ICJUT0RPOiBOZWVkIHRvIHVwZGF0ZSBoaWF3YXRoYSBjb25mIjsK</text>
+      <register name="&quot;" type="4">
+        <text>:</text>
       </register>
       <register name="-" type="4">
-        <text>$</text>
+        <text>:</text>
       </register>
       <register name="/" type="4">
         <text>spawnProcess</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CU1hdGNoIF4vcmF3L2RldmljZS9jZXJ0aWZpY2F0ZXMvZGVmYXVsdC9maW5nZXJwcmludCQgUmV3cml0ZSAvcHJpdmF0ZS9jZ2ktYmluL3R3dC1jZXJ0aWZpY2F0ZS5jZ2kK</text>
+        <text encoding="base64">ICAgICAgICAgICAgfSBlbHNlIHsKICAgICAgICAgICAgICAgIHRocm93IHN0ZDo6cnVudGltZV9lcnJvcigiVW5zdXBwb3J0IFBBVEgiKTsgCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgc3RkOjpjb3V0IDw8ICJUT0RPOiBOZWVkIHRvIHVwZGF0ZSBoaWF3YXRoYSBjb25mIjsK</text>
