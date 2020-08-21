@@ -149,6 +149,11 @@
         <mark key="]" line="14" column="4" />
         <mark key="." line="14" column="4" />
       </file>
+      <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/ndapframe-web-app/ndap_server.cpp" timestamp="1598048858070">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="63" column="0" filename="$USER_HOME$/CLionProjects/prc-158-port/sources/nvppfs/src/qnx/main-qnx.cpp" />
@@ -198,7 +203,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZmNsb3NlKGZwKTsK</text>
+        <text encoding="base64">Ly8K</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
@@ -210,31 +215,31 @@
         <text encoding="base64">Y29uc3QgY2hhciAqIGNvbnN0IHN1YmplY3RfcmVzdF9hcGlfcGF0aCA9ICIvcmF3L2RldmljZS9jZXJ0aWZpY2F0ZXMvZGVmYXVsdC9zdWJqZWN0IjsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZmNsb3NlKGZwKTsK</text>
+        <text encoding="base64">Ly8K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGZjbG9zZShmcCk7Cg==</text>
+        <text encoding="base64">Ly8gQ3JlYXRlZCBieSBzam9uZXMgb24gOC8yMS8yMDIwLgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZmNsb3NlKGZwKTsK</text>
+        <text encoding="base64">Ly8K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGZjbG9zZShmcCk7Cg==</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZmNsb3NlKGZwKTsK</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGZjbG9zZShmcCk7Cg==</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGNoYXIgc3RyYnVmWzIqU2hhMUxlbitOdW1Db2xvbisxXTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZmNsb3NlKGZwKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGZjbG9zZShmcCk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHVuc2lnbmVkIGNoYXIgYnVmW1NoYTFMZW5dOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZmNsb3NlKGZwKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHNrX1g1MDlfcG9wX2ZyZWUoY2EsIFg1MDlfZnJlZSk7Cg==</text>
+        <text encoding="base64">ICAgIGNoYXIgc3RyYnVmWzIqU2hhMUxlbitOdW1Db2xvbisxXTsK</text>
       </register>
     </registers>
   </component>
