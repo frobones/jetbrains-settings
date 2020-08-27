@@ -78,9 +78,6 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1598562294282">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/service-tools/twt-certificate.cpp" timestamp="1598050557108">
         <mark key="[" line="181" column="0" />
         <mark key="]" line="181" column="0" />
@@ -93,32 +90,11 @@
         <mark key="." line="8" column="31" />
         <mark key="^" line="8" column="32" />
       </file>
-      <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/openssl/crypto/pkcs12/p12_kiss.c" timestamp="1597358997607">
-        <mark key="'" line="19" column="1" />
-      </file>
-      <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/twtipcd/CMakeLists.txt" timestamp="1595465172885">
-        <mark key="[" line="91" column="5" />
-        <mark key="]" line="91" column="5" />
-        <mark key="." line="91" column="5" />
-        <mark key="^" line="91" column="40" />
-      </file>
       <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/tww-iface/twt_iface_data_forwarder.cpp" timestamp="1598557549595" />
-      <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/service-tools/CMakeLists.txt" timestamp="1597956678604">
-        <mark key="[" line="105" column="0" />
-        <mark key="]" line="104" column="9" />
-        <mark key="." line="104" column="9" />
-        <mark key="^" line="109" column="1" />
-      </file>
+      <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/libtwtipc/src/twt_ipc.cpp" timestamp="1598568450758" />
       <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/tww-iface/tww.cpp" timestamp="1598557581233" />
       <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/spec" timestamp="1598562369465">
         <mark key="[" line="69" column="34" />
-      </file>
-      <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/nvppfs/src/ipc_monitor.cpp" timestamp="1596244531552">
-        <mark key="'" line="96" column="42" />
-        <mark key="[" line="91" column="10" />
-        <mark key="]" line="63" column="17" />
-        <mark key="." line="63" column="17" />
-        <mark key="^" line="102" column="27" />
       </file>
       <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/service-tools/twt-certificates.cpp" timestamp="1597455425058">
         <mark key="'" line="265" column="35" />
@@ -126,9 +102,6 @@
         <mark key="]" line="171" column="0" />
         <mark key="." line="171" column="0" />
         <mark key="^" line="174" column="41" />
-      </file>
-      <file name="/Dummy.cpp" timestamp="1596846702516">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/nvppfs/src/nvppfs.cpp" timestamp="1597445998586">
         <mark key="'" line="157" column="46" />
@@ -138,17 +111,27 @@
         <mark key="[" line="29" column="16" />
       </file>
       <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/prc-158-iface/tww-iface-data-forwarder/CMakeLists.txt" timestamp="1598562129805" />
+      <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/libtwtipc/src/TwtIpcWrapperFactory.cpp" timestamp="1598568252204" />
+      <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/ndapframe-web-app/ndap_server.cpp" timestamp="1598568541219">
+        <mark key="[" line="12" column="15" />
+        <mark key="]" line="79" column="26" />
+        <mark key="^" line="79" column="26" />
+        <mark key="." line="79" column="25" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1598562294282">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/prc-158-iface/tww-iface-data-forwarder/src/tww-iface-data-forwarder.cpp" timestamp="1598567947035" />
+      <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/libtwtipc/src/TwtIpcWrapper.cpp" timestamp="1598568466795" />
+      <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/service-tools/CMakeLists.txt" timestamp="1597956678604">
+        <mark key="[" line="105" column="0" />
+        <mark key="]" line="104" column="9" />
+        <mark key="." line="104" column="9" />
+        <mark key="^" line="109" column="1" />
+      </file>
+      <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/libtwtipc/src/twt_ipc.hpp" timestamp="1598567758204" />
       <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/files/hiawatha/hiawatha.conf" timestamp="1597878721230">
         <mark key="^" line="39" column="147" />
-      </file>
-      <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/twtipcd/test/CMakeLists.txt" timestamp="1595465215933">
-        <mark key="[" line="14" column="4" />
-        <mark key="]" line="14" column="4" />
-        <mark key="." line="14" column="4" />
-      </file>
-      <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/ndapframe-web-app/ndap_server.cpp" timestamp="1598562593976">
-        <mark key="[" line="70" column="0" />
-        <mark key="^" line="70" column="21" />
       </file>
     </filemarks>
     <jumps>
