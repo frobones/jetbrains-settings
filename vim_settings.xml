@@ -78,6 +78,7 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/service-tools/publish-json.cpp" timestamp="1598650627781" />
       <file name="/Dummy.txt" timestamp="1598562294282">
         <mark key="[" line="0" column="0" />
       </file>
@@ -87,13 +88,13 @@
         <mark key="." line="181" column="0" />
         <mark key="^" line="197" column="14" />
       </file>
-      <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/ndapframe-web-app/CMakeLists.txt" timestamp="1598562921708">
-        <mark key="[" line="9" column="9" />
+      <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/ndapframe-web-app/CMakeLists.txt" timestamp="1598651188733">
+        <mark key="[" line="10" column="8" />
         <mark key="]" line="8" column="32" />
         <mark key="." line="8" column="31" />
         <mark key="^" line="8" column="32" />
       </file>
-      <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/service-tools/CMakeLists.txt" timestamp="1597956678604">
+      <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/service-tools/CMakeLists.txt" timestamp="1598651181661">
         <mark key="[" line="105" column="0" />
         <mark key="]" line="104" column="9" />
         <mark key="." line="104" column="9" />
@@ -120,11 +121,11 @@
       <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/files/hiawatha/hiawatha.conf" timestamp="1597878721230">
         <mark key="^" line="39" column="147" />
       </file>
-      <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/ndapframe-web-app/ndap_server.cpp" timestamp="1598649883502">
-        <mark key="[" line="98" column="18" />
-        <mark key="]" line="131" column="23" />
-        <mark key="^" line="131" column="23" />
-        <mark key="." line="131" column="22" />
+      <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/ndapframe-web-app/ndap_server.cpp" timestamp="1598651591906">
+        <mark key="[" line="134" column="5" />
+        <mark key="]" line="113" column="10" />
+        <mark key="." line="113" column="9" />
+        <mark key="^" line="113" column="10" />
       </file>
     </filemarks>
     <jumps>
@@ -175,10 +176,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICBleHBsaWNpdCBOZGFwUGFyc2VyKHN0ZDo6cmVmZXJlbmNlX3dyYXBwZXI8dHd0Ojpvczo6SU9Mb29wPiBpb2xvb3ApOwo=</text>
+        <text encoding="base64">ICAgIHN0ZDo6c3RyaW5nIGlkID0gIm5kYXAtZnJhbWUiOwo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>T</text>
       </register>
       <register name="/" type="4">
         <text>spawnProcess</text>
@@ -187,31 +188,31 @@
         <text encoding="base64">ICAgIHJldHVybiAmKHJlaW50ZXJwcmV0X2Nhc3Q8bmRhcF9mcmFtZV90Kj4oZGF0YV8uZGF0YSgpKS0+bXNnWzBdKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBleHBsaWNpdCBOZGFwUGFyc2VyKHN0ZDo6cmVmZXJlbmNlX3dyYXBwZXI8dHd0Ojpvczo6SU9Mb29wPiBpb2xvb3ApOwo=</text>
+        <text encoding="base64">ICAgIHN0ZDo6c3RyaW5nIGlkID0gIm5kYXAtZnJhbWUiOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGlmIChtb3NxLnB1Ymxpc2goc3RkOjpub3Rocm93LCBqdC50b3BpYywgKHVpbnQzMl90KSBzdGQ6OnN0b2kodmFsdWUpKSAhPSBNT1NRX0VSUl9TVUNDRVNTKSB7CiAgICAgICAgc3RkOjpjZXJyIDw8ICJGYWlsZWQgdG8gcHVibGlzaCAiIDw8IGp0LnRvcGljIDw8ICIgZXJyb3I9IiA8PCByZXQgPDwgc3RkOjplbmRsOwogICAgICAgIGV4aXQoLTYpOwogICAgfQoK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIG5kYXBfZXAgPSBmYWN0b3J5LmNyZWF0ZSg0OTUxMSwgMjYzOSk7Cg==</text>
+        <text encoding="base64">ICAgIGludCBtb3NxcG9ydCA9IHR3dDo6bW9zcXVpdHRvOjpERUZBVUxUX01PU1FVSVRUT19QT1JUOyAvLyB1c2UgZGVmYXVsdCBtb3NxdWl0dG8gc2VydmVyIHBvcnQgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIFR3dElwY1dyYXBwZXJGYWN0b3J5IGZhY3Rvcnk7Cg==</text>
+        <text encoding="base64">ICAgIHN0ZDo6c3RyaW5nIG1vc3FhZGRyID0gdHd0Ojptb3NxdWl0dG86OkxPQ0FMX0hPU1Q7IC8vIG1vc3F1aXR0byBzZXJ2ZXIgaG9zdCBhZGRyZXNzCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGlvbG9vcC5nZXQoKS5zdGFydCgpOwo=</text>
+        <text encoding="base64">ICBleHBsaWNpdCBOZGFwUGFyc2VyKHN0ZDo6cmVmZXJlbmNlX3dyYXBwZXI8dHd0Ojpvczo6SU9Mb29wPiBpb2xvb3ApOwo=</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIG5kYXBfZXAgPSBmYWN0b3J5LmNyZWF0ZSg0OTUxMSwgMjYzOSk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIFR3dElwY1dyYXBwZXJGYWN0b3J5IGZhY3Rvcnk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGlvbG9vcC5nZXQoKS5zdGFydCgpOwo=</text>
       </register>
     </registers>
   </component>
