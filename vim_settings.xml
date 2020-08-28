@@ -78,6 +78,9 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="/Dummy.txt" timestamp="1598562294282">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/service-tools/twt-certificate.cpp" timestamp="1598050557108">
         <mark key="[" line="181" column="0" />
         <mark key="]" line="181" column="0" />
@@ -90,9 +93,12 @@
         <mark key="." line="8" column="31" />
         <mark key="^" line="8" column="32" />
       </file>
-      <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/tww-iface/twt_iface_data_forwarder.cpp" timestamp="1598557549595" />
-      <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/libtwtipc/src/twt_ipc.cpp" timestamp="1598568450758" />
-      <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/tww-iface/tww.cpp" timestamp="1598557581233" />
+      <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/service-tools/CMakeLists.txt" timestamp="1597956678604">
+        <mark key="[" line="105" column="0" />
+        <mark key="]" line="104" column="9" />
+        <mark key="." line="104" column="9" />
+        <mark key="^" line="109" column="1" />
+      </file>
       <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/spec" timestamp="1598562369465">
         <mark key="[" line="69" column="34" />
       </file>
@@ -110,28 +116,13 @@
         <mark key="'" line="177" column="88" />
         <mark key="[" line="29" column="16" />
       </file>
-      <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/ndapframe-web-app/ndap_server.py" timestamp="1598602464240" />
-      <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/prc-158-iface/tww-iface-data-forwarder/CMakeLists.txt" timestamp="1598562129805" />
-      <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/libtwtipc/src/TwtIpcWrapperFactory.cpp" timestamp="1598570269349" />
-      <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/ndapframe-web-app/ndap_server.cpp" timestamp="1598607962674">
-        <mark key="[" line="119" column="0" />
-        <mark key="]" line="119" column="0" />
-        <mark key="." line="119" column="0" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1598562294282">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/prc-158-iface/tww-iface-data-forwarder/src/tww-iface-data-forwarder.cpp" timestamp="1598572269205" />
-      <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/libtwtipc/src/TwtIpcWrapper.cpp" timestamp="1598570378991" />
-      <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/service-tools/CMakeLists.txt" timestamp="1597956678604">
-        <mark key="[" line="105" column="0" />
-        <mark key="]" line="104" column="9" />
-        <mark key="." line="104" column="9" />
-        <mark key="^" line="109" column="1" />
-      </file>
-      <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/libtwtipc/src/twt_ipc.hpp" timestamp="1598567758204" />
       <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/files/hiawatha/hiawatha.conf" timestamp="1597878721230">
         <mark key="^" line="39" column="147" />
+      </file>
+      <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/ndapframe-web-app/ndap_server.cpp" timestamp="1598644567134">
+        <mark key="[" line="45" column="0" />
+        <mark key="]" line="26" column="31" />
+        <mark key="." line="26" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -182,7 +173,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnRmKCIsJWQiLCBuZGFwX2ZyYW1lW2ldKTsK</text>
+        <text encoding="base64">ICB1bnNpZ25lZCBjaGFyIGdldF9tc2dfdHlwZSgpOwo=</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
@@ -194,31 +185,31 @@
         <text encoding="base64">ICAgICAgICAgICAgcHJpbnRmKCIlZCIsIG5kYXBfZnJhbWVbaV0pOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnRmKCIsJWQiLCBuZGFwX2ZyYW1lW2ldKTsK</text>
+        <text encoding="base64">ICB1bnNpZ25lZCBjaGFyIGdldF9tc2dfdHlwZSgpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBlbHNlCg==</text>
+        <text encoding="base64">ICAgICAgICAgIE5kYXBGcmFtZSBjdXJyZW50X2ZyYW1lID0gdG1wX2ZyYW1lOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoaSA9PSAwKQo=</text>
+        <text encoding="base64">ICAgICAgICAgIC8vc3RkOjpjb3V0IDw8ICJNU0dfVFlQRT0wIiA8PCBzdGQ6OmVuZGw7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoaSA9PSAwKQo=</text>
+        <text encoding="base64">ICBOZGFwRnJhbWUgZmlyc3RfbmRhcF9mcmFtZTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHN0ZDo6Y291dCA8PCAiTkRBUF9GUkFNRT0iOwo=</text>
+        <text encoding="base64">ICAgICAgY29uc3RleHByIHNpemVfdCBtYXhfbGVuZ3RoID0gNDA5NjsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnRmKCIsJWQiLCBuZGFwX2ZyYW1lW2ldKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIHByaW50ZigiXG4iKTsK</text>
+        <text encoding="base64">ICAgICAgICBlbHNlCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICBpZiAoaSA9PSAwKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBwcmludGYoIiVkLCAiLCBjdXJyZW50X2ZyYW1lLmdldF9kYXRhKClbaV0pOwo=</text>
+        <text encoding="base64">ICAgICAgICBpZiAoaSA9PSAwKQo=</text>
       </register>
     </registers>
   </component>
