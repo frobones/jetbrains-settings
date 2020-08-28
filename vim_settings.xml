@@ -119,11 +119,11 @@
       <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/files/hiawatha/hiawatha.conf" timestamp="1597878721230">
         <mark key="^" line="39" column="147" />
       </file>
-      <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/ndapframe-web-app/ndap_server.cpp" timestamp="1598646552461">
-        <mark key="[" line="56" column="13" />
-        <mark key="]" line="55" column="0" />
-        <mark key="." line="55" column="0" />
-        <mark key="^" line="55" column="0" />
+      <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/ndapframe-web-app/ndap_server.cpp" timestamp="1598647199171">
+        <mark key="[" line="80" column="0" />
+        <mark key="]" line="80" column="0" />
+        <mark key="^" line="23" column="0" />
+        <mark key="." line="80" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -174,7 +174,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHJldHVybiByZWludGVycHJldF9jYXN0PG5kYXBfZnJhbWVfdCo+KGRhdGFfLmRhdGEoKSktPm1zZzsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
@@ -186,31 +186,31 @@
         <text encoding="base64">ICAgIHJldHVybiAmKHJlaW50ZXJwcmV0X2Nhc3Q8bmRhcF9mcmFtZV90Kj4oZGF0YV8uZGF0YSgpKS0+bXNnWzBdKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHJldHVybiByZWludGVycHJldF9jYXN0PG5kYXBfZnJhbWVfdCo+KGRhdGFfLmRhdGEoKSktPm1zZzsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHJldHVybiBzaXplKCkgLSA4Owo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBzaXplX3QgbXNnX3NpemUoKTsK</text>
+        <text encoding="base64">c2l6ZV90IE5kYXBGcmFtZTo6bXNnX3NpemUoKSB7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgIHN0YXRpYyBOZGFwRnJhbWUgZmlyc3RfbmRhcF9mcmFtZTsK</text>
+        <text encoding="base64">ICAgIHJldHVybiByZWludGVycHJldF9jYXN0PG5kYXBfZnJhbWVfdCo+KGRhdGFfLmRhdGEoKSktPm1zZzsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBOZGFwRnJhbWUoKSA9IGRlZmF1bHQ7Cg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICB1bnNpZ25lZCBjaGFyKiBnZXRfZGF0YSgpOwo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICBzaXplX3QgbXNnX3NpemUoKTsK</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">ICAgICAgICAgIHN0YXRpYyBOZGFwRnJhbWUgZmlyc3RfbmRhcF9mcmFtZTsK</text>
       </register>
     </registers>
   </component>
