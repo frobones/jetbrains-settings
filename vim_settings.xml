@@ -121,11 +121,11 @@
       <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/files/hiawatha/hiawatha.conf" timestamp="1597878721230">
         <mark key="^" line="39" column="147" />
       </file>
-      <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/ndapframe-web-app/ndap_server.cpp" timestamp="1598677474933">
-        <mark key="[" line="114" column="8" />
-        <mark key="]" line="114" column="9" />
-        <mark key="." line="114" column="8" />
-        <mark key="^" line="114" column="9" />
+      <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/ndapframe-web-app/ndap_server.cpp" timestamp="1598677965315">
+        <mark key="[" line="132" column="14" />
+        <mark key="]" line="132" column="14" />
+        <mark key="." line="132" column="14" />
+        <mark key="^" line="132" column="16" />
       </file>
     </filemarks>
     <jumps>
@@ -175,11 +175,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHR3dDo6bW9zcXVpdHRvOjpDbGllbnQgbW9zcShpb2xvb3ApOwo=</text>
+      <register name="&quot;" type="4">
+        <text>/</text>
       </register>
       <register name="-" type="4">
-        <text>T</text>
+        <text>/</text>
       </register>
       <register name="/" type="4">
         <text>spawnProcess</text>
