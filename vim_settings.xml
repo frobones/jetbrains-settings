@@ -78,11 +78,11 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/libbrn/libbrn.cpp" timestamp="1599797672573">
+      <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/libbrn/libbrn.cpp" timestamp="1599798150108">
         <mark key="'" line="605" column="0" />
-        <mark key="[" line="445" column="9" />
-        <mark key="]" line="439" column="0" />
-        <mark key="." line="439" column="0" />
+        <mark key="[" line="464" column="22" />
+        <mark key="]" line="465" column="0" />
+        <mark key="." line="465" column="0" />
       </file>
       <file name="/Dummy.txt" timestamp="1598562294282">
         <mark key="[" line="0" column="0" />
@@ -177,7 +177,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgd2FpdHBpZChzZXJ2aWNlLnBpZCwgJnN0YXR1cywgV05PSEFORyk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>/</text>
@@ -186,34 +186,34 @@
         <text>spawnProcess</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">aW5zdGFsbChUQVJHRVRTIG5kYXAtc2VydmVyIG5kYXAtY2xpZW50LmNnaSBERVNUSU5BVElPTiAke0NNQUtFX0lOU1RBTExfQklORElSfSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGJnLT5QcmludCgiU2VydmljZSAlcyBkaXNhcHBlYXJlZFxuIiwgc2VydmljZS5uYW1lLmNfc3RyKCkpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgd2FpdHBpZChzZXJ2aWNlLnBpZCwgJnN0YXR1cywgV05PSEFORyk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgV2FpdE9uQnJuUHJpdmlsZWdlZFByb2Nlc3Moc2VydmljZS5waWQsICZzdGF0dXMsIFdOT0hBTkcpIDoK</text>
+        <text encoding="base64">ICAgICAgICAgICAgd2FpdHBpZChzZXJ2aWNlLnBpZCwgJnN0YXR1cywgV05PSEFORyk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBpbnQgcmVzdWx0ID0gc2VydmljZS5wcml2aWxlZ2VkID8K</text>
+        <text encoding="base64">ICAgICAgICAgICAgV2FpdE9uQnJuUHJpdmlsZWdlZFByb2Nlc3Moc2VydmljZS5waWQsICZzdGF0dXMsIFdOT0hBTkcpIDoK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB3YWl0Rm9yUmVhcFNlcnZpY2UoKnNlcnZpY2UpOwo=</text>
+        <text encoding="base64">ICAgICAgICBpbnQgcmVzdWx0ID0gc2VydmljZS5wcml2aWxlZ2VkID8K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIChzZXJ2aWNlLT5ydW5uaW5nKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB3YWl0Rm9yUmVhcFNlcnZpY2UoKnNlcnZpY2UpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIERvIG5vdCByZXR1cm4gdW50aWwgc2VydmljZSBoYXMgYmVlbiBjbGVhbmVkIHVwCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIChzZXJ2aWNlLT5ydW5uaW5nKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gZmFsc2U7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIERvIG5vdCByZXR1cm4gdW50aWwgc2VydmljZSBoYXMgYmVlbiBjbGVhbmVkIHVwCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIHN0ZDo6c3RyaW5nIHZpcygiQ29udGVudC1UeXBlOiB0ZXh0L3BsYWluXHJcblxyXG4iKTsK</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gZmFsc2U7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIHN0ZDo6c3RyaW5nIHZpcygiQ29udGVudC1UeXBlOiB0ZXh0L3BsYWluXHJcblxyXG4iKTsK</text>
       </register>
     </registers>
   </component>
