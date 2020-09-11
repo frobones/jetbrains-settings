@@ -78,8 +78,12 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/libbrn/libbrn.cpp" timestamp="1599796758703">
-        <mark key="[" line="505" column="72" />
+      <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/libbrn/libbrn.cpp" timestamp="1599797287572">
+        <mark key="'" line="595" column="0" />
+        <mark key="[" line="505" column="5" />
+        <mark key="]" line="741" column="4" />
+        <mark key="^" line="741" column="4" />
+        <mark key="." line="741" column="3" />
       </file>
       <file name="/Dummy.txt" timestamp="1598562294282">
         <mark key="[" line="0" column="0" />
@@ -168,12 +172,13 @@
       <jump line="257" column="44" filename="$USER_HOME$/CLionProjects/prc-158-port/sources/service-tools/twt-certificates.cpp" />
       <jump line="265" column="35" filename="$USER_HOME$/CLionProjects/prc-158-port/sources/service-tools/twt-certificates.cpp" />
       <jump line="23" column="8" filename="$USER_HOME$/CLionProjects/prc-158-port/sources/service-tools/twt-certificate.cpp" />
+      <jump line="594" column="0" filename="$USER_HOME$/CLionProjects/prc-158-port/sources/libbrn/libbrn.cpp" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgIHN0ZDo6c3RyaW5nIHZpcygiQ29udGVudC1UeXBlOiB0ZXh0L3BsYWluXHJcblxyXG4iKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB3YWl0Rm9yUmVhcFNlcnZpY2UoKnNlcnZpY2UpOwo=</text>
       </register>
       <register name="-" type="4">
         <text>/</text>
@@ -185,28 +190,28 @@
         <text encoding="base64">aW5zdGFsbChUQVJHRVRTIG5kYXAtc2VydmVyIG5kYXAtY2xpZW50LmNnaSBERVNUSU5BVElPTiAke0NNQUtFX0lOU1RBTExfQklORElSfSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgIHN0ZDo6c3RyaW5nIHZpcygiQ29udGVudC1UeXBlOiB0ZXh0L3BsYWluXHJcblxyXG4iKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB3YWl0Rm9yUmVhcFNlcnZpY2UoKnNlcnZpY2UpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIChzZXJ2aWNlLT5ydW5uaW5nKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">I2luY2x1ZGUgImxpYnR3dG9zL0lPTG9vcC5ocHAiCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIERvIG5vdCByZXR1cm4gdW50aWwgc2VydmljZSBoYXMgYmVlbiBjbGVhbmVkIHVwCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGlvbG9vcC5zdGFydCgpOwo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gZmFsc2U7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIHN0ZDo6c3RyaW5nIHZpcygiQ29udGVudC1UeXBlOiB0ZXh0L3BsYWluXHJcblxyXG4iKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIC8vIFN1YnNjcmliZSB0byBvbi10aGUtZmx5IHN0YXR1cyB0b3BpY3MuCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">c3RkOjpwcm9taXNlPGludD4gd2FpdEZvck5kYXBGcmFtZTsK</text>
+        <text encoding="base64">I2luY2x1ZGUgImxpYnR3dG9zL0lPTG9vcC5ocHAiCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGlvbG9vcC5zdGFydCgpOwo=</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
