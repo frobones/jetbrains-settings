@@ -90,11 +90,11 @@
       <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/spec" timestamp="1598562369465">
         <mark key="[" line="69" column="34" />
       </file>
-      <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/ndapframe-web-app/ndap_client.cpp" timestamp="1600112065765">
-        <mark key="[" line="29" column="0" />
-        <mark key="]" line="14" column="0" />
-        <mark key="." line="14" column="0" />
-        <mark key="^" line="14" column="48" />
+      <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/ndapframe-web-app/ndap_client.cpp" timestamp="1600114256090">
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="20" column="0" />
+        <mark key="." line="20" column="0" />
+        <mark key="^" line="26" column="22" />
       </file>
       <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/service-tools/twt-certificate.cpp" timestamp="1598050557108">
         <mark key="[" line="181" column="0" />
@@ -102,6 +102,7 @@
         <mark key="." line="181" column="0" />
         <mark key="^" line="197" column="14" />
       </file>
+      <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/libtwtmosquitto/src/Client.cpp" timestamp="1600114037189" />
       <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/ndapframe-web-app/CMakeLists.txt" timestamp="1600112021702">
         <mark key="[" line="12" column="0" />
         <mark key="]" line="33" column="63" />
@@ -177,7 +178,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBzdGQ6OmNlcnIgPDwgIkZhaWxlZCB0byBwdWJsaXNoICIgPDwgbXF0dF90b3BpYyA8PCAiIGVycm9yPSIgPDwgcmV0IDw8IHN0ZDo6ZW5kbDsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>/</text>
@@ -189,31 +190,31 @@
         <text encoding="base64">ICAgICAgICAgICAgZGJnLT5QcmludCgiU2VydmljZSAlcyBkaXNhcHBlYXJlZFxuIiwgc2VydmljZS5uYW1lLmNfc3RyKCkpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBzdGQ6OmNlcnIgPDwgIkZhaWxlZCB0byBwdWJsaXNoICIgPDwgbXF0dF90b3BpYyA8PCAiIGVycm9yPSIgPDwgcmV0IDw8IHN0ZDo6ZW5kbDsK</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBleGl0KC02KTsgVE9ETyAtIGRvIHdlIGV4aXQgd2l0aCBlcnJvciBoZXJlPwo=</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIH0K</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBzdGF0dXMgPSBuZGFwRnJhbWVGdXR1cmUud2FpdF9mb3Ioc3RkOjpjaHJvbm86Om1pbGxpc2Vjb25kcygxMDApKTsK</text>
+      </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgd2FpdHBpZChzZXJ2aWNlLnBpZCwgJnN0YXR1cywgV05PSEFORyk7Cg==</text>
+        <text encoding="base64">ICAgIHdoaWxlIChzdGF0dXMgIT0gc3RkOjpmdXR1cmVfc3RhdHVzOjpyZWFkeSkgewo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgV2FpdE9uQnJuUHJpdmlsZWdlZFByb2Nlc3Moc2VydmljZS5waWQsICZzdGF0dXMsIFdOT0hBTkcpIDoK</text>
+        <text encoding="base64">ICAgIHN0ZDo6ZnV0dXJlPGludD4gbmRhcEZyYW1lRnV0dXJlID0gd2FpdEZvck5kYXBGcmFtZS5nZXRfZnV0dXJlKCk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBpbnQgcmVzdWx0ID0gc2VydmljZS5wcml2aWxlZ2VkID8K</text>
+        <text encoding="base64">ICAgIHN0ZDo6ZnV0dXJlX3N0YXR1cyBzdGF0dXMgPSBzdGQ6OmZ1dHVyZV9zdGF0dXM6OmRlZmVycmVkOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB3YWl0Rm9yUmVhcFNlcnZpY2UoKnNlcnZpY2UpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgIHdhaXRGb3JOZGFwRnJhbWUuc2V0X3ZhbHVlKDEpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIChzZXJ2aWNlLT5ydW5uaW5nKQo=</text>
+        <text encoding="base64">ICAgIHN0ZDo6cHJvbWlzZTxpbnQ+IHdhaXRGb3JOZGFwRnJhbWU7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIERvIG5vdCByZXR1cm4gdW50aWwgc2VydmljZSBoYXMgYmVlbiBjbGVhbmVkIHVwCg==</text>
+        <text encoding="base64">ICAgICAgICBzdGQ6OmNlcnIgPDwgIkZhaWxlZCB0byBwdWJsaXNoICIgPDwgbXF0dF90b3BpYyA8PCAiIGVycm9yPSIgPDwgcmV0IDw8IHN0ZDo6ZW5kbDsK</text>
       </register>
     </registers>
   </component>
