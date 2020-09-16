@@ -90,12 +90,6 @@
       <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/spec" timestamp="1598562369465">
         <mark key="[" line="69" column="34" />
       </file>
-      <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/ndapframe-web-app/ndap_client.cpp" timestamp="1600114256090">
-        <mark key="[" line="20" column="0" />
-        <mark key="]" line="20" column="0" />
-        <mark key="." line="20" column="0" />
-        <mark key="^" line="26" column="22" />
-      </file>
       <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/service-tools/twt-certificate.cpp" timestamp="1598050557108">
         <mark key="[" line="181" column="0" />
         <mark key="]" line="181" column="0" />
@@ -103,10 +97,9 @@
         <mark key="^" line="197" column="14" />
       </file>
       <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/ndapframe-web-app/CMakeLists.txt" timestamp="1600212926274">
-        <mark key="[" line="33" column="71" />
-        <mark key="]" line="33" column="71" />
-        <mark key="." line="33" column="71" />
-        <mark key="^" line="14" column="84" />
+        <mark key="[" line="9" column="71" />
+        <mark key="]" line="9" column="71" />
+        <mark key="." line="9" column="71" />
       </file>
       <file name="$USER_HOME$/CLionProjects/prc-158-port/sources/twtipcd/src/twt_ipcd_qnx_twtipcd.cpp" timestamp="1597870606354">
         <mark key="'" line="177" column="88" />
