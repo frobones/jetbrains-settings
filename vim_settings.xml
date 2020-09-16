@@ -176,8 +176,8 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICBOZGFwRnJhbWUgcHJldmlvdXNfbmRhcF9mcmFtZTsK</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>/</text>
@@ -188,32 +188,32 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZGJnLT5QcmludCgiU2VydmljZSAlcyBkaXNhcHBlYXJlZFxuIiwgc2VydmljZS5uYW1lLmNfc3RyKCkpOwo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICBOZGFwRnJhbWUgcHJldmlvdXNfbmRhcF9mcmFtZTsK</text>
+      <register name="1" type="4">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICBOZGFwRnJhbWUgcHJldmlvdXNfbmRhcF9mcmFtZTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBOZGFwRnJhbWUgcHJldmlvdXNfbmRhcF9mcmFtZTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgIHN0YXRpYyBOZGFwRnJhbWUgZmlyc3RfbmRhcF9mcmFtZTsK</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgIHN0YXRpYyBOZGFwRnJhbWUgZmlyc3RfbmRhcF9mcmFtZTsK</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBzdGF0dXMgPSBuZGFwRnJhbWVGdXR1cmUud2FpdF9mb3Ioc3RkOjpjaHJvbm86Om1pbGxpc2Vjb25kcygxMDApKTsK</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHdoaWxlIChzdGF0dXMgIT0gc3RkOjpmdXR1cmVfc3RhdHVzOjpyZWFkeSkgewo=</text>
+        <text encoding="base64">ICAgICAgICBzdGF0dXMgPSBuZGFwRnJhbWVGdXR1cmUud2FpdF9mb3Ioc3RkOjpjaHJvbm86Om1pbGxpc2Vjb25kcygxMDApKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHN0ZDo6ZnV0dXJlPGludD4gbmRhcEZyYW1lRnV0dXJlID0gd2FpdEZvck5kYXBGcmFtZS5nZXRfZnV0dXJlKCk7Cg==</text>
+        <text encoding="base64">ICAgIHdoaWxlIChzdGF0dXMgIT0gc3RkOjpmdXR1cmVfc3RhdHVzOjpyZWFkeSkgewo=</text>
       </register>
     </registers>
   </component>
